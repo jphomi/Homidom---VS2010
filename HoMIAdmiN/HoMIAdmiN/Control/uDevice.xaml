@@ -1,0 +1,208 @@
+﻿<UserControl x:Class="uDevice"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Tag="DEVICE" Margin="5">
+ 
+
+    <Grid Margin="1" Visibility="Visible" Background="#636060" Opacity="0.85">
+        <Border Name="Border1" BorderBrush="Gray" BorderThickness="2" >
+            <StackPanel >
+                <Label Name="Label1" VerticalAlignment="Top" FontSize="24" FontStyle="Italic" Foreground="DarkOrange" HorizontalAlignment="Center">Composant</Label>
+                <StackPanel Orientation="Horizontal" Margin="0,10,0,0">
+                    <StackPanel Orientation="Vertical" Margin="2" HorizontalAlignment="Left">
+                    <Label Name="Label2" Foreground="White">Nom:</Label>
+                    <StackPanel Orientation="Horizontal" >
+                            <TextBox Height="22" Name="TxtNom" Width="215" Foreground="White" Background="DarkGray" BorderBrush="Black" ToolTip="Obligatoire: Nom du composant"/>
+                            <CheckBox Background="DarkGray" BorderBrush="Black" Foreground="White" Margin="5" Name="ChkEnable" IsChecked="True" ToolTip="Si non coché, le composant n'est pas utilisé dans HoMIDoM">Enable</CheckBox>
+                            <CheckBox Background="DarkGray" BorderBrush="Black" Foreground="White" Margin="5" Name="ChKSolo" IsChecked="True" ToolTip="Utiliser dans certains drivers pour permettre de mettre à jour plusieurs composants d'un seul coup si décoché.">Solo</CheckBox>
+                            <CheckBox  Background="DarkGray" BorderBrush="Black" Foreground="White" Margin="5" Name="ChKLastEtat" IsChecked="False" ToolTip="Ne pas prendre en compte la valeur si egale à l'avant derniere">Dernier Etat</CheckBox>
+                            <CheckBox  Background="DarkGray" BorderBrush="Black" Foreground="White" Margin="5" Name="ChKAllValue" IsChecked="False" ToolTip="Prendre en compte tous les changements d'état du composant">Toutes les Valeurs</CheckBox>
+                            <StackPanel Name="StkUnit" Orientation="Horizontal" >
+                                <Label Name="LblUnit" Content="Unité:"  Foreground="White"/>
+                                <TextBox Text="" Name="TxtUnit" Width="40" Height="22" Foreground="White" Background="DarkGray" BorderBrush="Black" ToolTip="Unité du composant (ex: °C, km/h, Watt..)"/>
+                            </StackPanel>
+                            <StackPanel Name="StkPuiss" Orientation="Horizontal" >
+                                <Label Name="LblPuiss" Content="Puissance:"  Foreground="White"/>
+                                <TextBox Name="TxtPuissance" Width="40" Height="22" Foreground="White" Background="DarkGray" BorderBrush="Black" ToolTip="Puissance du composant en Watt(ex: 10)">0</TextBox>
+                            </StackPanel>
+                        </StackPanel>
+                    <Label Foreground="White" Name="LabelDescription">Description:</Label>
+                        <TextBox Background="DarkGray" BorderBrush="Black" Foreground="White" Name="TxtDescript" Height="22" VerticalAlignment="Top" HorizontalAlignment="Left" Width="440" />
+                    <StackPanel Orientation="Horizontal" >
+                            <StackPanel Name="StkDriver">
+                                <Label Foreground="White" Name="LabelDriver"  Width="215">Driver:</Label>
+                                <ComboBox Width="215" Name="CbDriver" Background="DarkGray" BorderBrush="Black" Foreground="White" BorderThickness="2" Height="25" ToolTip="Liste des drivers actifs"/>
+                            </StackPanel>
+                            
+                            <StackPanel Name="StkType" Margin="10,0,0,0">
+                                <Label Foreground="White" Name="LabelType">Type:</Label>
+                                <ComboBox HorizontalAlignment="Left" Name="CbType" Width="215" Background="DarkGray" BorderBrush="Black" Foreground="White" BorderThickness="2" Height="25" IsReadOnly="True" ToolTip="IMPORTANT : Le type défini le type de valeur qu'il pourra stocker et les actions possibles."/>
+                            </StackPanel>
+                        </StackPanel>
+                    <StackPanel Orientation="Horizontal" >
+                            <StackPanel Name="StkAdr1">
+                                <Label Foreground="White" Name="LabelAdresse1" Width="215" >Adresse1:</Label>
+                                <TextBox Background="DarkGray" BorderBrush="Black" Foreground="White" HorizontalAlignment="Left" Name="TxtAdresse1" Width="215" Height="21.978" />
+                                <Button Name="BtnLearn1" Content="Apprendre" Foreground=" White" Template="{DynamicResource GlassButton}" Width="65" HorizontalAlignment=" Left" Height="25" Visibility="Visible" />
+                                <ComboBox Background="DarkGray" BorderBrush="Black" Foreground="White" BorderThickness="2" HorizontalAlignment=" Left" Name="CbAdresse1" Width="215" Height="25" Visibility="Collapsed" IsEditable="True" />
+                            </StackPanel>
+                            <StackPanel Name="StkAdr2" Margin="10,0,0,0">
+                                <Label Foreground="White" Name="LabelAdresse2" >Adresse2:</Label>
+                                <TextBox Background="DarkGray" BorderBrush="Black" Foreground="White" Name="TxtAdresse2" Height="21.978" Width="215" />
+                                <Button Name="BtnLearn2" Content="Apprendre" Foreground=" White" Template="{DynamicResource GlassButton}" Width="65" HorizontalAlignment=" Left" Height="25" Visibility="Visible" />
+                            </StackPanel>
+                        </StackPanel>
+                    <StackPanel Orientation="Horizontal" >
+                            <StackPanel Margin="0,0,10,0" Name="StkModel">
+                                <Label Foreground="White" Name="LabelModele" HorizontalAlignment="Left" Visibility="Collapsed">Modele:</Label>
+                                <TextBox Background="DarkGray" BorderBrush="Black" Foreground="White" HorizontalAlignment="Left" Name="TxtModele" Height="22" Width="215" Tag="1" Visibility="Collapsed" />
+                                <StackPanel Orientation="Horizontal" >
+                                    <ComboBox  Background="DarkGray" BorderBrush="Black" Foreground="White" Width="215" Name="CBModele" BorderThickness="2" Height="25" IsEditable="False" Tag="0" Visibility="Collapsed" HorizontalAlignment="Left" />
+                                    <Image Name="ImgEditTemplate" Height="25" Width="25" Visibility="Collapsed" Source="/HoMIAdmiN;component/Images/Modifier_32.png" />
+                                </StackPanel>
+                            </StackPanel>
+                            <StackPanel Margin="0,0,10,0" Name="StkRefresh">
+                                <Label Foreground="White" Name="LabelRefresh" HorizontalAlignment="Left">Refresh (sec):</Label>
+                                <TextBox Background="DarkGray" BorderBrush="Black" Foreground="White" Height="22" Width="70" Name="TxtRefresh" ToolTip="Permet d'aller interroger à intervalles régulier le composant (en sec)" HorizontalAlignment="Left">0</TextBox>
+                            </StackPanel>
+                            <StackPanel Margin="0,0,10,0" Name="StkLastChange">
+                                <Label Foreground="White" Name="LabelLastChangeDuree" HorizontalAlignment="Left">LastChange Duree:</Label>
+                                <TextBox Background="DarkGray" BorderBrush="Black" Foreground="White" Name="TxtLastChangeDuree" Height="22" Width="70" ToolTip="Permet de mettre en erreur le composant si sa valeur n'a pas été modifié depuis x minutes" HorizontalAlignment="Left">0</TextBox>
+                            </StackPanel>
+                    </StackPanel>
+                    <StackPanel Orientation="Horizontal" Name="StkValueMINMAX">
+                            <StackPanel Name="StkValueMin">
+                                <Label Foreground="White" Name="LabelValueMin" Width="215">Value Min:</Label>
+                                <TextBox Background="DarkGray" BorderBrush="Black" Foreground="White" Height="22" HorizontalAlignment="Left" Name="TxtValueMin" Width="215">-99999</TextBox>
+                            </StackPanel>
+                            <StackPanel Name="StkValueMax" Margin="10,0,0,0">
+                                <Label Foreground="White" Name="LabelValueMax">Value Max:</Label>
+                                <TextBox Background="DarkGray" BorderBrush="Black" Foreground="White" Height="22" Name="TxtValueMax" Width="215">99999</TextBox>
+                            </StackPanel>
+                    </StackPanel>
+                    <StackPanel Orientation="Horizontal"  Name="StkValueDefaultPrecision">
+                            <StackPanel Name="StkValueDef">
+                                <Label Foreground="White" Name="LabelValDef" Width="215" >Value Default:</Label>
+                                <TextBox Background="DarkGray" BorderBrush="Black" Foreground="White" Height="22" HorizontalAlignment="Left" Name="TxtValDef" Width="215" Text="0" />
+                            </StackPanel>
+                            <StackPanel Name="StkPrecision" Margin="10,0,0,0">
+                                <Label Foreground="White" Name="LabelPrecision">Precision:</Label>
+                                <TextBox Width="215" Background="DarkGray" BorderBrush="Black" Foreground="White" Name="TxtPrecision" Height="22" Text="0" />
+                            </StackPanel>
+                    </StackPanel>
+                    <StackPanel Orientation="Horizontal" Name="StkValueCorrectionFormatage">
+                            <StackPanel Name="StkCorrection">
+                                <Label Foreground="White" Name="LabelCorrection" Width="215">Correction:</Label>
+                                <TextBox Width="215" Background="DarkGray" BorderBrush="Black" Foreground="White" Name="TxtCorrection" Height="22" ToolTip="Permet de corriger la valeur récupéré (-10 ou +3.5) et il est possible d'utiliser '&lt;composantxnom&gt;*3.5'">0</TextBox>
+                            </StackPanel>
+                            <StackPanel Name="StkFormatage" Margin="10,0,0,0">
+                                <Label Foreground="White" Name="LabelFormatage" Width="76" HorizontalAlignment="Left">Formatage:</Label>
+                                <TextBox Background="DarkGray" BorderBrush="Black" Foreground="White" Height="22" Name="TxtFormatage" HorizontalAlignment="Left" Width="214.5" />
+                            </StackPanel>
+                    </StackPanel>
+                        <StackPanel Orientation="Horizontal" Name="StkRGBW">
+                            <StackPanel Name="StkRGBW_red">
+                                <Label Foreground="White" Name="LabelRouge" Width="50">Rouge:</Label>
+                                <TextBox Background="DarkGray" BorderBrush="Black" Foreground="White" Height="22" HorizontalAlignment="Left" Name="TxtRGBWred" Width="50" ToolTip="Composante RGBW Rouge de 0 à 255">0</TextBox>
+                            </StackPanel>
+                            <StackPanel Name="StkRGBW_green" Margin="10,0,0,0">
+                                <Label Foreground="White" Name="LabelVert" Width="50">Vert:</Label>
+                                <TextBox Background="DarkGray" BorderBrush="Black" Foreground="White" Height="22" HorizontalAlignment="Left" Name="TxtRGBWgreen" Width="50" ToolTip="Composante RGBW Vert de 0 à 255">0</TextBox>
+                            </StackPanel>
+                            <StackPanel Name="StkRGBW_blue" Margin="10,0,0,0">
+                                <Label Foreground="White" Name="Labelblue" Width="50">Bleu:</Label>
+                                <TextBox Background="DarkGray" BorderBrush="Black" Foreground="White" Height="22" HorizontalAlignment="Left" Name="TxtRGBWblue" Width="50" ToolTip="Composante RGBW Bleu de 0 à 255">0</TextBox>
+                            </StackPanel>
+                            <StackPanel Name="StkRGBW_white" Margin="10,0,0,0">
+                                <Label Foreground="White" Name="LabelWhite" Width="50">Blanc:</Label>
+                                <TextBox Background="DarkGray" BorderBrush="Black" Foreground="White" Height="22" HorizontalAlignment="Left" Name="TxtRGBWwhite" Width="50" ToolTip="Composante RGBW Blanche de 0 à 255">0</TextBox>
+                            </StackPanel>
+                            <StackPanel Name="StkRGBW_temperature" Margin="10,0,0,0">
+                                <Label Foreground="White" Name="LabelTemperature" Width="50">Temp:</Label>
+                                <TextBox Background="DarkGray" BorderBrush="Black" Foreground="White" Height="22" HorizontalAlignment="Left" Name="TxtRGBWtemperature" Width="50" ToolTip="temperature de la couleur de type entier">0</TextBox>
+                            </StackPanel>
+                            <StackPanel Name="StkRGBW_speed" Margin="10,0,0,0">
+                                <Label Foreground="White" Name="LabelSpeed" Width="50">Vitesse:</Label>
+                                <TextBox Background="DarkGray" BorderBrush="Black" Foreground="White" Height="22" HorizontalAlignment="Left" Name="TxtRGBWspeed" Width="50" ToolTip="Vitesse de changement d'etat de la lampe 0-100">0</TextBox>
+                            </StackPanel>
+                            <StackPanel Name="StkRGBW_optionnal" Margin="10,0,0,0">
+                                <Label Foreground="White" Name="LabelOptionnal" Width="50">Option:</Label>
+                                <TextBox Background="DarkGray" BorderBrush="Black" Foreground="White" Height="22" HorizontalAlignment="Left" Name="TxtRGBWoptionnal" Width="50" ToolTip="Optionnel de type string"></TextBox>
+                            </StackPanel>
+                        </StackPanel>
+                        <StackPanel Name="StackPanel1" Orientation="Horizontal" Height="39">
+                            <CheckBox Background="DarkGray" BorderBrush="Black" Content="Historisation" Foreground="White" IsChecked="True" Name="ChkHisto" ToolTip="Si non coché, le composant n'est pas utilisé dans HoMIDoM" VerticalContentAlignment="Center" Height="16" />
+                            <StackPanel Name="StackPanel2"></StackPanel>
+                            <StackPanel Margin="10,0,0,0" Name="StackPanel3"></StackPanel>
+                            <Label Content="Refresh historisation (sec):" Foreground="White" Name="Label5" VerticalContentAlignment="Center" />
+                            <TextBox Background="DarkGray" BorderBrush="Black" Foreground="White" Height="22" Name="TxtRefreshHisto" Text="0" ToolTip="Composante RGBW Vert de 0 à 255" Width="50" />
+                            <Label Content="Temps avant purge (jour):" Foreground="White" Name="Label3" VerticalContentAlignment="Center" />
+                            <TextBox Background="DarkGray" BorderBrush="Black" Foreground="White" Height="22" Name="TxtPurge" Text="0" ToolTip="Composante RGBW Rouge de 0 à 255" Width="50" />
+                            <StackPanel Margin="10,0,0,0" Name="StackPanel4"></StackPanel>
+                            <StackPanel Margin="10,0,0,0" Name="StackPanel5"></StackPanel>
+                            <StackPanel Margin="10,0,0,0" Name="StackPanel6"></StackPanel>
+                            <StackPanel Margin="10,0,0,0" Name="StackPanel7"></StackPanel>
+                            <StackPanel Margin="10,0,0,0" Name="StackPanel8"></StackPanel>
+                        </StackPanel>
+                        <StackPanel Orientation="Horizontal" >
+                             <StackPanel HorizontalAlignment="Left" Margin="0,7,0,0">
+                                <Label Content="Zones:" Foreground="White" />
+                                <Label Content="Visible" Foreground="White" FontSize="10" HorizontalContentAlignment="Right" />
+                                <ListBox Background="DarkGray" BorderBrush="Black" Foreground="White" Name="ListZone" Margin="5" Padding="2" Width="250" Height="120" ToolTip="Liste des zones pour lesquels le composant y est associé" />
+                                <StackPanel.Background>
+                                    <LinearGradientBrush EndPoint="1,0.5" StartPoint="0,0.5">
+                                        <GradientStop Color="#35000000" Offset="0.576" />
+                                        <GradientStop Color="Gray" Offset="1" />
+                                        <GradientStop Color="#9A7F7F7F" Offset="0.788" />
+                                    </LinearGradientBrush>
+                                </StackPanel.Background>
+                            </StackPanel>
+
+                            <StackPanel HorizontalAlignment="Left" Margin="5,7,0,0">
+                                <StackPanel.Background>
+                                    <LinearGradientBrush EndPoint="1,0.5" StartPoint="0,0.5">
+                                        <GradientStop Color="#35000000" Offset="0.576" />
+                                        <GradientStop Color="Gray" Offset="1" />
+                                        <GradientStop Color="#9A7F7F7F" Offset="0.788" />
+                                    </LinearGradientBrush>
+                                </StackPanel.Background>
+
+                                <Label Content="Variables:" Foreground="White" ToolTip="Ajouter des variables propres au composant et utilisables dans les macros"/>
+                                <StackPanel Orientation="Horizontal" >
+                                    <ComboBox Name="CbVariables" Width="200" IsReadOnly="True" Background="DarkGray" BorderBrush="Black" Foreground="White" BorderThickness="2" Height="25" />
+                                    <Image Name="BtnNewVar" Width="25" Height="25" Margin="5,0,0,0" Source="/HoMIAdmiN;component/Images/ajouter_32.png" ToolTip="Nouvelle variable" />
+                                    <Image Name="BtnDelVar" Width="25" Height="25" Margin="5,0,0,0" Source="/HoMIAdmiN;component/Images/Supprimer_32.png" ToolTip="Supprimer" />
+                                    <Image Name="BtnApplyVar" Width="25" Height="25" Margin="5,0,0,0" Source="/HoMIAdmiN;component/Images/Refresh_32.png" ToolTip="Appliquer" Visibility="Collapsed" />
+
+                                </StackPanel>
+                                <StackPanel Name="StkVar" Visibility="Collapsed" >  
+                                    <Label Content="Name:" Foreground="White" Visibility="Visible" />
+                                    <TextBox Name="TxtVarName" />
+                                    <Label Content="Valeur:" Foreground="White" Visibility="Visible" />
+                                    <TextBox Name="TxtVarValue" />
+                                </StackPanel>
+                            </StackPanel>
+                        </StackPanel>
+                        <StackPanel Orientation="Horizontal" Name="StkID">
+                            <Label Content="ID:" Foreground="LightGray" FontSize="10" />
+                            <TextBox Name="TxtID" MinWidth="300" FontSize="10" IsReadOnly="True" Foreground="White" Background="Transparent" BorderThickness="0" />
+                        </StackPanel>
+                    </StackPanel>
+                    <StackPanel Margin="5" VerticalAlignment="top" HorizontalAlignment="right" Height="200">
+                        <Button Margin="2" Template="{DynamicResource GlassButton}" Name="BtnOK" Width="88.75" Foreground="White" ToolTip="Sauvegarder et Fermer la fenêtre"><TextBlock TextWrapping="Wrap" TextAlignment="center">Sauvegarder Fermer</TextBlock> </Button>
+                        <Button Margin="2" Height="25" Name="BtnClose" Template="{DynamicResource GlassButton}" Width="88.75" Foreground="White" ToolTip="Fermer la fenêtre sans sauvegarder">Annuler</Button>
+                        <Button Margin="2" Height="25" Template="{DynamicResource GlassButton}" Name="BtnSave" Width="88.75" Foreground="White" ToolTip="Sauvegarder sans fermer la fenêtre">Sauvegarder</Button>
+                        <Button Margin="2" Foreground="White" Height="25" Name="BtnTest" Template="{DynamicResource GlassButton}" Width="88.75" Visibility="Collapsed">Tester</Button>
+                        <Button Margin="2" Foreground="White" Height="25" Name="BtnEditTel" Template="{DynamicResource GlassButton}" Width="88.75" Visibility="Collapsed">Edit</Button>
+                        <Button Margin="2" Foreground="White" Height="25" Name="BtnHisto" Template="{DynamicResource GlassButton}" Width="88.75" Visibility="Collapsed" ToolTip="Consulter l'histortique du composant">Historique</Button>
+                    </StackPanel>
+
+                </StackPanel>
+            </StackPanel>
+        </Border>
+        <Image Height="60" HorizontalAlignment="Left" Margin="17,-1,0,0" Name="ImgDevice" Stretch="Fill" VerticalAlignment="Top" Width="60" Source="/HoMIAdmiN;component/Images/Composant_128.png">
+            <Image.LayoutTransform >
+                <RotateTransform CenterX="0" CenterY="0" Angle="-10" />
+            </Image.LayoutTransform>
+        </Image>
+    </Grid>
+</UserControl>

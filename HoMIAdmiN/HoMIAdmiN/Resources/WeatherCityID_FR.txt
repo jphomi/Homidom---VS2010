@@ -1,0 +1,6356 @@
+XXXX0000;-------- FRANCE ---------
+FRXX1438;Abancourt
+FRXX0111;Abbeville
+FRXX1570;Ablon-sur-Seine
+FRXX5930;Abondant
+FRXX4851;Abscon
+FRXX1220;Achen
+FRXX5834;Achenheim
+FRXX5109;Acheres
+FRXX3754;Acheres-la-Foret
+FRXX1618;Acigne
+FRXX1542;Aeroport D'Orly
+FRXX4397;Agde
+FRXX0135;Agen
+FRXX2840;Agon-Coutainville
+FRXX3723;Aibes
+FRXX6269;Aigues-Vives
+FRXX2409;Aiguilles
+FRXX7004;Ailly-sur-Somme
+FRXX1137;Aimargues
+FRXX0328;Aire-sur-l'Adour
+FRXX0001;Aix-en-Provence
+FRXX0129;Ajaccio
+FRXX0002;Albi
+FRXX4998;Albias
+FRXX0440;Albiez Montrond
+FRXX5217;Albiosc
+FRXX0207;Alencon
+FRXX0427;Ales
+FRXX2266;Alexain
+FRXX3052;Alfortville
+FRXX1222;Algrange
+FRXX1123;Alleins
+FRXX5858;Allennes-les-Marais
+FRXX4206;Allonnes
+FRXX1013;Allos
+FRXX4417;Allouagne
+FRXX2655;Alsting
+FRXX2896;Amanvillers
+FRXX2836;Ambes
+FRXX3382;Ambierle
+FRXX4205;Ambleteuse
+FRXX0349;Amboise
+FRXX2133;Amfreville-la-Mi-Voie
+FRXX0269;Amiens
+FRXX4148;Ammerschwihr
+FRXX1950;Amneville
+FRXX6432;Ampus
+FRXX0453;Ancelle
+FRXX0305;Ancenis
+FRXX0216;Ancette
+FRXX0323;Andernos-les-Bains
+FRXX1617;Andresy
+FRXX0137;Angers
+FRXX5958;Angerville
+FRXX6590;Angles
+FRXX5606;Anglet
+FRXX0314;Angouleme
+FRXX1092;Angoulins-sur-Mer
+FRXX6582;Angres
+FRXX0360;Annecy
+FRXX4327;Annecy-le-Vieux
+FRXX0003;Annemasse
+FRXX4359;Annoeullin
+FRXX0409;Annonay
+FRXX6307;Anor
+FRXX0004;Antibes
+FRXX0294;Antony
+FRXX1347;Anzin
+FRXX6703;Appoigny
+FRXX0428;Apt
+FRXX1384;Arbeost
+FRXX3648;Arcachon
+FRXX6174;Arc-et-Senans
+FRXX1553;Arches
+FRXX6766;Arcueil
+FRXX0463;Areches Beaufort
+FRXX3722;Ares
+FRXX5717;Argeles Plage
+FRXX0368;Argentan
+FRXX0282;Argenteuil
+FRXX0464;Argentiere
+FRXX0005;Arnage
+FRXX4972;Arques
+FRXX2194;Arradon
+FRXX0543;Arreau
+FRXX1510;Arrest
+FRXX6222;Arvert
+FRXX0544;Arvieux
+FRXX2925;Arvillers
+FRXX2652;Arzviller
+FRXX4829;Asco
+FRXX0288;Asnieres-sur-Seine
+FRXX3900;Aspremont
+FRXX6720;Athis-Mons
+FRXX0006;Aubagne
+FRXX5945;Auberchicourt
+FRXX0007;Aubervilliers
+FRXX3790;Aubignan
+FRXX4542;Aubigne-Racan
+FRXX0399;Aubigney-sur-Nere
+FRXX4246;Auby
+FRXX0138;Auch
+FRXX4289;Audenge
+FRXX6560;Augny
+FRXX0285;Aulnay-sous-Bois
+FRXX5319;Aulnay-sur-Mauldre
+FRXX4899;Aurec-sur-Loire
+FRXX3277;Aureille
+FRXX3160;Auribeau-sur-Siagne
+FRXX0139;Aurillac
+FRXX1802;Auriol
+FRXX0545;Auris En Oisans
+FRXX0541;Auron Saint Etienne de Tinee
+FRXX3927;Aurons
+FRXX0509;Aussois
+FRXX0529;Autrans
+FRXX6095;Auvers-sur-Oise
+FRXX0008;Auxerre
+FRXX0396;Avallon
+FRXX5053;Avesnes-les-Aubert
+FRXX1444;Avesnes-le-Sec
+FRXX0270;Avignon
+FRXX4969;Avion
+FRXX6213;Avord
+FRXX0466;Avoriaz
+FRXX5387;Avrille
+FRXX0436;Ax-les-Thermes
+FRXX0009;Aytre
+FRXX1053;Badevel
+FRXX4317;Bages
+FRXX2216;Bagneux
+FRXX4605;Bagnolet
+FRXX7701;Bagnols-sur-Ceze
+FRXX5316;Baho
+FRXX4297;Bailleul-sur-Therain
+FRXX3560;Bailly
+FRXX2782;Baixas
+FRXX3306;Balaruc-les-Bains
+FRXX3054;Ballancourt-sur-Essonne
+FRXX1521;Balmont
+FRXX5732;Bandol
+FRXX2787;Banyuls de la Marenda
+FRXX2315;Barbatre
+FRXX6195;Barbentane
+FRXX0217;Bareges
+FRXX0203;Bar-le-Duc
+FRXX2941;Bassens
+FRXX7705;Basse-Terre
+FRXX5474;Bastelica
+FRXX3240;Bastelicaccia
+FRXX0130;Bastia
+FRXX5104;Batilly
+FRXX6485;Batz-sur-Mer
+FRXX4854;Bauvin
+FRXX0010;Bayeux
+FRXX1891;Bayonne
+FRXX0324;Bazas
+FRXX1383;Bazet
+FRXX5378;Beauchamp
+FRXX5207;Beauchamps
+FRXX5695;Beaulieu-sur-Loire
+FRXX3153;Beaulieu-sur-Mer
+FRXX0335;Beaumont
+FRXX0392;Beaune
+FRXX3738;Beaune-les-Mines
+FRXX3450;Beauregard-l'Eveque
+FRXX2246;Beausoleil
+FRXX0011;Beauvais
+FRXX5913;Beauval
+FRXX3124;Beauville
+FRXX2936;Beauvilliers
+FRXX7704;Beauvoir-sur-Mer
+FRXX5944;Beauvois-en-Cambresis
+FRXX6267;Beauvoisin
+FRXX3494;Beauzac
+FRXX3566;Beblenheim
+FRXX3781;Bedarrides
+FRXX5183;Begles
+FRXX0012;Belfort
+FRXX1771;Bellegarde
+FRXX3661;Belleville
+FRXX1594;Belleville-sur-Meuse
+FRXX0414;Belley
+FRXX2220;Bennwihr Gare
+FRXX0140;Bergerac
+FRXX6344;Bergheim
+FRXX0386;Bernay
+FRXX5463;Bernieres-sur-Mer
+FRXX2501;Bernouville
+FRXX3995;Berre-l'Etang
+FRXX6308;Bersee
+FRXX4484;Berteaucourt-les-Dames
+FRXX0141;Besancon
+FRXX1146;Bessan
+FRXX4563;Bessancourt
+FRXX0477;Bessans
+FRXX5031;Besse-sur-Issole
+FRXX5021;Bessieres
+FRXX3070;Betheny
+FRXX7001;Bethisy-Saint-Pierre
+FRXX6563;Betschdorf
+FRXX3704;Bettant
+FRXX2834;Betton
+FRXX4577;Beuvrages
+FRXX4166;Beuvry
+FRXX0013;Beziers
+FRXX4555;Bezons
+FRXX0125;Biarritz
+FRXX1601;Bickenholtz
+FRXX4511;Bievres
+FRXX6281;Biguglia
+FRXX2683;Bihorel
+FRXX1275;Billy-Montigny
+FRXX1096;Binic
+FRXX2413;Biot
+FRXX2323;Biscarrosse
+FRXX0132;Biscay
+FRXX3644;Bischoffsheim
+FRXX2619;Bitschwiller-les-Thann
+FRXX5795;Blaesheim
+FRXX1531;Blainville-sur-Orne
+FRXX1833;Blancafort
+FRXX2761;Blanzat
+FRXX4174;Blanzy
+FRXX5900;Blaye
+FRXX4543;Bleves
+FRXX5844;Blienschwiller
+FRXX0014;Blois
+FRXX4003;Blonville-sur-Mer
+FRXX0015;Bobigny
+FRXX1073;Bocognano
+FRXX2372;Boe
+FRXX5962;Boeschepe
+FRXX2493;Bogny-sur-Meuse
+FRXX0218;Bois des Seignus
+FRXX6659;Bois-Colombes
+FRXX3577;Bois-d'Arcy
+FRXX3625;Bois-Grenier
+FRXX4516;Boissy-le-Sec
+FRXX2994;Boissy-Saint-Leger
+FRXX5333;Boissy-sous-Saint-Yon
+FRXX1609;Bollene
+FRXX2616;Bollwiller
+FRXX2783;Bompas
+FRXX1666;Bonchamp-les-Laval
+FRXX5985;Bondoufle
+FRXX1334;Bondues
+FRXX5974;Bondy
+FRXX5417;Bonifacio
+FRXX4341;Bonnelles
+FRXX3756;Bonneuil-sur-Marne
+FRXX0219;Bonneval-sur-Arc
+FRXX1323;Boran-sur-Oise
+FRXX0016;Bordeaux
+FRXX5734;Bormes-les-Mimosas
+FRXX1339;Bouaye
+FRXX1171;Boucau
+FRXX4736;Bouc-Bel-Air
+FRXX5383;Bouchemaine
+FRXX1647;Bouesse
+FRXX5954;Bougainville
+FRXX4360;Bougival
+FRXX5585;Boujan-sur-Libron
+FRXX5233;Boulancourt
+FRXX4401;Boulange
+FRXX2168;Bouligny
+FRXX0271;Boulogne
+FRXX0281;Boulogne-Billancourt
+FRXX1150;Boulzicourt
+FRXX2963;Bouray-sur-Juine
+FRXX0405;Bourbon-Lancy
+FRXX0393;Bourbonne-les-Bains
+FRXX2463;Bourcefranc-le-Chapus
+FRXX5705;Bouret-sur-Canche
+FRXX0017;Bourg-en-Bresse
+FRXX0018;Bourges
+FRXX6826;Bourg-la-Reine
+FRXX2558;Bourg-les-Valence
+FRXX0391;Bourgoin
+FRXX0142;Bourg-Saint-Maurice
+FRXX1922;Bourron-Marlotte
+FRXX2227;Bousbecque
+FRXX4104;Bousies
+FRXX2948;Boussois
+FRXX1538;Bouvaincourt-sur-Bresle
+FRXX3432;Bouvigny-Boyeffles
+FRXX6689;Bouville
+FRXX6080;Bouxieres-aux-Dames
+FRXX1029;Brando
+FRXX5731;Bras
+FRXX4710;Brazey-en-Plaine
+FRXX2853;Brebieres
+FRXX2329;Brem-sur-Mer
+FRXX2210;Brenod
+FRXX1296;Bressols
+FRXX0019;Brest
+FRXX3233;Bretteville-sur-Odon
+FRXX5773;Breuil-le-Sec
+FRXX2513;Breuillet
+FRXX3793;Breuschwickersheim
+FRXX0143;Briancon
+FRXX0213;Brides-les-Bains
+FRXX4737;Brie
+FRXX1915;Brinckheim
+FRXX5307;Brindas
+FRXX0406;Brioude
+FRXX0144;Brive
+FRXX4763;Brive-la-Gaillarde
+FRXX6388;Bron
+FRXX2613;Bronvaux
+FRXX1910;Brouderdorff
+FRXX4588;Brouilla
+FRXX1897;Brou-sur-Chantereine
+FRXX0372;Bruay-en-Artois
+FRXX5167;Bruay-sur-l'Escaut
+FRXX3037;Brue-Auriac
+FRXX2069;Bruges
+FRXX3882;Brugheas
+FRXX5243;Brunoy
+FRXX3562;Brunstatt
+FRXX2243;Bruyeres-le-Chatel
+FRXX3761;Bruyeres-sur-Oise
+FRXX5330;Bry-sur-Marne
+FRXX4361;Buc
+FRXX5269;Buffieres
+FRXX6114;Buironfosse
+FRXX6585;Burbure
+FRXX1345;Busigny
+FRXX4528;Bussang
+FRXX5871;Buxerolles
+FRXX1076;Cabannes
+FRXX6495;Cabestany
+FRXX1567;Cachan
+FRXX3022;Caderousse
+FRXX4799;Cadolive
+FRXX0020;Caen
+FRXX0021;Cagnes-sur-Mer
+FRXX3231;Cagny
+FRXX0022;Cahors
+FRXX3957;Caissargues
+FRXX0272;Calais
+FRXX6206;Calcatoggio
+FRXX5687;Caluire-et-Cuire
+FRXX1128;Calvisson
+FRXX5708;Camblain-Chatelain
+FRXX0145;Cambrai
+FRXX6758;Cancale
+FRXX2207;Candas
+FRXX7703;Canet-en-Roussillon
+FRXX0023;Cannes
+FRXX4230;Canohes
+FRXX0127;Cap Cepet
+FRXX2881;Capbreton
+FRXX2229;Cappelle-la-Grande
+FRXX0461;Capvern les Bains
+FRXX3946;Carantec
+FRXX0024;Carbon-Blanc
+FRXX5078;Carcans
+FRXX0025;Carcassonne
+FRXX5476;Cargese
+FRXX4008;Cargiaca
+FRXX4852;Carnieres
+FRXX2740;Carnoules
+FRXX5480;Carnoux-en-Provence
+FRXX1113;Caroual
+FRXX0146;Carpentras
+FRXX3999;Carpiquet
+FRXX0026;Carquefou
+FRXX5755;Carqueiranne
+FRXX5801;Carrieres-sur-Seine
+FRXX4970;Carvin
+FRXX2469;Cassis
+FRXX5185;Castelginest
+FRXX0319;Casteljaloux
+FRXX0365;Castellane
+FRXX0330;Castelnaudary
+FRXX4333;Castelnau-d'Auzan
+FRXX0027;Castelnau-de-Medoc
+FRXX3613;Castelnau-le-Lez
+FRXX3860;Castelnau-sur-Gupie
+FRXX0331;Castres
+FRXX3782;Caudan
+FRXX4586;Caumont-sur-Durance
+FRXX0220;Cauterets
+FRXX1878;Caux
+FRXX2018;Cavalaire-sur-Mer
+FRXX5562;Caveirac
+FRXX1505;Cayeux-sur-Mer
+FRXX1989;Cebazat
+FRXX2068;Cenon
+FRXX2401;Cereste
+FRXX0297;Cergy
+FRXX4313;Cervera de la Marenda
+FRXX4600;Cesson-Sevigne
+FRXX6666;Cestas
+FRXX4536;Cezy
+FRXX6071;Chailland
+FRXX5508;Chaillevette
+FRXX2289;Chailley
+FRXX0554;Chaillol
+FRXX1537;Chailly-en-Biere
+FRXX0415;Chalindrey
+FRXX0307;Challans
+FRXX2362;Chalons-en-Champagne
+FRXX0394;Chalons-sur-Marne
+FRXX0418;Chalon-sur-Saone
+FRXX2656;Chamalieres
+FRXX0147;Chambery
+FRXX5767;Chambly
+FRXX1402;Chambourcy
+FRXX6757;Chambray-les-Tours
+FRXX0212;Chamonix
+FRXX4930;Champagne
+FRXX6542;Champagne-au-Mont-d'Or
+FRXX3000;Champagne-sur-Oise
+FRXX4893;Champagne-sur-Seine
+FRXX0522;Champagny-en-Vanoise
+FRXX4487;Champdor
+FRXX6082;Champigneulles
+FRXX7500;Champigny
+FRXX0290;Champigny-sur-Marne
+FRXX1919;Champs-sur-Marne
+FRXX3764;Champ-sur-Layon
+FRXX6119;Champtercier
+FRXX0530;Chamrousse
+FRXX2438;Chancelade
+FRXX7010;Change
+FRXX7005;Chaniers
+FRXX6298;Chantepie
+FRXX0028;Chantilly
+FRXX4441;Chantome
+FRXX0313;Chantonnay
+FRXX5154;Chaponost
+FRXX5686;Charbonnieres-les-Bains
+FRXX1566;Charenton-le-Pont
+FRXX1790;Charleval
+FRXX0205;Charleville-Mezieres
+FRXX4925;Charnay-les-Macon
+FRXX0029;Chartres
+FRXX4156;Chartrettes
+FRXX5032;Chasse-sur-Rhone
+FRXX5726;Chassieu
+FRXX0118;Chassiron
+FRXX0309;Chateaubriant
+FRXX2328;Chateau-d'Olonne
+FRXX0385;Chateau-du-Loir
+FRXX3526;Chateaugay
+FRXX1608;Chateauneuf-de-Gadagne
+FRXX5295;Chateauneuf-du-Pape
+FRXX1725;Chateauneuf-Grasse
+FRXX5279;Chateauneuf-sur-Sarthe
+FRXX6198;Chateaurenard
+FRXX0351;Chateau-Renault
+FRXX0030;Chateauroux
+FRXX5402;Chateauroux-les-Alpes
+FRXX0468;Chatel
+FRXX0031;Chatelaillon
+FRXX1265;Chatelguyon
+FRXX0384;Chatellerault
+FRXX4494;Chatenay-Malabry
+FRXX5984;Chatenois-les-Forges
+FRXX4347;Chatenoy-le-Royal
+FRXX4495;Chatillon
+FRXX3751;Chatillon-sur-Colmont
+FRXX0348;Chatillon-sur-Indre
+FRXX0387;Chatillon-sur-Seine
+FRXX6538;Chatou
+FRXX6436;Chaudeyrolles
+FRXX6296;Chaumere
+FRXX0416;Chaumont
+FRXX6061;Chaunay
+FRXX3774;Chauray
+FRXX1263;Chauriat
+FRXX5987;Chaussy
+FRXX6004;Chaux
+FRXX1052;Chaux-Neuve
+FRXX1365;Chavanod
+FRXX1519;Chaville
+FRXX0221;Chedde
+FRXX5631;Chelles
+FRXX1569;Chennevieres-sur-Marne
+FRXX4705;Chenove
+FRXX0032;Cherbourg
+FRXX1458;Cherbourg-Octeville
+FRXX3753;Cherizet
+FRXX6728;Cheroy
+FRXX4585;Cheval-Blanc
+FRXX3813;Chevilly-Larue
+FRXX2813;Chevreuse
+FRXX6765;Chiche
+FRXX2957;Chilly-Mazarin
+FRXX6741;Chiroubles
+FRXX2721;Chiry-Ourscamp
+FRXX5747;Choisy-au-Bac
+FRXX3747;Choisy-le-Roi
+FRXX0033;Cholet
+FRXX0526;Chorges
+FRXX6496;Claira
+FRXX1624;Claix
+FRXX3712;Clamart
+FRXX2928;Clavy-Warby
+FRXX1875;Cleder
+FRXX0120;Clermont-Ferrand
+FRXX2214;Clichy
+FRXX6711;Clichy-sous-Bois
+FRXX0306;Clisson
+FRXX0222;Clot Meyran
+FRXX5894;Clouange
+FRXX2547;Codognan
+FRXX1571;Coeuilly
+FRXX0148;Cognac
+FRXX1423;Collegien
+FRXX6684;Collemiers
+FRXX6457;Collobrieres
+FRXX2723;Collonges-au-Mont-d'Or
+FRXX0034;Colmar
+FRXX1751;Colombelles
+FRXX0287;Colombes
+FRXX6450;Colomiers
+FRXX0469;Combloux
+FRXX1917;Combs-la-Ville
+FRXX6498;Comines
+FRXX0407;Commentry
+FRXX0357;Compiegne
+FRXX2475;Conca
+FRXX3196;Concarneau
+FRXX6695;Condat-sur-Vienne
+FRXX6652;Conde-Folie
+FRXX1678;Conde-sur-Vire
+FRXX0333;Condom
+FRXX4389;Conflans-Sainte-Honorine
+FRXX0342;Confolens
+FRXX5449;Congenies
+FRXX5932;Corbara
+FRXX1276;Corbas
+FRXX5935;Corbelin
+FRXX0397;Corbigny
+FRXX4176;Cordelle
+FRXX1695;Cormeilles-en-Parisis
+FRXX3111;Cormontreuil
+FRXX5035;Corne
+FRXX5062;Corneilla-la-Riviere
+FRXX2885;Coron
+FRXX3916;Corrano
+FRXX0400;Cosne-sur-Loire
+FRXX6319;Cossigny
+FRXX3225;Coti-Chiavari
+FRXX1252;Cotlliure
+FRXX1633;Coubron
+FRXX4849;Coudekerque-Branche
+FRXX3926;Coudoux
+FRXX6683;Couilly-Pont-aux-Dames
+FRXX2879;Coulanges-les-Nevers
+FRXX0035;Coulans
+FRXX4958;Coullons
+FRXX6550;Coulogne
+FRXX7009;Coulommiers
+FRXX3049;Coulon
+FRXX0292;Courbevoie
+FRXX3394;Courcelles-les-Lens
+FRXX0471;Courchevel
+FRXX4619;Courcouronnes
+FRXX5275;Courdimanche
+FRXX1565;Courgenard
+FRXX6042;Courlay
+FRXX5582;Cournonterral
+FRXX4168;Courrieres
+FRXX5297;Courthezon
+FRXX6705;Couville
+FRXX6690;Couzeix
+FRXX2027;Coye-la-Foret
+FRXX5231;Cozzano
+FRXX3684;Crach
+FRXX3851;Creances
+FRXX3480;Creil
+FRXX5119;Crespieres
+FRXX1529;Crespin
+FRXX0451;Crest-Voland Cohennoz
+FRXX0284;Creteil
+FRXX0200;Creuse
+FRXX2172;Creutzwald
+FRXX0223;Crey-Rond
+FRXX5475;Cristinacce
+FRXX6320;Croissy-Beaubourg
+FRXX4369;Croissy-sur-Seine
+FRXX2950;Croix
+FRXX1320;Crolles
+FRXX3841;Cros-de-Cagnes
+FRXX6776;Crosne
+FRXX1826;Croth
+FRXX1848;Cruas
+FRXX1589;Crusnes
+FRXX1446;Dainville
+FRXX1262;Dallet
+FRXX5046;Damgan
+FRXX5838;Dammartin-en-Serve
+FRXX6173;Damprichard
+FRXX4219;Dannes
+FRXX5152;Dardilly
+FRXX5911;Dargnies
+FRXX2979;Daumeray
+FRXX0149;Dax
+FRXX0150;Deauville
+FRXX0334;Decazeville
+FRXX4101;Dechy
+FRXX1864;Deluz
+FRXX3234;Demouville
+FRXX2876;Descartes
+FRXX5388;Desertines
+FRXX2377;Deuil-la-Barre
+FRXX5821;Deville-les-Rouen
+FRXX1378;Didenheim
+FRXX0224;Dieppe
+FRXX0395;Dieuze
+FRXX0211;Digne-les-Bains
+FRXX0036;Dijon
+FRXX5192;Distroff
+FRXX0419;Dole
+FRXX4016;Dolus-d'Oleron
+FRXX7006;Domene
+FRXX3095;Domgermain
+FRXX6093;Domont
+FRXX5208;Dompierre-Becquincourt
+FRXX6717;Dompierre-les-Ormes
+FRXX2346;Dompierre-sur-Mer
+FRXX4405;Don
+FRXX4988;Donges
+FRXX5855;Donville-les-Bains
+FRXX5268;Donzy-le-National
+FRXX1985;Dordives
+FRXX5058;Dorignies
+FRXX1470;Dornecy
+FRXX2899;Dornes
+FRXX0311;Doue
+FRXX4414;Dourges
+FRXX1311;Draguignan
+FRXX0293;Drancy
+FRXX0037;Dreux
+FRXX6714;Dugny
+FRXX0151;Dunkerque
+FRXX2313;Durfort-Lacapelette
+FRXX2285;Eaubonne
+FRXX4316;Echandelys
+FRXX4195;Echirolles
+FRXX4319;Eckbolsheim
+FRXX3127;Ecouen
+FRXX1702;Ecouflant
+FRXX2084;Ecquevilly
+FRXX3395;Ecully
+FRXX3669;Egligny
+FRXX2961;Egly
+FRXX2624;Egreville
+FRXX1077;Eguilles
+FRXX3762;Elancourt
+FRXX4295;Elincourt-Sainte-Marguerite
+FRXX1760;Elliant
+FRXX2259;Eloyes
+FRXX4328;Elysee
+FRXX0124;Embrun
+FRXX5613;Emerainville
+FRXX5792;Emerchicourt
+FRXX4992;Emeville
+FRXX1516;Empurany
+FRXX3408;Enchenberg
+FRXX6721;Enghien-les-Bains
+FRXX1218;Ennery
+FRXX6014;Entraigues-sur-la-Sorgue
+FRXX3708;Entressen
+FRXX4437;Entzheim
+FRXX2567;Epernon
+FRXX0152;Epinal
+FRXX3737;Epinay-sous-Senart
+FRXX3750;Epinay-sur-Seine
+FRXX2131;Epone
+FRXX2873;Equeurdreville-Hainneville
+FRXX6413;Equihen-Plage
+FRXX2286;Eragny
+FRXX2234;Ercheu
+FRXX5292;Erdeven
+FRXX1761;Ergue-Gaberic
+FRXX2375;Ermont
+FRXX3338;Erquinghem-Lys
+FRXX4079;Ersa
+FRXX6625;Escalquens
+FRXX2773;Escaudain
+FRXX2848;Escautpont
+FRXX1400;Eschau
+FRXX0303;Escoublac-la-Baule
+FRXX5664;Escout
+FRXX4551;Essert
+FRXX2358;Essey-les-Nancy
+FRXX5061;Estagel
+FRXX5532;Etables-sur-Mer
+FRXX6224;Etaules
+FRXX3968;Etupes
+FRXX4110;Everly
+FRXX3757;Evette-Salbert
+FRXX0299;Evian
+FRXX2115;Evin-Malmaison
+FRXX0038;Evreux
+FRXX0201;Evry
+FRXX5486;Eygalieres
+FRXX1075;Eyguieres
+FRXX3990;Eyragues
+FRXX3056;Ezanville
+FRXX3154;Eze
+FRXX0039;Fabregues
+FRXX3724;Faches-Thumesnil
+FRXX5196;Fachin
+FRXX4688;Falicon
+FRXX3076;Farinole
+FRXX0225;Favray
+FRXX2067;Feignies
+FRXX6673;Fenain
+FRXX2765;Ferfay
+FRXX1894;Ferrieres-en-Brie
+FRXX2803;Feucherolles
+FRXX4280;Feuquieres
+FRXX0390;Feurs
+FRXX5655;Feves
+FRXX4503;Feytiat
+FRXX2677;Feyzin
+FRXX6458;Figanieres
+FRXX5473;Figari
+FRXX0383;Figeac
+FRXX2627;Firminy
+FRXX0531;Flaine
+FRXX2302;Flassan
+FRXX3144;Flavy-le-Martel
+FRXX2037;Flayosc
+FRXX5781;Flers-en-Escrebieux
+FRXX5390;Fleury
+FRXX2166;Flines-lez-Raches
+FRXX4321;Floirac
+FRXX4858;Florange
+FRXX1866;Florensac
+FRXX0472;Flumet
+FRXX0204;Foix
+FRXX1711;Folembray
+FRXX6606;Foncine-le-Bas
+FRXX3659;Foncine-le-Haut
+FRXX0551;Font Romeu
+FRXX4254;Fontaine
+FRXX3399;Fontainebleau
+FRXX4632;Fontenay-aux-Roses
+FRXX0315;Fontenay-le-Comte
+FRXX2111;Fontenay-le-Fleury
+FRXX6715;Fontenay-sous-Bois
+FRXX4278;Fontevraud-l'Abbaye
+FRXX4800;Fontvieille
+FRXX0226;Foret de Risoul
+FRXX3729;Fort-Mahon-Plage
+FRXX1059;Fos-sur-Mer
+FRXX0373;Fougeres
+FRXX5802;Fougerolles
+FRXX3869;Foulayronnes
+FRXX4169;Fouquieres-les-Lens
+FRXX5793;Fourmies
+FRXX3797;Fourqueux
+FRXX6362;Fraisses
+FRXX6386;Francheville
+FRXX2518;Frasseto
+FRXX0040;Frejus
+FRXX4856;Frelinghien
+FRXX5277;Fremecourt
+FRXX3760;Frepillon
+FRXX6718;Fresnes
+FRXX4848;Fresnoy-le-Grand
+FRXX4483;Fresnoy-les-Roye
+FRXX4874;Fresselines
+FRXX2919;Fressenneville
+FRXX3741;Fresse-sur-Moselle
+FRXX5602;Fressies
+FRXX1993;Frethun
+FRXX1277;Fretigney-et-Velloreille
+FRXX3502;Fretoy-le-Chateau
+FRXX3731;Friaucourt
+FRXX2399;Frieres-Faillouel
+FRXX3690;Friville-Escarbotin
+FRXX1554;Frizon
+FRXX1586;Froidefontaine
+FRXX4644;Frolois
+FRXX5653;Fromelles
+FRXX1599;Frontenay-Rohan-Rohan
+FRXX3028;Frontenex
+FRXX1246;Frontonas
+FRXX1580;Frouard
+FRXX2632;Frugieres-le-Pin
+FRXX2496;Fumay
+FRXX4654;Fumel
+FRXX6280;Furiani
+FRXX6197;Fuveau
+FRXX3819;Gabarret
+FRXX3921;Gagnieres
+FRXX5265;Gagny
+FRXX2092;Gaillac
+FRXX4726;Gaillac-d'Aveyron
+FRXX4268;Gaillac-Toulza
+FRXX0460;Gaillard
+FRXX6752;Gaillefontaine
+FRXX4828;Galeria
+FRXX2791;Galgon
+FRXX3367;Gallardon
+FRXX3300;Gallargues-le-Montueux
+FRXX4604;Gambais
+FRXX2160;Gambsheim
+FRXX5605;Gan
+FRXX5181;Gandrange
+FRXX1705;Gannat
+FRXX3892;Gap
+FRXX6525;Garancieres
+FRXX2522;Garat
+FRXX3937;Garcelles-Secqueville
+FRXX2935;Garches
+FRXX6536;Garchizy
+FRXX1033;Gardanne
+FRXX4782;Garennes-sur-Eure
+FRXX3871;Garges-les-Gonesse
+FRXX5450;Garons
+FRXX5028;Gassin
+FRXX5364;Gatteville-le-Phare
+FRXX2414;Gattieres
+FRXX6584;Gauchin-Legal
+FRXX5393;Gauchy
+FRXX6050;Gaujacq
+FRXX5200;Gavres
+FRXX3647;Gee-Riviere
+FRXX2074;Gehee
+FRXX1401;Geispolsheim
+FRXX4204;Gelles
+FRXX1074;Gemenos
+FRXX3635;Genas
+FRXX4248;Genay
+FRXX4450;Gendrey
+FRXX1858;Generac
+FRXX6001;Genicourt
+FRXX6065;Gennes-sur-Glaize
+FRXX4493;Gennevilliers
+FRXX5308;Genos
+FRXX5618;Genouillac
+FRXX6245;Gensac-la-Pallue
+FRXX1638;Gentilly
+FRXX2603;Gentioux-Pigerolles
+FRXX3106;Ger
+FRXX0525;Gerardmer
+FRXX3398;Gergy
+FRXX4302;Germigny-des-Pres
+FRXX5115;Germigny-l'Eveque
+FRXX2626;Germigny-sous-Coulombs
+FRXX5671;Gerville
+FRXX1991;Gerzat
+FRXX1563;Gestel
+FRXX5612;Gesvres-le-Chapitre
+FRXX2714;Getigne
+FRXX2866;Geudertheim
+FRXX2588;Geus-d'Arzacq
+FRXX6475;Geveze
+FRXX3461;Gevigney-et-Mercey
+FRXX6798;Gevrey-Chambertin
+FRXX2607;Gex
+FRXX6140;Ghisoni
+FRXX1433;Ghyvelde
+FRXX4001;Giberville
+FRXX1984;Gidy
+FRXX0401;Gien
+FRXX2730;Gieres
+FRXX0542;Giez
+FRXX3121;Gif-sur-Yvette
+FRXX2570;Gigean
+FRXX3230;Gignac-la-Nerthe
+FRXX1860;Gilley
+FRXX6063;Gilly-les-Citeaux
+FRXX3464;Gilly-sur-Isere
+FRXX2199;Giraumont
+FRXX4525;Girmont-Val-d'Ajol
+FRXX5779;Girolles
+FRXX6697;Gironcourt-sur-Vraine
+FRXX2680;Gironville
+FRXX4614;Gironville-sur-Essonne
+FRXX6256;Gisors
+FRXX5725;Givenchy-en-Gohelle
+FRXX2858;Givenchy-les-la-Bassee
+FRXX6283;Givet
+FRXX1604;Givry
+FRXX1683;Givry-en-Argonne
+FRXX4873;Glenic
+FRXX4481;Glisy
+FRXX1670;Glonville
+FRXX1352;Goderville
+FRXX2635;Goetzenbruck
+FRXX2949;Goeulzin
+FRXX6292;Gohory
+FRXX4524;Golbey
+FRXX6167;Golinhac
+FRXX6658;Gometz-le-Chatel
+FRXX5785;Gondecourt
+FRXX3241;Gond-Pontouvre
+FRXX1593;Gondrecourt-le-Chateau
+FRXX5180;Gondreville
+FRXX1416;Gondrexange
+FRXX2326;Gonesse
+FRXX2739;Gonfaron
+FRXX1934;Gonnehem
+FRXX5432;Gonneville-sur-Mer
+FRXX5461;Gonsans
+FRXX1547;Gorcy
+FRXX5294;Gordes
+FRXX2052;Gosnay
+FRXX1116;Gouarec
+FRXX4036;Goudelin
+FRXX5738;Goudet
+FRXX7702;Goudourville
+FRXX3955;Gouesnach
+FRXX1767;Gouesnou
+FRXX5712;Gouhenans
+FRXX0121;Gourdon
+FRXX0517;Gourette
+FRXX1473;Gourin
+FRXX5820;Gournay-en-Bray
+FRXX6799;Gournay-le-Guerin
+FRXX1628;Gournay-Loize
+FRXX5766;Gournay-sur-Aronde
+FRXX2987;Gournay-sur-Marne
+FRXX3868;Goussainville
+FRXX5454;Goutrens
+FRXX3497;Gouvieux
+FRXX3100;Gouville-sur-Mer
+FRXX5490;Gouvix
+FRXX2457;Goux-les-Usiers
+FRXX4370;Gouy-en-Artois
+FRXX4907;Gouy-Saint-Andre
+FRXX2142;Gouy-sous-Bellonne
+FRXX2583;Gouzeaucourt
+FRXX6295;Grabels
+FRXX1832;Gracay
+FRXX1357;Gradignan
+FRXX1675;Graignes
+FRXX6583;Graincourt-les-Havrincourt
+FRXX3444;Grainville-la-Teinturiere
+FRXX1749;Grancey-le-Chateau-Neuvelle
+FRXX4741;Grancey-sur-Ource
+FRXX3178;Grandcamp-Maisy
+FRXX6556;Grandchamp
+FRXX2900;Grand-Champ
+FRXX1786;Grand'Combe-Chateleu
+FRXX3026;Grand-Couronne
+FRXX5794;Grande-Synthe
+FRXX5943;Grand-Fort-Philippe
+FRXX6031;Grand-Fougeray
+FRXX6448;Grandfresnoy
+FRXX5983;Grandvillars
+FRXX3972;Granges
+FRXX1819;Granges-les-Valence
+FRXX5370;Granges-sur-Lot
+FRXX2260;Granges-sur-Vologne
+FRXX3988;Grans
+FRXX4398;Granville
+FRXX0041;Grasse
+FRXX5748;Gratentour
+FRXX5926;Graulhet
+FRXX5885;Gravelines
+FRXX5431;Graveson
+FRXX4453;Gravon
+FRXX0424;Gray
+FRXX3182;Graye-sur-Mer
+FRXX1843;Greasque
+FRXX1309;Grenade
+FRXX1970;Grenay
+FRXX1256;Greneville-en-Beauce
+FRXX2728;Grenier-Montgon
+FRXX0153;Grenoble
+FRXX2403;Greoux-les-Bains
+FRXX0441;Gresse-en-Vercors
+FRXX2708;Gresy-sur-Aix
+FRXX1415;Greville-Hague
+FRXX5357;Grez-en-Bouere
+FRXX4593;Grez-sur-Loing
+FRXX2551;Grignan
+FRXX4324;Grignols
+FRXX3814;Grigny
+FRXX4209;Grigny
+FRXX2034;Grimaud
+FRXX2676;Gripp
+FRXX5276;Grisy-les-Platres
+FRXX1895;Grisy-Suisnes
+FRXX3391;Groffliers
+FRXX3703;Groissiat
+FRXX2904;Groix
+FRXX3783;Grosbliederstroff
+FRXX4659;Groslay
+FRXX2483;Grosley-sur-Risle
+FRXX6192;Grosseto-Prugna
+FRXX6650;Grouches-Luchuel
+FRXX5819;Gruchet-le-Valasse
+FRXX2667;Gruchet-Saint-Simeon
+FRXX1579;Gruge-l'Hopital
+FRXX1010;Grugies
+FRXX2392;Gruissan
+FRXX2226;Gruson
+FRXX1231;Guchen
+FRXX3406;Gueblange-les-Dieuze
+FRXX1913;Guebwiller
+FRXX1916;Guemar
+FRXX5721;Guemene-Penfao
+FRXX2945;Guenin
+FRXX0310;Guer
+FRXX4240;Guerande
+FRXX3743;Guerchy
+FRXX5445;Guerlesquin
+FRXX4157;Guermantes
+FRXX2804;Guerville
+FRXX4406;Guesnain
+FRXX3407;Guessling-Hemering
+FRXX5603;Guethary
+FRXX0410;Gueugnon
+FRXX5164;Guewenheim
+FRXX6047;Gugney-aux-Aulx
+FRXX6317;Guiche
+FRXX4601;Guichen
+FRXX6639;Guidel
+FRXX5630;Guignes
+FRXX1045;Guilers
+FRXX0375;Guilvinec
+FRXX1274;Guines
+FRXX1071;Guingamp
+FRXX6755;Guipavas
+FRXX3518;Guipry
+FRXX2381;Guiry-en-Vexin
+FRXX2903;Guiscriff
+FRXX4094;Guise
+FRXX5224;Guisseny
+FRXX1087;Guitera-les-Bains
+FRXX4456;Gujan-Mestras
+FRXX6049;Gurgy
+FRXX2816;Guyancourt
+FRXX0438;Guzet
+FRXX6430;Habas
+FRXX1669;Hablainville
+FRXX5967;Hadigny-les-Verrieres
+FRXX4923;Hagondange
+FRXX0042;Haguenau
+FRXX1207;Haillicourt
+FRXX5146;Haisnes
+FRXX3009;Hallennes-lez-Haubourdin
+FRXX5915;Halloy-les-Pernois
+FRXX4403;Halluin
+FRXX2920;Ham
+FRXX5191;Hambach
+FRXX5973;Hambye
+FRXX4500;Hamel
+FRXX1332;Ham-en-Artois
+FRXX5161;Ham-sous-Varsberg
+FRXX6025;Handschuheim
+FRXX5163;Hangenbieten
+FRXX4477;Hangest-en-Santerre
+FRXX5202;Hangest-sur-Somme
+FRXX3253;Hannappes
+FRXX6644;Harbonnieres
+FRXX1105;Harcourt
+FRXX3627;Hardinghen
+FRXX2012;Hardivillers
+FRXX3414;Harfleur
+FRXX1909;Hargarten-aux-Mines
+FRXX3255;Haricourt
+FRXX4223;Harnes
+FRXX3836;Harreville-les-Chanteurs
+FRXX6629;Hartzviller
+FRXX3674;Haselbourg
+FRXX6672;Hasnon
+FRXX6312;Hasparren
+FRXX4102;Haspres
+FRXX6564;Hatten
+FRXX1479;Haucourt-Moulaine
+FRXX4409;Haussy
+FRXX2608;Hautecourt-Romaneche
+FRXX1740;Hautefort
+FRXX6440;Haute-Goulaine
+FRXX5775;Haute-Indre
+FRXX0228;Hauteluce
+FRXX4766;Hauterives
+FRXX4402;Haute-Vigneulles
+FRXX1900;Hauteville-les-Dijon
+FRXX0413;Hauteville-Lompnes
+FRXX3455;Haut-Mainil
+FRXX2776;Hautmont
+FRXX1981;Hautot-sur-Mer
+FRXX1431;Havange
+FRXX1434;Haveluy
+FRXX4384;Hayange
+FRXX2847;Haynecourt
+FRXX1888;Hazebrouck
+FRXX6569;Hebecrevon
+FRXX3030;Hede
+FRXX2789;Heiligenstein
+FRXX3373;Heimsbrunn
+FRXX4924;Heining-les-Bouzonville
+FRXX5607;Helette
+FRXX1333;Helfaut
+FRXX1435;Hellemmes-Lille
+FRXX4631;Hem
+FRXX2206;Hem-Monacu
+FRXX1227;Hendaye
+FRXX3453;Hendecourt-les-Cagnicourt
+FRXX4945;Hendecourt-les-Ransart
+FRXX2852;Henin-Beaumont
+FRXX5866;Henin-sur-Cojeul
+FRXX1497;Hennebont
+FRXX2143;Henneveux
+FRXX4991;Henonville
+FRXX3242;Henrichemont
+FRXX6574;Henridorff
+FRXX2340;Herbeviller
+FRXX3423;Herbeys
+FRXX4987;Herbignac
+FRXX6828;Herblay
+FRXX6735;Hergnies
+FRXX5050;Heric
+FRXX3447;Hericourt-en-Caux
+FRXX4896;Hericy
+FRXX1343;Herlies
+FRXX6202;Hermanville-sur-Mer
+FRXX5772;Hermes
+FRXX5414;Herouville-Saint-Clair
+FRXX3235;Herouvillette
+FRXX1149;Herpy-l'Arlesienne
+FRXX4372;Herrlisheim
+FRXX5089;Herrlisheim-pres-Colmar
+FRXX2281;Herserange
+FRXX4244;Hersin-Coupigny
+FRXX2288;Hery
+FRXX2205;Hescamps
+FRXX2701;Hesdigneul-les-Bethune
+FRXX6581;Hesdin
+FRXX4344;Hesingue
+FRXX2650;Hettange-Grande
+FRXX4783;Heudicourt
+FRXX6824;Heudicourt
+FRXX5520;Heudreville-sur-Eure
+FRXX4188;Heugleville-sur-Scie
+FRXX4245;Heuringhem
+FRXX1414;Heyrieux
+FRXX5323;Hieres-sur-Amby
+FRXX1795;Hiers-Brouage
+FRXX6297;Hirel
+FRXX2618;Hirsingue
+FRXX1460;Hirtzbach
+FRXX3643;Hoenheim
+FRXX4419;Hoerdt
+FRXX1712;Holnon
+FRXX4435;Holtzheim
+FRXX2654;Holving
+FRXX4185;Hombourg-Haut
+FRXX5362;Homecourt
+FRXX2021;Hondainville
+FRXX2435;Honfleur
+FRXX1436;Honnecourt-sur-Escaut
+FRXX5136;Honskirch
+FRXX3944;Hopital-Camfrout
+FRXX5946;Hornaing
+FRXX5064;Houdain-lez-Bavay
+FRXX2100;Houdan
+FRXX5745;Houdancourt
+FRXX1671;Houdemont
+FRXX1558;Houesville
+FRXX2083;Houilles
+FRXX5139;Houplin-Ancoisne
+FRXX6463;Houplines
+FRXX3664;Houssen
+FRXX6493;Hoymille
+FRXX1141;Huanne-Montmartin
+FRXX5359;Huelgoat
+FRXX4275;Huez
+FRXX6392;Hugleville-en-Caux
+FRXX4575;Huisnes-sur-Mer
+FRXX5867;Humbercamps
+FRXX6614;Huningue
+FRXX5661;Hurigny
+FRXX1912;Husseren-Wesserling
+FRXX4574;Hussigny-Godbrange
+FRXX0154;Hyeres
+FRXX3413;Ibos
+FRXX6315;Idron
+FRXX6474;Iffendic
+FRXX2424;Ifs
+FRXX1543;Igny
+FRXX4024;Igoville
+FRXX0155;Ile De Batz
+FRXX0156;Ile Rousse
+FRXX1499;Ile-aux-Moines
+FRXX3979;Ile-d'Aix
+FRXX1500;Ile-d'Arz
+FRXX2508;Ile-de-Brehat
+FRXX3956;Ile-de-Sein
+FRXX6159;Ile-Molene
+FRXX1047;Ile-Tudy
+FRXX5309;Ille-sur-Tet
+FRXX6240;Illiers-l'Eveque
+FRXX2159;Illkirch-Graffenstaden
+FRXX5812;Illzach
+FRXX2089;Incheville
+FRXX5059;Inchy
+FRXX2637;Inchy-en-Artois
+FRXX6597;Ingersheim
+FRXX5385;Ingrandes
+FRXX5875;Ingwiller
+FRXX3436;Irigny
+FRXX2662;Irissarry
+FRXX4221;Isbergues
+FRXX2690;Isdes
+FRXX4628;Is-en-Bassigny
+FRXX5363;Isigny-le-Buat
+FRXX6130;Isigny-sur-Mer
+FRXX3601;Isle
+FRXX1523;Isle-Saint-Georges
+FRXX6346;Isles-les-Villenoy
+FRXX1679;Isles-sur-Suippe
+FRXX0229;Isola
+FRXX0499;Isola 2000
+FRXX5382;Ispagnac
+FRXX1288;Isse
+FRXX2298;Issoire
+FRXX5342;Issoudun
+FRXX3356;Is-sur-Tille
+FRXX4492;Issy-les-Moulineaux
+FRXX0157;Istres
+FRXX2153;Iteuil
+FRXX5960;Itteville
+FRXX5047;Itxassou
+FRXX3483;Ivors
+FRXX6235;Ivry-la-Bataille
+FRXX6471;Ivry-le-Temple
+FRXX4544;Ivry-sur-Seine
+FRXX3630;Izaut-de-l'Hotel
+FRXX2671;Izeaux
+FRXX4167;Izel-les-Hameaux
+FRXX6419;Jacob-Bellecombette
+FRXX1880;Jacou
+FRXX3766;Jallais
+FRXX1807;Janville
+FRXX4510;Janville-sur-Juine
+FRXX2573;Janze
+FRXX3831;Jard-sur-Mer
+FRXX1301;Jargeau
+FRXX4740;Jarnac-Champagne
+FRXX5004;Jarrie
+FRXX6807;Jarville-la-Malgrange
+FRXX4129;Jassans-Riottier
+FRXX1062;Jauldes
+FRXX5870;Jaunay-Clan
+FRXX2404;Jausiers
+FRXX2747;Jaux
+FRXX3093;Jeandelaincourt
+FRXX5641;Jeansagniere
+FRXX4307;Jeumont
+FRXX5375;Jeuxey
+FRXX6500;Job
+FRXX3849;Joeuf
+FRXX3090;Joinville
+FRXX4546;Joinville-le-Pont
+FRXX3107;Jonchery-sur-Vesle
+FRXX4805;Jonquerets-de-Livet
+FRXX1600;Jonquieres
+FRXX5579;Jonquieres-Saint-Vincent
+FRXX5889;Josselin
+FRXX2974;Jouac
+FRXX5633;Jouarre
+FRXX2081;Jouars-Pontchartrain
+FRXX4284;Joue-du-Bois
+FRXX4442;Joue-les-Tours
+FRXX2913;Jouet-sur-l'Aubois
+FRXX1803;Jouques
+FRXX6792;Joux-la-Ville
+FRXX1331;Jouy-aux-Arches
+FRXX6547;Jouy-en-Josas
+FRXX1409;Jouy-le-Chatel
+FRXX1696;Jouy-le-Moutier
+FRXX4901;Jouy-le-Potier
+FRXX5010;Jouy-sous-Thelle
+FRXX1723;Juan-les-Pins
+FRXX2186;Ju-Belloc
+FRXX5527;Juillac
+FRXX1230;Juillan
+FRXX7003;Jujurieux
+FRXX6589;Julienas
+FRXX3103;Jullouville
+FRXX3939;Jumilhac-le-Grand
+FRXX4793;Jussy-le-Chaudrier
+FRXX5588;Juvignac
+FRXX6085;Juvigny-le-Tertre
+FRXX5986;Juvisy-sur-Orge
+FRXX5087;Juziers
+FRXX2178;Kaysersberg
+FRXX1487;Kedange-sur-Canner
+FRXX1195;Kembs
+FRXX1952;Kerbach
+FRXX3953;Kerlouan
+FRXX6551;Kertzfeld
+FRXX4436;Kesseldorf
+FRXX6595;Kilstett
+FRXX6612;Kingersheim
+FRXX2869;Kirrberg
+FRXX3645;Krautergersheim
+FRXX4149;Kruth
+FRXX2888;Kunheim
+FRXX3082;La Baconniere
+FRXX2257;La Baffe
+FRXX2080;La Balme-de-Sillingy
+FRXX2047;La Baroche-sous-Luce
+FRXX4652;La Barre-de-Monts
+FRXX6812;La Barre-de-Semilly
+FRXX2200;La Barre-en-Ouche
+FRXX6371;La Barthe-de-Neste
+FRXX5057;La Bassee
+FRXX1532;La Bastide-de-Serou
+FRXX4581;La Bastide-des-Jourdans
+FRXX2384;La Bastide-Puylaurent
+FRXX2307;La Bathie
+FRXX5400;La Batie-Neuve
+FRXX2008;La Baule-Escoublac
+FRXX2482;La Baume-d'Hostun
+FRXX5623;La Bazoche-Gouet
+FRXX0043;La Bazoge
+FRXX1659;La Begude-de-Mazenc
+FRXX3043;La Bernardiere
+FRXX5049;La Bernerie-en-Retz
+FRXX4678;La Bocca
+FRXX3227;La Bouilladisse
+FRXX6015;La Bourboule
+FRXX2512;La Bree-les-Bains
+FRXX0514;La Bresse
+FRXX3147;La Brillanne
+FRXX3042;La Bruffiere
+FRXX6679;La Bussiere-sur-Ouche
+FRXX1398;La Cabanasse
+FRXX1314;La Cadiere-d'Azur
+FRXX0235;La Calvaire
+FRXX1887;La Capelle
+FRXX5451;La Capelle-Bonance
+FRXX6562;La Celle-les-Bordes
+FRXX2108;La Celle-Saint-Cloud
+FRXX2238;La Celle-Saint-Cyr
+FRXX1903;La Celle-sous-Gouzon
+FRXX4468;La Celle-sur-Loire
+FRXX6407;La Cellette
+FRXX3472;La Chabossiere
+FRXX3384;La Chaise-Dieu
+FRXX2306;La Chaize-le-Vicomte
+FRXX1665;La Chapelle-Anthenaise
+FRXX6698;La Chapelle-aux-Bois
+FRXX6591;La Chapelle-Baton
+FRXX6258;La Chapelle-Bayvel
+FRXX3081;La Chapelle-Craonnaise
+FRXX6027;La Chapelle-d'Abondance
+FRXX3477;La Chapelle-d'Armentieres
+FRXX3838;La Chapelle-de-Guinchay
+FRXX6385;La Chapelle-de-Mardore
+FRXX5736;La Chapelle-du-Bard
+FRXX3101;La Chapelle-en-Juger
+FRXX3501;La Chapelle-en-Serval
+FRXX6244;La Chapelle-en-Vercors
+FRXX6154;La Chapelle-Faucher
+FRXX2661;La Chapelle-Gaugain
+FRXX1090;La Chapelle-Gauthier
+FRXX5522;La Chapelle-Hugon
+FRXX2263;La Chapelle-Hullin
+FRXX5638;La Chapelle-la-Reine
+FRXX2249;La Chapelle-Montbrandeix
+FRXX4098;La Chapelle-Monthodon
+FRXX1598;La Chapelle-Pouilloux
+FRXX4413;La Chapelle-pres-Sees
+FRXX6290;La Chapelle-Reanville
+FRXX6190;La Chapelle-Saint-Geraud
+FRXX3812;La Chapelle-Saint-Laurent
+FRXX3294;La Chapelle-Saint-Luc
+FRXX1982;La Chapelle-Saint-Mesmin
+FRXX2780;La Chapelle-Saint-Sauveur
+FRXX3261;La Chapelle-Saint-Ursin
+FRXX1006;La Chapelle-sur-Chezy
+FRXX4155;La Chapelle-sur-Crecy
+FRXX1286;La Chapelle-sur-Erdre
+FRXX3650;La Chapelle-sur-Loire
+FRXX6667;La Chapelle-Vendomoise
+FRXX3415;La Chartre-sur-le-Loir
+FRXX0398;La Chatre
+FRXX1525;La Chaussee-Saint-Victor
+FRXX5367;La Chaussee-sur-Marne
+FRXX2908;La Chaux-du-Dombief
+FRXX2699;La Chevroliere
+FRXX0178;La Chiappa
+FRXX4746;La Ciotat
+FRXX3440;La Clayette
+FRXX0231;La Clusaz
+FRXX4682;La Colle-sur-Loup
+FRXX0412;La Cote-Saint-Andre
+FRXX3981;La Couarde-sur-Mer
+FRXX0179;La Coudre
+FRXX5264;La Courneuve
+FRXX3975;La Couronne
+FRXX6239;La Couture-Boussey
+FRXX5003;La Crau
+FRXX6699;La Croix-aux-Mines
+FRXX4891;La Croix-en-Brie
+FRXX1373;La Croix-en-Touraine
+FRXX1104;La Croix-Saint-Leufroy
+FRXX4680;La Croix-sur-Roudoule
+FRXX4271;La Croix-Valmer
+FRXX2247;La Defense
+FRXX3177;La Destrousse
+FRXX6337;La Douze
+FRXX1079;La Fare-les-Oliviers
+FRXX6433;La Farlede
+FRXX1015;La Faurie
+FRXX6036;La Faute-sur-Mer
+FRXX5315;La Ferriere
+FRXX1445;La Ferriere-aux-Etangs
+FRXX6041;La Ferriere-en-Parthenay
+FRXX4029;La Ferriere-sur-Risle
+FRXX1639;La Ferte-Alais
+FRXX4191;La Ferte-Bernard
+FRXX5596;La Ferte-Chevresis
+FRXX5862;La Ferte-Frenel
+FRXX1942;La Ferte-Gaucher
+FRXX5394;La Ferte-Milon
+FRXX0353;La Ferte-Saint-Aubin
+FRXX4114;La Ferte-sous-Jouarre
+FRXX4133;La Ferte-Vidame
+FRXX1091;La Flotte
+FRXX5536;La Foret-de-Tesse
+FRXX3954;La Foret-Fouesnant
+FRXX6040;La Foret-sur-Sevre
+FRXX2645;La Fouillouse
+FRXX4611;La Foye-Monjault
+FRXX2211;La Francheville
+FRXX6135;La Franqui-Plage
+FRXX3330;La Fresnais
+FRXX1241;La Fresnaye-sur-Chedouet
+FRXX3129;La Frette-sur-Seine
+FRXX2225;La Gacilly
+FRXX2017;La Garde
+FRXX2036;La Garde-Freinet
+FRXX5929;La Garenne-Colombes
+FRXX3811;La Garnache
+FRXX1019;La Gaude
+FRXX5856;La Glacerie
+FRXX5859;La Gorgue
+FRXX4396;La Grande-Motte
+FRXX5662;La Grande-Verriere
+FRXX5922;La Grandville
+FRXX0214;La Grave
+FRXX2644;La Gresle
+FRXX3331;La Guerche-de-Bretagne
+FRXX1636;La Gueriniere
+FRXX0232;La Gurraz
+FRXX0112;La Hague
+FRXX3530;La Haie-Fouassiere
+FRXX5544;La Haye-de-Routot
+FRXX3616;La Haye-Pesnel
+FRXX4158;La Houssaye-en-Brie
+FRXX1644;La Houssiere
+FRXX5013;La Houssoye
+FRXX5921;La Javie
+FRXX4519;La Jonchere-Saint-Maurice
+FRXX0520;La Joue du Loup
+FRXX3133;La Jumelliere
+FRXX6622;La Lande-de-Fronsac
+FRXX1907;La Lechere
+FRXX1626;La Londe-les-Maures
+FRXX4332;La Longine
+FRXX0403;La Machine
+FRXX3574;La Madeleine
+FRXX5505;La Madeleine-de-Nonancourt
+FRXX4154;La Madeleine-sur-Loing
+FRXX3592;La Mailleraye-sur-Seine
+FRXX5489;La Mede
+FRXX6732;La Meignanne
+FRXX2078;La Membrolle-sur-Choisille
+FRXX3837;La Membrolle-sur-Longuenee
+FRXX4941;La Monnerie-le-Montel
+FRXX1337;La Montagne
+FRXX6771;La Mothe-Saint-Heray
+FRXX1316;La Motte
+FRXX0355;La Motte-Beuvron
+FRXX2481;La Motte-Chalancon
+FRXX4665;La Motte-du-Caire
+FRXX5318;La Motte-en-Bauges
+FRXX6417;La Motte-Saint-Jean
+FRXX4276;La Motte-Saint-Martin
+FRXX4983;La Motte-Servolex
+FRXX5832;La Mulatiere
+FRXX4679;La Napoule
+FRXX2563;La Neuville-du-Bosc
+FRXX2026;La Neuville-en-Hez
+FRXX3254;La Neuville-en-Tourne-a-Fuy
+FRXX3695;La Neuville-les-Bray
+FRXX6117;La Neuville-les-Dorengt
+FRXX6236;La Noe-Poulain
+FRXX0475;La Norma
+FRXX6682;La Norville
+FRXX3110;La Noue
+FRXX2527;La Penne-sur-Huveaune
+FRXX5836;La Petite-Pierre
+FRXX0233;La Plagne
+FRXX0532;La Plagne
+FRXX0540;La Plagne Montalbert
+FRXX6486;La Plaine-sur-Mer
+FRXX6123;La Pointe-de-Contes
+FRXX5669;La Pommeraye
+FRXX6719;La Queue-en-Brie
+FRXX2085;La Queue-les-Yvelines
+FRXX1240;La Quinte
+FRXX2710;La Ravoire
+FRXX4052;La Redonne
+FRXX2300;La Renaudie
+FRXX0318;La Reole
+FRXX2641;La Ricamarie
+FRXX2134;La Richardais
+FRXX3033;La Riche
+FRXX3293;La Riviere-de-Corps
+FRXX3088;La Riviere-Drugeon
+FRXX5051;La Riviere-Enverse
+FRXX3430;La Roche-Blanche
+FRXX4714;La Roche-Chalais
+FRXX6254;La Roche-de-Glun
+FRXX5401;La Roche-de-Rame
+FRXX4675;La Roche-des-Arnauds
+FRXX6289;La Roche-en-Brenil
+FRXX5534;La Rochefoucauld
+FRXX5990;La Roche-Guyon
+FRXX0044;La Rochelle
+FRXX5158;La Roche-Posay
+FRXX1036;La Rochepot
+FRXX2795;La Roche-sur-Foron
+FRXX0158;La Roche-sur-Yon
+FRXX3410;La Roche-Vineuse
+FRXX6006;La Romagne
+FRXX1461;La Romieu
+FRXX5001;La Roquebrussanne
+FRXX3991;La Roque-d'Antheron
+FRXX2742;La Roque-Esclapon
+FRXX1018;La Roquette-sur-Siagne
+FRXX0476;La Rosiere 1850
+FRXX3511;La Salette-Fallavaux
+FRXX2406;La Salle les Alpes
+FRXX2276;La Salle-de-Vihiers
+FRXX1780;La Salvetat-Peyrales
+FRXX2185;La Salvetat-Saint-Gilles
+FRXX3524;La Salvetat-sur-Agout
+FRXX5798;La Sauve
+FRXX4439;La Sauvetat
+FRXX1686;La Sauvetat-sur-Lede
+FRXX1389;La Sauziere-Saint-Jean
+FRXX5933;La Seauve-sur-Semene
+FRXX1788;La Segalassiere
+FRXX1664;La Selle-Craonnaise
+FRXX4257;La Selle-sur-le-Bied
+FRXX4723;La Selve
+FRXX2293;La Sentinelle
+FRXX5616;La Serre-Bussiere-Vieille
+FRXX0273;La Seyne-sur-Mer
+FRXX0344;La Souterraine
+FRXX1226;La Suze-sur-Sarthe
+FRXX1233;La Tagniere
+FRXX4919;La Talaudiere
+FRXX0547;La Tania
+FRXX0325;La Teste
+FRXX5184;La Teste-de-Buch
+FRXX3431;La Tour-d'Auvergne
+FRXX2863;La Tour-de-Salvagny
+FRXX2309;La Tour-du-Pin
+FRXX4921;La Tour-en-Jarez
+FRXX3031;La Tour-sur-Orb
+FRXX0478;La Toussuire
+FRXX3023;La Tranche-sur-Mer
+FRXX2955;La Tremblade
+FRXX2157;La Tricherie
+FRXX5872;La Trimouille
+FRXX3897;La Trinite
+FRXX2297;La Trinite-sur-Mer
+FRXX4242;La Turballe
+FRXX2965;La Turbie
+FRXX1278;La Vaivre
+FRXX5002;La Valette-du-Var
+FRXX4916;La Valla-en-Gier
+FRXX2859;La Vancelle
+FRXX3299;La Vernarede
+FRXX4030;La Vicomte-sur-Rance
+FRXX5799;La Ville-aux-Clercs
+FRXX1366;La Villedieu-en-Fontenette
+FRXX5332;La Ville-du-Bois
+FRXX4022;La Voulte-sur-Rhone
+FRXX4391;La Wantzenau
+FRXX2620;Labaroche
+FRXX6628;Labarthe
+FRXX5343;Labarthe-sur-Leze
+FRXX5018;Labastide-Beauvoir
+FRXX2724;Labastide-de-Penne
+FRXX1845;Labastide-de-Virac
+FRXX2093;Labastide-du-Temple
+FRXX1259;Labastide-du-Vert
+FRXX1986;Labastide-Marnhac
+FRXX5925;Labastide-Rouairoux
+FRXX1388;Labastide-Saint-Georges
+FRXX3489;Labastide-Saint-Pierre
+FRXX2031;Labastide-Saint-Sernin
+FRXX6678;Labatie-d'Andaure
+FRXX3568;Labatut-Riviere
+FRXX3673;Labege
+FRXX3824;Labenne
+FRXX2694;Laberaudie
+FRXX4982;L'Abergement-de-Cuisery
+FRXX3180;Labergement-les-Seurre
+FRXX3965;Labergement-Sainte-Marie
+FRXX4261;Laboissiere-en-Thelle
+FRXX1129;Laborel
+FRXX1511;Laboulbene
+FRXX3821;Labrit
+FRXX4904;Labuissiere
+FRXX3721;Lacanau
+FRXX4733;Lacapelle-Viescamp
+FRXX5920;Lacaune
+FRXX5015;Lachapelle-aux-Pots
+FRXX4637;Lachapelle-en-Blaisy
+FRXX1098;Lachapelle-Graillouse
+FRXX4572;Lachapelle-sous-Chaux
+FRXX5271;Lachapelle-sous-Rougemont
+FRXX2304;Lacoste
+FRXX2312;Lacourt-Saint-Pierre
+FRXX5744;Lacroix-Saint-Ouen
+FRXX5754;Ladeveze-Ville
+FRXX5517;Ladoix-Serrigny
+FRXX3092;Laferte-sur-Amance
+FRXX5348;Laferte-sur-Aube
+FRXX3864;Lafitte-sur-Lot
+FRXX4266;Lafitte-Vigordane
+FRXX1688;Lafox
+FRXX4356;Lafrancaise
+FRXX5090;Lagarde
+FRXX6745;Lagarde-d'Apt
+FRXX1356;Lagarde-Hachan
+FRXX6452;Lagardelle-sur-Leze
+FRXX5209;Lagarrigue
+FRXX3361;Lagnieu
+FRXX4259;Lagny-le-Sec
+FRXX3215;Lagord
+FRXX5901;Lagraulet-du-Gers
+FRXX5525;Laguenne
+FRXX4249;Laguepie
+FRXX5022;Laguian-Mazous
+FRXX1379;Lahitte
+FRXX5663;Laigne-en-Belin
+FRXX5042;Laille
+FRXX2692;Lailly-en-Val
+FRXX1862;Laissey
+FRXX1261;Lalbenque
+FRXX1704;Lalizolle
+FRXX6670;Lallaing
+FRXX6078;Laloeuf
+FRXX4021;Lalouvesc
+FRXX0230;L'Alpe-d'Huez
+FRXX4570;Lamadeleine-Val-des-Anges
+FRXX3488;Lamagistere
+FRXX1427;Lamalou-les-Bains
+FRXX5426;Lamanon
+FRXX3934;Lamarche-sur-Saone
+FRXX4961;Lamativie
+FRXX1094;Lamballe
+FRXX5054;Lambersart
+FRXX5478;Lambesc
+FRXX5063;Lambres-lez-Douai
+FRXX2439;Lamonzie-Saint-Martin
+FRXX3496;Lamorlaye
+FRXX4999;Lamothe-Cumont
+FRXX6647;Lamotte-Brebiere
+FRXX6022;Lamotte-du-Rhone
+FRXX2959;Lamotte-Warfusee
+FRXX4373;Lampertheim
+FRXX4792;Lancieux
+FRXX6196;Lancon-Provence
+FRXX0045;Landerneau
+FRXX2327;Landeronde
+FRXX0181;Landes
+FRXX2760;Landevant
+FRXX3211;Landeyrat
+FRXX2441;Landivisiau
+FRXX2335;Landivy
+FRXX5594;Landouzy-la-Ville
+FRXX3654;Landres
+FRXX6351;Landrethun-les-Ardres
+FRXX5443;Landrevarzec
+FRXX2758;Lanester
+FRXX2279;Laneuveville-aux-Bois
+FRXX2280;Laneuveville-devant-Nancy
+FRXX4141;Laneuveville-en-Saulnois
+FRXX2845;Laneuveville-les-Lorquin
+FRXX3657;Laneuville-sur-Meuse
+FRXX3068;Langeais
+FRXX6270;Langlade
+FRXX5846;Langon
+FRXX3016;Langonnet
+FRXX0417;Langres
+FRXX1085;Langrune-sur-Mer
+FRXX4020;Langueux
+FRXX6638;Languidic
+FRXX0369;Lannemezan
+FRXX3952;Lannilis
+FRXX5510;Lannion
+FRXX3469;Lanslebourg-Mont-Cenis
+FRXX5457;Lantenne-Vertiere
+FRXX4011;Lanteuil
+FRXX3204;Lanthenans
+FRXX6620;Lanton
+FRXX3203;Lanuejouls
+FRXX3370;Lanveoc
+FRXX0206;Laon
+FRXX1872;Laons
+FRXX4690;Lapalisse
+FRXX2393;Lapalme
+FRXX3833;Lapeyrouse-Fossat
+FRXX6343;Lapoutroie
+FRXX2854;Lapugnoy
+FRXX4801;Largentiere
+FRXX1562;Larmor-Baden
+FRXX1911;Larmor-Plage
+FRXX6704;Laroche-Saint-Cydroine
+FRXX3122;Laroque-Timbaut
+FRXX1168;Larouillies
+FRXX2895;Larroque-Saint-Sernin
+FRXX3349;Laruns
+FRXX2554;Lasserre-de-Prouille
+FRXX2422;Lassouts
+FRXX2675;Lastic
+FRXX1377;Lathuile
+FRXX4362;Latour-Bas-Elne
+FRXX2788;Latour-de-Carol
+FRXX5069;Latour-de-France
+FRXX1882;Lattes
+FRXX3412;Lau-Balagnas
+FRXX4184;Laudrefang
+FRXX4830;Launois-sur-Vence
+FRXX1774;Laure-Minervois
+FRXX5298;Lauris
+FRXX1193;Lautenbach
+FRXX2812;Lauwin-Planque
+FRXX0159;Laval
+FRXX6104;Laval-Atger
+FRXX1893;Laval-en-Brie
+FRXX0234;Lavalette
+FRXX4722;Laval-Pradel
+FRXX4093;Lavancia-Epercy
+FRXX3206;Lavans-Quingey
+FRXX2322;Lavans-sur-Valouse
+FRXX5462;Lavans-Vuillafans
+FRXX0382;Lavaur
+FRXX3073;Lavausseau
+FRXX1178;Lavaveix-les-Mines
+FRXX5969;Laveline-devant-Bruyeres
+FRXX2636;Laventie
+FRXX2967;Lavera
+FRXX3329;Laverune
+FRXX1820;Lavillatte
+FRXX4256;Lavoute-Chilhac
+FRXX5998;Laxou
+FRXX1692;Layrac
+FRXX2291;Lay-Saint-Christophe
+FRXX3003;Lay-Saint-Remy
+FRXX1280;Le Barcares
+FRXX2073;Le Barp
+FRXX3014;Le Barroux
+FRXX3156;Le Bar-sur-Loup
+FRXX1099;Le Beage
+FRXX1574;Le Bellay-en-Vexin
+FRXX6764;Le Bernard
+FRXX2931;Le Bez
+FRXX5702;Le Bignon
+FRXX0339;Le Blanc
+FRXX3865;Le Blanc-Mesnil
+FRXX2382;Le Bleymard
+FRXX6187;Le Bois-Plage-en-Re
+FRXX4027;Le Bosc-Roger-en-Roumois
+FRXX2102;Le Boulou
+FRXX6768;Le Boupere
+FRXX4929;Le Bourg-Dun
+FRXX1559;Le Bourget
+FRXX4985;Le Bourget-du-Lac
+FRXX4283;Le Bourg-Saint-Leonard
+FRXX5880;Le Bouscat
+FRXX1238;Le Breil-sur-Merize
+FRXX5413;Le Breuil-en-Auge
+FRXX3074;Le Brusquet
+FRXX5436;Le Buisson-de-Cadouin
+FRXX4064;Le Cailar
+FRXX2738;Le Camp du Castellet
+FRXX5230;Le Cannet
+FRXX1312;Le Cannet-des-Maures
+FRXX2838;Le Canon
+FRXX1014;Le Castellard-Melan
+FRXX1946;Le Chambon-Feugerolles
+FRXX6434;Le Chambon-sur-Lignon
+FRXX1065;Le Chateau-d'Oleron
+FRXX5523;Le Chatelet
+FRXX3379;Le Chatelet-en-Brie
+FRXX5839;Le Chesnay
+FRXX3314;Le Chesne
+FRXX5381;Le Collet-de-Deze
+FRXX0533;Le Corbier
+FRXX5245;Le Coudray-Montceaux
+FRXX5587;Le Cres
+FRXX0420;Le Creusot
+FRXX2549;Le Creux de la Tine
+FRXX1287;Le Croisic
+FRXX2922;Le Crotoy
+FRXX0236;Le Cugnon
+FRXX2952;Le Donjon
+FRXX1290;Le Doulieu
+FRXX6661;Le Faou
+FRXX1528;Le Faouet
+FRXX0237;Le Fey
+FRXX6401;Le Fief-Sauvin
+FRXX5675;Le Freney-d'Oisans
+FRXX6795;Le Fresne-Camilly
+FRXX3885;Le Fugeret
+FRXX2388;Le Fuilet
+FRXX1386;Le Garric
+FRXX1362;Le Gault-Perche
+FRXX4140;Le Gault-Saint-Denis
+FRXX0480;Le Grand-Bornand
+FRXX6327;Le Grand-Bourg
+FRXX6572;Le Grand-Celland
+FRXX6365;Le Grand-Luce
+FRXX2798;Le Grand-Pressigny
+FRXX0046;Le Grand-Quevilly
+FRXX2559;Le Grand-Serre
+FRXX3327;Le Grau-du-Roi
+FRXX1447;Le Gres
+FRXX1050;Le Gua
+FRXX4139;Le Gue-de-Longroi
+FRXX3193;Le Guilvinec
+FRXX2938;Le Haillan
+FRXX4634;Le Ham
+FRXX4018;Le Haut-Corlay
+FRXX0047;Le Havre
+FRXX0350;Le Haye-Descartes
+FRXX5803;Le Houga
+FRXX5981;Le Kremlin-Bicetre
+FRXX1755;Le Lardin-Saint-Lazare
+FRXX1717;Le Lauzet-Ubaye
+FRXX1317;Le Lavandou
+FRXX0528;Le Lioran
+FRXX3996;Le Logis Neuf
+FRXX4448;Le Longeron
+FRXX2007;Le Loroux-Bottereau
+FRXX2996;Le Louroux-Beconnais
+FRXX6171;Le Luhier
+FRXX5380;Le Malzieu-Ville
+FRXX0238;Le Manchet
+FRXX0048;Le Mans
+FRXX2369;Le Mas-d'Agenais
+FRXX3320;Le Mas-d'Azil
+FRXX2631;Le Mas-de-Tence
+FRXX3570;Le Masnau-Massuguies
+FRXX3877;Le Massegros
+FRXX1022;Le Mayet-de-Montagne
+FRXX3134;Le May-sur-Evre
+FRXX6359;Le Mee-sur-Seine
+FRXX2749;Le Mele-sur-Sarthe
+FRXX2045;Le Menil-de-Briouze
+FRXX1410;Le Mesnil-Amelot
+FRXX5988;Le Mesnil-Aubry
+FRXX4697;Le Mesnil-Auzouf
+FRXX5093;Le Mesnil-Esnard
+FRXX5415;Le Mesnil-Mauger
+FRXX1680;Le Mesnil-sur-Oger
+FRXX3325;Le Mesnil-Thomas
+FRXX1425;Le Minihic-sur-Rance
+FRXX3396;Le Molard
+FRXX3912;Le Molay-Littry
+FRXX6786;Le Monastier-Pin-Mories
+FRXX4161;Le Monastier-sur-Gazeille
+FRXX3150;Le Monetier-les-Bains
+FRXX0404;Le Mont-Dore
+FRXX6329;Le Monteil-au-Vicomte
+FRXX4692;Le Montet
+FRXX5025;Le Muy
+FRXX3200;Le Nayrac
+FRXX4095;Le Nouvion-en-Thierache
+FRXX6578;Le Palais
+FRXX2248;Le Palais-sur-Vienne
+FRXX5484;Le Pas des Lanciers
+FRXX2371;Le Passage
+FRXX3400;Le Pave de Pontault
+FRXX2334;Le Peage-de-Roussillon
+FRXX6546;Le Pecq
+FRXX6218;Le Pegue
+FRXX4388;Le Perray-en-Yvelines
+FRXX5980;Le Perreux-sur-Marne
+FRXX1132;Le Pertre
+FRXX6523;Le Petit-Bornand-les-Glieres
+FRXX1385;Le Petit-Quevilly
+FRXX0239;Le Peyrou
+FRXX2183;Le Pian-Medoc
+FRXX6624;Le Pian-sur-Garonne
+FRXX1034;Le Pigeonnier
+FRXX1898;Le Pin
+FRXX2295;Le Pin
+FRXX3989;Le Plan de Campagne
+FRXX3698;Le Plessier-Rozainvillers
+FRXX2376;Le Plessis-Bouchard
+FRXX6105;Le Plessis-Grammoire
+FRXX2342;Le Plessis-Pate
+FRXX2217;Le Plessis-Robinson
+FRXX2993;Le Plessis-Trevise
+FRXX1102;Le Poet-Celard
+FRXX5079;Le Poinconnet
+FRXX5157;Le Poire-sur-Velluire
+FRXX5371;Le Poire-sur-Vie
+FRXX4984;Le Pont-de-Beauvoisin
+FRXX2040;Le Pont-de-Claix
+FRXX6579;Le Pont-de-Coulogne
+FRXX1699;Le Pont-de-Montvert
+FRXX1629;Le Pontet
+FRXX1154;Le Port
+FRXX5709;Le Portel
+FRXX2101;Le Port-Marly
+FRXX1868;Le Poujol-sur-Orb
+FRXX1042;Le Pouldu
+FRXX3475;Le Pouliguen
+FRXX2532;Le Pouzin
+FRXX5733;Le Pradet
+FRXX2983;Le Pre-Saint-Gervais
+FRXX1661;Le Puits-des-Mezes
+FRXX0209;Le Puy-en-Velay
+FRXX4747;Le Puy-Sainte-Reparade
+FRXX4475;Le Quesnel
+FRXX2264;Le Raincy
+FRXX5442;Le Relecq-Kerhuon
+FRXX4252;Le Revest-les-Eaux
+FRXX5768;Le Rheu
+FRXX1081;Le Rouet
+FRXX3137;Le Rouret
+FRXX4749;Le Rove
+FRXX1805;Le Sambuc
+FRXX6059;Le Sappey-en-Chartreuse
+FRXX5012;Le Saulchoy
+FRXX6532;Le Segur
+FRXX3539;Le Soler
+FRXX6505;Le Taillan-Medoc
+FRXX0116;Le Talut
+FRXX4703;Le Theil-Bocage
+FRXX3925;Le Tholonet
+FRXX5968;Le Tholy
+FRXX5296;Le Thor
+FRXX1682;Le Thoult-Trosnay
+FRXX0160;Le Touquet
+FRXX5710;Le Touquet-Paris-Plage
+FRXX1255;Le Trait
+FRXX5830;Le Tremblay-sur-Mauldre
+FRXX6753;Le Treport
+FRXX6160;Le Trevoux
+FRXX0240;Le Truc
+FRXX5730;Le Val
+FRXX5241;Le Val-Saint-Germain
+FRXX2254;Le Valtin
+FRXX4803;Le Vaudreuil
+FRXX6598;Le Verdon-sur-Mer
+FRXX1411;Le Vesinet
+FRXX1157;Le Vieil-Evreux
+FRXX2520;Le Vieux-Cerier
+FRXX1769;Le Vigan
+FRXX2128;Le Vigen
+FRXX3608;Le Vivier-sur-Mer
+FRXX3341;Lecelles
+FRXX4404;Lecluse
+FRXX2571;Lecousse
+FRXX3739;Leers
+FRXX2062;Leffrinckoucke
+FRXX1932;Leforest
+FRXX5776;Lege
+FRXX2737;Leguevin
+FRXX6035;Leigne-les-Bois
+FRXX4425;Leignes-sur-Fontaine
+FRXX4374;Lembach
+FRXX4968;Lempdes
+FRXX6435;Lempdes-sur-Allagnon
+FRXX2911;Lencouacq
+FRXX0049;Lens
+FRXX3938;Lento
+FRXX1426;Leognan
+FRXX1418;L'Epine
+FRXX4571;Lepuix
+FRXX6003;Lepuix-Neuf
+FRXX5770;Lerm-et-Musset
+FRXX4028;Lery
+FRXX6456;Les Adrets-de-l'Esterel
+FRXX1109;Les Aix-d'Angillon
+FRXX3796;Les Allues
+FRXX2317;Les Alluets-le-Roi
+FRXX5681;Les Ancizes-Comps
+FRXX2503;Les Andelys
+FRXX0433;Les Angles
+FRXX0482;Les Arcs
+FRXX2942;Les Artigues-de-Lussac
+FRXX1124;Les Assions
+FRXX1980;Les Authieux-sur-le-Port-Saint-Ouen
+FRXX6442;Les Avenieres
+FRXX4804;Les Baux-de-Breteuil
+FRXX2383;Les Bessons
+FRXX6103;Les Bondons
+FRXX6797;Les Bordes-sur-Arize
+FRXX4082;Les Bordes-sur-Lez
+FRXX4303;Les Bossons
+FRXX5178;Les Bouchoux
+FRXX0456;Les Brasses
+FRXX0548;Les Carroz
+FRXX4557;Les Cerqueux-de-Maulevrier
+FRXX3265;Les Champs-Geraux
+FRXX0268;les Chozalets
+FRXX1404;Les Clayes-sous-Bois
+FRXX0483;Les Contamines - Hauteluce
+FRXX3419;Les Cotes-d'Arey
+FRXX2006;Les Couets
+FRXX2499;Les Damps
+FRXX0534;Les Deux Alpes
+FRXX1781;Les Ecorces
+FRXX5313;Les Essarts
+FRXX3604;Les Essarts-le-Roi
+FRXX5365;Les Essarts-les-Sezanne
+FRXX0241;Les Freaux
+FRXX0484;Les Gets
+FRXX0242;Les Geymonds
+FRXX4393;Les Grandes-Ventes
+FRXX0243;Les Grands Vans
+FRXX4071;Les Granges-Gontardes
+FRXX5564;Les Gras
+FRXX5991;Les Gresillons
+FRXX3315;Les Hautes-Rivieres
+FRXX1634;Les Herbiers
+FRXX6073;Les Hopitaux-Neufs
+FRXX0485;Les Houches
+FRXX6685;Les Iffs
+FRXX2235;Les Issambres
+FRXX3119;Les Landes-Genusson
+FRXX2982;Les Lilas
+FRXX4667;Les Martys
+FRXX3883;Les Mees
+FRXX0486;Les Menuires
+FRXX5218;Les Milles
+FRXX4382;Les Moitiers-en-Bauptois
+FRXX2011;Les Moutiers-en-Retz
+FRXX3593;Les Mureaux
+FRXX6263;Les Noes-pres-Troyes
+FRXX1829;Les Noyers
+FRXX1127;Les Ollieres-sur-Eyrieux
+FRXX1408;Les Ormes-sur-Voulzie
+FRXX0500;Les Orres
+FRXX0244;Les Ougiers
+FRXX6710;Les Pavillons-sous-Bois
+FRXX5488;Les Pennes-Mirabeau
+FRXX4045;Les Pins
+FRXX2455;Les Plains-et-Grands-Essarts
+FRXX1048;Les Plantiers
+FRXX6833;Les Ponts-de-Ce
+FRXX4035;Les Portes-en-Re
+FRXX1855;Les Riceys
+FRXX5280;Les Rosiers-sur-Loire
+FRXX2909;Les Rousses
+FRXX2141;Les Rues-des-Vignes
+FRXX0050;Les Sables-d'Olonne
+FRXX0487;Les Saisies
+FRXX1700;Les Salelles
+FRXX4273;Les Salles-sur-Verdon
+FRXX3451;Les Sarraix
+FRXX0481;Les Sept Laux
+FRXX6488;Les Sorinieres
+FRXX6603;Les Souhesmes-Rampont
+FRXX1824;Les Thilliers-en-Vexin
+FRXX3216;Les Touches-de-Perigny
+FRXX5869;Les Trois-Moutiers
+FRXX4473;Les Verchers-sur-Layon
+FRXX5082;Les Villards-sur-Thones
+FRXX6110;L'Escale
+FRXX3835;Lescheres-sur-le-Blaiseron
+FRXX5096;Lescure-d'Albigeois
+FRXX5611;Lesigny
+FRXX5439;Lesneven
+FRXX4322;Lesparre-Medoc
+FRXX5583;Lespignan
+FRXX4315;Lesquin
+FRXX4608;Lesson
+FRXX6369;Lestelle-Betharram
+FRXX2130;L'Etang-la-Ville
+FRXX5373;L'Etoile
+FRXX4100;Leuilly-sous-Coucy
+FRXX1232;Leuy
+FRXX0298;Levallois-Perret
+FRXX4267;Levignac
+FRXX3116;Levignac-de-Guyenne
+FRXX3588;Levis-Saint-Nom
+FRXX6756;Levroux
+FRXX1590;Lexy
+FRXX6091;Leyritz-Moncassin
+FRXX4042;Lezardrieux
+FRXX3318;Lezat-sur-Leze
+FRXX2294;Lezay
+FRXX2066;Lez-Fontaine
+FRXX0337;Lezignan
+FRXX6276;Lezignan-Corbieres
+FRXX5130;Lezignan-la-Cebe
+FRXX1568;L'Hay-les-Roses
+FRXX1953;L'Hopital
+FRXX5840;L'Horme
+FRXX1533;L'Hospitalet-pres-l'Andorre
+FRXX2722;Liancourt
+FRXX4906;Libercourt
+FRXX0051;Libourne
+FRXX2917;Licourt
+FRXX5646;Licques
+FRXX4099;Liesse-Notre-Dame
+FRXX2857;Liettres
+FRXX5586;Lieuran-Cabrieres
+FRXX2756;Lieuran-les-Beziers
+FRXX1484;Lieusaint
+FRXX5645;Lievin
+FRXX6260;Liffre
+FRXX3558;Lignac
+FRXX2793;Lignan-de-Bordeaux
+FRXX1305;Lignan-sur-Orb
+FRXX3078;Lignieres-Orgeres
+FRXX4447;Ligny-en-Barrois
+FRXX2578;Ligny-en-Cambresis
+FRXX2262;Ligny-le-Chatel
+FRXX2638;Ligny-les-Aire
+FRXX5707;Ligny-Thilloy
+FRXX4336;Ligueil
+FRXX2986;L'Ile-Saint-Denis
+FRXX0052;Lille
+FRXX5091;Lillebonne
+FRXX2272;Limeil-Brevannes
+FRXX0119;Limoges
+FRXX6429;Limonest
+FRXX2241;Limours
+FRXX3310;Limoux
+FRXX1063;Linars
+FRXX3641;Lingolsheim
+FRXX5884;Linselles
+FRXX2041;Linxe
+FRXX3448;Lion-en-Beauce
+FRXX6200;Lion-sur-Mer
+FRXX1904;Lioux-les-Monges
+FRXX1421;Lipsheim
+FRXX5996;Lire
+FRXX2114;Lisbourg
+FRXX0053;Lisieux
+FRXX2379;L'Isle-Adam
+FRXX3418;L'Isle-d'Abeau
+FRXX5497;L'Isle-d'Espagnac
+FRXX0332;L'Isle-Jourdain
+FRXX5221;Lisle-sur-Tarn
+FRXX3840;Lisses
+FRXX5321;Listrac-de-Dureze
+FRXX1359;Listrac-Medoc
+FRXX4142;Lit-et-Mixe
+FRXX1582;Liverdun
+FRXX3858;Livernon
+FRXX3421;Livet-et-Gavet
+FRXX6169;Livinhac-le-Haut
+FRXX5548;Livre-sur-Changeon
+FRXX6273;Livron-sur-Drome
+FRXX6706;Livry-Gargan
+FRXX2827;Lixing-les-Saint-Avold
+FRXX4894;Lizy-sur-Ourcq
+FRXX0352;Loches
+FRXX4083;Loches-sur-Ource
+FRXX2905;Lochrist
+FRXX6641;Locmariaquer
+FRXX0377;Locmine
+FRXX3677;Locmiquelic
+FRXX6640;Locoal-Mendon
+FRXX3456;Locon
+FRXX4841;Locquirec
+FRXX1043;Loctudy
+FRXX2569;Lodeve
+FRXX1863;Lods
+FRXX5931;Logelbach
+FRXX2595;Lognes
+FRXX1709;Logny-les-Aubenton
+FRXX1138;Logrian-Florian
+FRXX1093;Loire-les-Marais
+FRXX1994;Loison-sous-Lens
+FRXX4963;Loison-sur-Crequoise
+FRXX5232;Loix
+FRXX3725;Lomme
+FRXX5591;Lompnas
+FRXX6789;Longchamp
+FRXX5573;Longecourt-en-Plaine
+FRXX4443;Longeville-en-Barrois
+FRXX6642;Longeville-les-Metz
+FRXX3620;Longeville-les-Saint-Avold
+FRXX4553;Longjumeau
+FRXX2883;Longlaville
+FRXX6470;Longny-au-Perche
+FRXX3727;Longpont-sur-Orge
+FRXX3696;Longpre-les-Corps-Saints
+FRXX3694;Longueau
+FRXX6428;Longueil-Annel
+FRXX2013;Longueil-Sainte-Marie
+FRXX1272;Longuenesse
+FRXX2685;Longueville-sur-Scie
+FRXX4711;Longvic
+FRXX2998;Longwy
+FRXX3803;Longwy-sur-le-Doubs
+FRXX5304;Lonrai
+FRXX4860;Lons
+FRXX0161;Lons-le-Saunier
+FRXX6464;Loos
+FRXX1930;Loos-en-Gohelle
+FRXX2352;Loperec
+FRXX2476;Lopigna
+FRXX6137;Loreto-di-Casinca
+FRXX1839;Loreto-di-Tallano
+FRXX4181;Lorette
+FRXX5026;Lorgues
+FRXX0054;Lorient
+FRXX6748;Loriol-du-Comtat
+FRXX1143;Loriol-sur-Drome
+FRXX4454;Lormont
+FRXX1921;Lorrez-le-Bocage-Preaux
+FRXX2703;Lottinghen
+FRXX6227;Louargat
+FRXX5949;Loubaresse
+FRXX5150;Loubens-Lauragais
+FRXX0374;Loudeac
+FRXX0341;Loudun
+FRXX2748;Louge-sur-Maire
+FRXX6357;Louhans
+FRXX3460;Loulans-Verchamp
+FRXX2946;Lourches
+FRXX1228;Lourdes
+FRXX4864;Lourdios-Ichere
+FRXX6566;Lourdoueix-Saint-Michel
+FRXX6328;Lourdoueix-Saint-Pierre
+FRXX1381;Loures-Barousse
+FRXX6762;Lourmarin
+FRXX2419;Louroux-Bourbonnais
+FRXX3138;Louroux-de-Beaune
+FRXX3905;Louroux-de-Bouble
+FRXX1364;Louveciennes
+FRXX6313;Louvie-Juzon
+FRXX2050;Louvigne-de-Bais
+FRXX4808;Louvigne-du-Desert
+FRXX1951;Louvigny
+FRXX4693;Louvigny
+FRXX3652;Louvil
+FRXX1158;Louville-la-Chenard
+FRXX1355;Louvroil
+FRXX6332;Loyettes
+FRXX1972;Lozanne
+FRXX1739;Lozzi
+FRXX1371;Luant
+FRXX1463;Lucay-le-Male
+FRXX5572;Lucciana
+FRXX2564;Luce
+FRXX6636;Lucenay-les-Aix
+FRXX3785;Lucenay-l'Eveque
+FRXX6316;Lucgarier
+FRXX4596;Luche-Pringe
+FRXX3046;Luche-Thouarsais
+FRXX0434;Luchon Superbagneres
+FRXX2771;Lucinges
+FRXX1023;Luc-la-Primaube
+FRXX4862;Lucq-de-Bearn
+FRXX3307;Luc-sur-Aude
+FRXX2434;Luc-sur-Mer
+FRXX5284;Lucy-sur-Yonne
+FRXX6731;Ludres
+FRXX6779;Lue
+FRXX3609;Lugos
+FRXX4138;Luisant
+FRXX3549;Lully
+FRXX2557;Lumio
+FRXX6084;Luneville
+FRXX1407;Lupstein
+FRXX5624;Luray
+FRXX5608;Lurbe-Saint-Christau
+FRXX5825;Lurcy-le-Bourg
+FRXX6127;Lurcy-Levis
+FRXX0426;Lure
+FRXX1117;Lury-sur-Arnon
+FRXX7008;Lusignan
+FRXX1729;Lusigny
+FRXX4811;Lusigny-sur-Barse
+FRXX1813;Lus-la-Croix-Haute
+FRXX2154;Lussac-les-Chateaux
+FRXX2971;Lussac-les-Eglises
+FRXX6326;Lussat
+FRXX1467;Lussault-sur-Loire
+FRXX1380;Lutilhous
+FRXX1390;Luttange
+FRXX3564;Lutterbach
+FRXX0425;Luxeuil-les-Bains
+FRXX2164;Luynes
+FRXX0432;Luz Ardiden Saint Sauveur
+FRXX2182;Luzancy
+FRXX1152;Luzenac
+FRXX5665;Luz-Saint-Sauveur
+FRXX0055;Lyon
+FRXX4541;Lyon Satolas Aeroport
+FRXX1825;Lyons-la-Foret
+FRXX2060;Lys-lez-Lannoy
+FRXX6507;Macau
+FRXX6618;Machault
+FRXX5720;Machecoul
+FRXX2556;Macinaggio
+FRXX0056;Macon
+FRXX5495;Madranges
+FRXX4019;Mael-Carhaix
+FRXX1017;Magagnosc
+FRXX4387;Magnac-Laval
+FRXX6770;Magne
+FRXX4641;Magnieres
+FRXX3676;Magny-Cours
+FRXX6831;Magny-en-Vexin
+FRXX2851;Magny-le-Desert
+FRXX5636;Magny-le-Hongre
+FRXX5117;Magny-les-Hameaux
+FRXX3951;Mahalon
+FRXX1844;Maillane
+FRXX2237;Mailly-la-Ville
+FRXX3292;Mailly-le-Camp
+FRXX4567;Mailly-le-Chateau
+FRXX1509;Mailly-Maillet
+FRXX6730;Mailly-sur-Seille
+FRXX1655;Maine-de-Boixe
+FRXX1890;Maing
+FRXX3323;Maintenon
+FRXX2275;Mainville
+FRXX4903;Maisnil-les-Ruitz
+FRXX3935;Maisoncelles-la-Jourdan
+FRXX4478;Maison-Ponthieu
+FRXX6092;Maisons-Alfort
+FRXX3039;Maisons-Laffitte
+FRXX5549;Maisons-les-Chaource
+FRXX5310;Maizieres
+FRXX1136;Maizieres-la-Grande-Paroisse
+FRXX5338;Maizieres-les-Metz
+FRXX3714;Malakoff
+FRXX1595;Malansac
+FRXX1130;Malataverne
+FRXX3015;Malaucene
+FRXX4594;Malaunay
+FRXX3131;Malbouzon
+FRXX6469;Male
+FRXX5327;Malemort-du-Comtat
+FRXX4765;Malemort-sur-Correze
+FRXX4498;Malestroit
+FRXX0057;Malicorne
+FRXX3786;Malicorne-sur-Sarthe
+FRXX6116;Malijai
+FRXX1963;Malintrat
+FRXX5353;Malleloy
+FRXX4051;Mallemort
+FRXX5223;Malleret
+FRXX5601;Malo-les-Bains
+FRXX4752;Maltot
+FRXX6348;Malvalette
+FRXX5019;Malvezie
+FRXX2357;Malzeville
+FRXX4562;Mamey
+FRXX5438;Mancenans-Lizerne
+FRXX2882;Mancieulles
+FRXX5460;Mandeure
+FRXX1662;Mandres-la-Cote
+FRXX6681;Mandres-les-Roses
+FRXX1772;Manduel
+FRXX0516;Manigod
+FRXX5644;Maninghem
+FRXX0364;Manosque
+FRXX4005;Mansac
+FRXX0356;Mantes-la-Jolie
+FRXX2132;Mantes-la-Ville
+FRXX2198;Mantry
+FRXX5658;Manzat
+FRXX3333;Manziat
+FRXX6696;Marainville-sur-Madon
+FRXX5352;Marange-Silvange
+FRXX2356;Maranville
+FRXX6207;Marato
+FRXX5893;Marbache
+FRXX4846;Marboz
+FRXX3544;Marcenais
+FRXX6113;Marchais-en-Brie
+FRXX1471;Marchiennes
+FRXX1279;Marcigny
+FRXX1260;Marcilhac-sur-Cele
+FRXX5771;Marcillac
+FRXX4764;Marcillac-la-Croisille
+FRXX4759;Marcillac-Lanville
+FRXX3164;Marcillat-en-Combraille
+FRXX4636;Marcille-la-Ville
+FRXX6473;Marcille-Raoul
+FRXX3834;Marcilly-en-Bassigny
+FRXX6262;Marcilly-le-Hayer
+FRXX2505;Marcilly-sur-Eure
+FRXX6355;Marck
+FRXX5114;Marckolsheim
+FRXX4613;Marcoussis
+FRXX5389;Marcoux
+FRXX5065;Marcq-en-Baroeul
+FRXX3621;Marcq-en-Ostrevent
+FRXX3624;Mardyck
+FRXX1576;Mareil-en-France
+FRXX5086;Mareil-Marly
+FRXX4926;Mareil-sur-Loir
+FRXX4375;Mareil-sur-Mauldre
+FRXX2148;Marennes
+FRXX3343;Maretz
+FRXX6800;Mareuil
+FRXX5909;Mareuil-Caubert
+FRXX4623;Mareuil-en-Brie
+FRXX1651;Mareuil-le-Port
+FRXX1831;Mareuil-sur-Arnon
+FRXX6814;Mareuil-sur-Ay
+FRXX6750;Mareuil-sur-Lay-Dissais
+FRXX1324;Mareuil-sur-Ourcq
+FRXX2284;Margency
+FRXX5742;Margny-les-Compiegne
+FRXX5186;Margouet-Meymes
+FRXX2560;Margut
+FRXX4757;Marignana
+FRXX0058;Marignane
+FRXX3550;Marignier
+FRXX3856;Marigny
+FRXX1713;Marigny-en-Orxois
+FRXX5553;Marigny-le-Chatel
+FRXX6397;Marigny-les-Usages
+FRXX3800;Marigny-Marmande
+FRXX1322;Marigny-sur-Yonne
+FRXX3919;Marine de Luri
+FRXX1030;Marine de Pietracorbara
+FRXX6408;Maringues
+FRXX2577;Marle
+FRXX2872;Marlenheim
+FRXX3476;Marles-les-Mines
+FRXX2173;Marly
+FRXX3541;Marly
+FRXX5971;Marly-la-Ville
+FRXX2823;Marly-le-Roi
+FRXX1975;Marly-sous-Issy
+FRXX0326;Marmande
+FRXX2870;Marmoutier
+FRXX2058;Marnaz
+FRXX0279;Marne-la-Vallee
+FRXX2219;Marnes-la-Coquette
+FRXX3163;Marnhagues-et-Latour
+FRXX4308;Maroilles
+FRXX2242;Marolles-en-Hurepoix
+FRXX2660;Marolles-les-Braults
+FRXX4501;Marpent
+FRXX1349;Marquette-lez-Lille
+FRXX1441;Marquillies
+FRXX1273;Marquise
+FRXX2600;Marsac
+FRXX3551;Marsac-en-Livradois
+FRXX1631;Marsais-Sainte-Radegonde
+FRXX3948;Marsannay-la-Cote
+FRXX5852;Marseillan
+FRXX0059;Marseille
+FRXX5016;Marseille-en-Beauvaisis
+FRXX3089;Marsillargues
+FRXX3688;Mars-la-Tour
+FRXX3702;Marssac-sur-Tarn
+FRXX2874;Martignas-sur-Jalle
+FRXX2927;Martignat
+FRXX4165;Martigne-Briand
+FRXX5128;Martigne-Ferchaud
+FRXX3069;Martigne-sur-Mayenne
+FRXX2831;Martigny
+FRXX2255;Martigny-les-Bains
+FRXX5481;Martigues
+FRXX1968;Martres-de-Veyre
+FRXX4942;Martres-sur-Morge
+FRXX5149;Martres-Tolosane
+FRXX7011;Martrin
+FRXX4464;Marzy
+FRXX4666;Mas-Cabardes
+FRXX2663;Mascaras
+FRXX5088;Masevaux
+FRXX4106;Masnieres
+FRXX5948;Masny
+FRXX1172;Maspie-Lalonquere-Juillacq
+FRXX4124;Massignieu-de-Rives
+FRXX1534;Massy
+FRXX4004;Mathieu
+FRXX1115;Matignon
+FRXX6232;Matton-et-Clemency
+FRXX3019;Maubec
+FRXX4777;Maubert-Fontaine
+FRXX3576;Maubeuge
+FRXX4515;Mauchamps
+FRXX1619;Mauguio
+FRXX6311;Mauleon-Licharre
+FRXX3855;Maupertus-sur-Mer
+FRXX4430;Mauprevoir
+FRXX3559;Maurecourt
+FRXX2536;Maure-de-Bretagne
+FRXX6478;Maureilhan
+FRXX2063;Maureillas-las-Illas
+FRXX2110;Maurepas
+FRXX4734;Mauriac
+FRXX2192;Mauron
+FRXX3973;Maurs
+FRXX5791;Maury
+FRXX5482;Maussane-les-Alpilles
+FRXX3505;Mauvaisin
+FRXX2605;Mauzac-et-Grand-Castang
+FRXX6335;Mauzens-et-Miremont
+FRXX4578;Mauze-sur-le-Mignon
+FRXX4560;Maxeville
+FRXX3817;Maxey-sur-Meuse
+FRXX5886;Maxey-sur-Vaise
+FRXX1174;May-en-Multien
+FRXX3075;Mayres
+FRXX5369;Mayrinhac-Lentour
+FRXX5211;Mazamet
+FRXX5299;Mazan
+FRXX6286;Mazeres
+FRXX2586;Mazeres-Lezons
+FRXX3308;Mazerolles-du-Razes
+FRXX2126;Mazet-Saint-Voy
+FRXX2268;Mazille
+FRXX6352;Mazingarbe
+FRXX3034;Meaudre
+FRXX3730;Meaulte
+FRXX0060;Meaux
+FRXX0131;Medoc
+FRXX0245;Megeve
+FRXX6212;Mehun-sur-Yevre
+FRXX6722;Meigne-le-Vicomte
+FRXX4057;Meillac
+FRXX4863;Meillon
+FRXX1937;Melay
+FRXX1326;Melesse
+FRXX0379;Melle
+FRXX5942;Melrand
+FRXX0061;Melun
+FRXX3354;Melz-sur-Seine
+FRXX3427;Menat
+FRXX0162;Mende
+FRXX2193;Meneac
+FRXX5311;Menerbes
+FRXX1107;Menesqueville
+FRXX6637;Menestreau
+FRXX3842;Menetou-Salon
+FRXX4032;Menetreol-sur-Sauldre
+FRXX1551;Menil-de-Senones
+FRXX3735;Mennecy
+FRXX5800;Mennetou-sur-Cher
+FRXX3705;Mennevret
+FRXX4569;Menoncourt
+FRXX2800;Menthonnex-sous-Clermont
+FRXX0062;Menton
+FRXX3393;Mentque-Nortbecourt
+FRXX6778;Menucourt
+FRXX6426;Merck-Saint-Lievin
+FRXX1472;Mercy-le-Bas
+FRXX6203;Merdrignac
+FRXX6656;Merens-les-Vals
+FRXX4512;Mereville
+FRXX1870;Meria
+FRXX0246;Meribel
+FRXX6353;Mericourt
+FRXX4482;Mericourt-en-Vimeu
+FRXX5283;Meriel
+FRXX0063;Merignac
+FRXX4117;Merinchal
+FRXX3628;Merlimont
+FRXX5242;Merobert
+FRXX6825;Mers-les-Bains
+FRXX3795;Mertzwiller
+FRXX2719;Meru
+FRXX1353;Merville
+FRXX6201;Merville-Franceville-Plage
+FRXX5502;Mery-es-Bois
+FRXX3499;Mery-la-Bataille
+FRXX6098;Mery-sur-Oise
+FRXX3291;Mery-sur-Seine
+FRXX4243;Mesanger
+FRXX5468;Meschers-sur-Gironde
+FRXX5356;Meslay-du-Maine
+FRXX1011;Mesnil-Saint-Laurent
+FRXX4810;Mesnil-Saint-Loup
+FRXX4479;Mesnil-Saint-Nicaise
+FRXX2500;Mesnil-sur-l'Estree
+FRXX1103;Mesnil-Verclives
+FRXX6017;Messei
+FRXX2884;Messein
+FRXX1969;Messeix
+FRXX5977;Messey-sur-Grosne
+FRXX3660;Messia-sur-Sorne
+FRXX0521;Metabief
+FRXX3623;Meteren
+FRXX0064;Metz
+FRXX2855;Metz-en-Couture
+FRXX6633;Metz-le-Comte
+FRXX5085;Metz-Tessy
+FRXX2215;Meudon
+FRXX6759;Meung-sur-Loire
+FRXX4720;Meursault
+FRXX3097;Mexy
+FRXX3422;Meylan
+FRXX2546;Meynes
+FRXX2467;Meyrargues
+FRXX1080;Meyreuil
+FRXX3707;Meyronnes
+FRXX2070;Meythet
+FRXX3581;Meyzieu
+FRXX5850;Meze
+FRXX4218;Mezel
+FRXX1884;Mezeriat
+FRXX6519;Mezieres-en-Brenne
+FRXX6367;Mezieres-sous-Lavardin
+FRXX6691;Mezieres-sur-Issoire
+FRXX5992;Mezieres-sur-Seine
+FRXX1009;Mezy-Moulins
+FRXX5435;Mialet
+FRXX3371;Michelbach-le-Bas
+FRXX1367;Miellin
+FRXX4432;Mignaloux-Beauvoir
+FRXX3638;Migne-Auxances
+FRXX3658;Mignovillard
+FRXX4881;Mijoux
+FRXX4818;Milhaud
+FRXX3433;Millas
+FRXX0122;Millau
+FRXX3691;Millencourt-en-Ponthieu
+FRXX6558;Millieres
+FRXX1690;Milly-la-Foret
+FRXX4293;Milly-sur-Therain
+FRXX5423;Mimet
+FRXX0321;Mimizan
+FRXX1327;Miniac-Morvan
+FRXX6506;Mios
+FRXX3890;Mirabeau
+FRXX5529;Mirabel-et-Blacons
+FRXX3229;Miramas
+FRXX5377;Miramont-de-Guyenne
+FRXX3484;Miramont-de-Quercy
+FRXX5919;Mirandol-Bourgnounac
+FRXX2150;Mirebeau
+FRXX5430;Mirebeau-sur-Beze
+FRXX3718;Mireval
+FRXX3207;Miserey-Salines
+FRXX6487;Missillac
+FRXX6125;Missy-sur-Aisne
+FRXX1177;Mitry-Mory
+FRXX1406;Mittelhausbergen
+FRXX1194;Mittelwihr
+FRXX3189;Moelan-sur-Mer
+FRXX5174;Moirans-en-Montagne
+FRXX5235;Moislains
+FRXX3485;Moissac
+FRXX5810;Moisson
+FRXX4153;Moissy-Cramayel
+FRXX5762;Moivrons
+FRXX3486;Molieres
+FRXX4054;Molieres-sur-Ceze
+FRXX4621;Moliets-et-Maa
+FRXX0459;Molines-en-Queyras
+FRXX6108;Molinet
+FRXX2550;Mollans-sur-Ouveze
+FRXX5539;Molleges
+FRXX6503;Molsheim
+FRXX3606;Mommenheim
+FRXX2426;Monacia-d'Aullene
+FRXX3118;Monbahus
+FRXX1189;Monbazillac
+FRXX1738;Moncale
+FRXX2400;Monceau-le-Waast
+FRXX3514;Monceaux
+FRXX1072;Monceaux-sur-Dordogne
+FRXX2088;Monce-en-Belin
+FRXX1673;Moncel-sur-Seille
+FRXX4215;Monchaux-Soreng
+FRXX2581;Monchaux-sur-Ecaillon
+FRXX5864;Monchy-au-Bois
+FRXX4247;Monchy-Humieres
+FRXX5110;Monchy-le-Preux
+FRXX6443;Monchy-Saint-Eloi
+FRXX5753;Monclar
+FRXX6090;Monclar
+FRXX1294;Monclar-de-Quercy
+FRXX0065;Mondeville
+FRXX2331;Mondonville
+FRXX6020;Mondragon
+FRXX2038;Monestier-de-Clermont
+FRXX6216;Monestier-Merlines
+FRXX2405;Monetier-Allemont
+FRXX1369;Monferran-Saves
+FRXX3032;Monfort
+FRXX2893;Monguilhem
+FRXX4160;Monistrol-sur-Loire
+FRXX5818;Monleon-Magnoac
+FRXX3779;Monnerville
+FRXX3533;Monnetier-Mornex
+FRXX6586;Mons
+FRXX2777;Mons-en-Baroeul
+FRXX4152;Mons-en-Montois
+FRXX6309;Mons-en-Pevele
+FRXX1622;Monsteroux-Milieu
+FRXX5934;Mont Blanc Assy
+FRXX4290;Montady
+FRXX4824;Montagnac
+FRXX1906;Montagnac-la-Crempse
+FRXX0247;Montagne de Cherferie
+FRXX0248;Montagne de Mazeliere
+FRXX4898;Montagny
+FRXX5099;Montagny-les-Lanches
+FRXX2914;Montaignac-Saint-Hippolyte
+FRXX0308;Montaigu
+FRXX6534;Montaigu-de-Quercy
+FRXX2762;Montaigut-le-Blanc
+FRXX4872;Montaigut-le-Blanc
+FRXX2097;Montalet-le-Bois
+FRXX4199;Montalieu-Vercieu
+FRXX3675;Montambert
+FRXX4427;Montamise
+FRXX0066;Montargis
+FRXX4420;Montastruc-la-Conseillere
+FRXX5765;Montataire
+FRXX0067;Montauban
+FRXX3288;Montauban-de-Bretagne
+FRXX6288;Montaut
+FRXX1370;Montaut-les-Creneaux
+FRXX7000;Montbard
+FRXX6170;Montbeliard
+FRXX4709;Montberthault
+FRXX1667;Mont-Bonvillers
+FRXX4055;Montboucher-sur-Jabron
+FRXX5464;Montboudif
+FRXX4550;Montbouton
+FRXX4738;Montboyer
+FRXX6363;Montbrison
+FRXX1840;Montbron
+FRXX1088;Montbrun-les-Bains
+FRXX4649;Montcabrier
+FRXX0421;Montceau-les-Mines
+FRXX3375;Montceaux-les-Meaux
+FRXX4109;Montceaux-les-Provins
+FRXX4310;Montchanin
+FRXX0470;Montchavin - Les Coches
+FRXX5696;Montcresson
+FRXX4775;Montcy-Notre-Dame
+FRXX3508;Mont-de-Lans
+FRXX0163;Mont-de-Marsan
+FRXX4966;Mont-Dore
+FRXX2841;Montebourg
+FRXX1295;Monteils
+FRXX2534;Monteleger
+FRXX0123;Montelimar
+FRXX6247;Montemboeuf
+FRXX0320;Montendre
+FRXX2821;Montereau-sur-le-Jard
+FRXX3143;Montescourt-Lizerolles
+FRXX4265;Montesquieu-Volvestre
+FRXX3554;Montesquiou
+FRXX2112;Montesson
+FRXX5189;Montestruc-sur-Gers
+FRXX4579;Monteux
+FRXX4866;Montevrain
+FRXX4603;Montfaucon
+FRXX3598;Montfaucon-en-Velay
+FRXX4509;Montfavet
+FRXX5266;Montfermeil
+FRXX5728;Montfermier
+FRXX3243;Montferrand-la-Fare
+FRXX1784;Montferrand-le-Chateau
+FRXX3804;Montferrat
+FRXX4948;Montferrer
+FRXX6677;Montfort
+FRXX3820;Montfort-en-Chalosse
+FRXX5673;Montfort-le-Gesnois
+FRXX5757;Montfort-sur-Argens
+FRXX6300;Montfort-sur-Meu
+FRXX1851;Montfort-sur-Risle
+FRXX6264;Montfrin
+FRXX3321;Montgaillard
+FRXX0553;Montgenevre
+FRXX3064;Montgeron
+FRXX0249;Montgesin
+FRXX5437;Montgesoye
+FRXX3569;Montgey
+FRXX6056;Monthou-sur-Bievre
+FRXX1643;Monthureux-sur-Saone
+FRXX3668;Monthyon
+FRXX3520;Montierchaume
+FRXX2169;Montiers-sur-Saulx
+FRXX6515;Monties
+FRXX6384;Montignac
+FRXX5537;Montignac-le-Coq
+FRXX6077;Montigne-le-Brillant
+FRXX4558;Montigne-les-Rairies
+FRXX4462;Montigny-aux-Amognes
+FRXX2582;Montigny-en-Cambresis
+FRXX1206;Montigny-en-Gohelle
+FRXX3573;Montigny-en-Morvan
+FRXX6674;Montigny-en-Ostrevent
+FRXX3587;Montigny-le-Bretonneux
+FRXX6291;Montigny-le-Chartif
+FRXX3875;Montigny-les-Cormeilles
+FRXX2918;Montigny-les-Jongleurs
+FRXX2897;Montigny-les-Metz
+FRXX3179;Montigny-sur-Aube
+FRXX2190;Montigny-sur-Canne
+FRXX1201;Montigny-sur-Loing
+FRXX1979;Montivilliers
+FRXX6686;Montjay
+FRXX4212;Montjean-sur-Loire
+FRXX1865;Montjoux
+FRXX4072;Montlaur-en-Diois
+FRXX5908;Montlauzun
+FRXX5254;Mont-les-Neufchateau
+FRXX4640;Mont-le-Vignoble
+FRXX1641;Montlignon
+FRXX6649;Montliot-et-Courcelles
+FRXX1466;Montlouis-sur-Loire
+FRXX0389;Montlucon
+FRXX3874;Montmagny
+FRXX1674;Montmartin-sur-Mer
+FRXX2170;Montmedy
+FRXX6330;Montmerle-sur-Saone
+FRXX4823;Montmeyran
+FRXX5176;Montmirey-le-Chateau
+FRXX1694;Montmorency
+FRXX0340;Montmorillon
+FRXX3336;Mont-Notre-Dame
+FRXX5724;Montoir-de-Bretagne
+FRXX5225;Montoire-sur-le-Loir
+FRXX5190;Montois-la-Montagne
+FRXX3633;Montoulieu-Saint-Bernard
+FRXX6007;Montoy-Flanville
+FRXX0068;Montpellier
+FRXX6402;Montpeyroux
+FRXX6627;Montpezat
+FRXX6655;Montpezat
+FRXX2492;Montpezat-sous-Bauzon
+FRXX0317;Montpon
+FRXX3186;Montpon-Menesterol
+FRXX4913;Montpont-en-Bresse
+FRXX6510;Mont-pres-Chambord
+FRXX1310;Montrabe
+FRXX3506;Montreal
+FRXX1187;Montreal-la-Cluse
+FRXX3772;Montrecourt
+FRXX4932;Montredon
+FRXX2929;Montredon-des-Corbieres
+FRXX5095;Montredon-Labessonnie
+FRXX0361;Montreuil
+FRXX1167;Montreuil-aux-Lions
+FRXX4662;Montreuil-Bellay
+FRXX2820;Montreuil-en-Caux
+FRXX1663;Montreuil-Poulay
+FRXX0283;Montreuil-sous-Bois
+FRXX6029;Montreuil-sur-Ille
+FRXX5288;Montreux-Chateau
+FRXX3666;Montreux-Vieux
+FRXX4125;Montrevel-en-Bresse
+FRXX1526;Montrichard
+FRXX5808;Montricher-Albanne
+FRXX3305;Montrond-le-Chateau
+FRXX5841;Montrond-les-Bains
+FRXX1448;Montrottier
+FRXX2933;Montrouge
+FRXX3922;Montrozier
+FRXX2076;Monts
+FRXX0069;Mont-Saint-Aignan
+FRXX2144;Mont-Saint-Eloi
+FRXX4517;Mont-Saint-Martin
+FRXX6000;Montsoult
+FRXX5179;Mont-sous-Vaudrey
+FRXX3038;Monts-sur-Guesnes
+FRXX4630;Mont-sur-Meurthe
+FRXX3079;Montsurs
+FRXX3636;Montureux-et-Prantigny
+FRXX0250;Montvalezan-sur-Seez
+FRXX1021;Montvicq
+FRXX5670;Montville
+FRXX3850;Moon-sur-Elle
+FRXX1914;Moosch
+FRXX5957;Morangis
+FRXX3426;Morannes
+FRXX0380;Morcenx
+FRXX3286;Mordelles
+FRXX5735;Moretel-de-Mailles
+FRXX1474;Morez
+FRXX1235;Morgny-la-Pommeraye
+FRXX6427;Morienval
+FRXX6013;Morieres-les-Avignon
+FRXX4552;Morigny-Champigny
+FRXX0539;Morillon
+FRXX1478;Moriviller
+FRXX4320;Morizes
+FRXX0070;Morlaix
+FRXX3378;Mormant
+FRXX3978;Mornac-sur-Seudre
+FRXX3807;Mornas
+FRXX4762;Mornay-sur-Allier
+FRXX2958;Morsang-sur-Orge
+FRXX3372;Morschwiller-le-Bas
+FRXX3312;Morsiglia
+FRXX3529;Mortagne-au-Perche
+FRXX1530;Mortagne-du-Nord
+FRXX1120;Mortagne-sur-Gironde
+FRXX6791;Mortagne-sur-Sevre
+FRXX1175;Mortcerf
+FRXX1785;Morteau
+FRXX2470;Morteaux-Couliboeuf
+FRXX4993;Mortefontaine-en-Thelle
+FRXX2964;Morterolles-sur-Semme
+FRXX5287;Morvillars
+FRXX2175;Morville-les-Vic
+FRXX4508;Morvillers-Saint-Saturnin
+FRXX0251;Morzine
+FRXX3607;Motteville
+FRXX2412;Mouans-Sartoux
+FRXX2316;Mouchamps
+FRXX5906;Mouchard
+FRXX2411;Mougins
+FRXX4927;Mouguerre
+FRXX1462;Mouhers
+FRXX4606;Mouilleron-en-Pareds
+FRXX1754;Mouleydier
+FRXX2184;Mouliets-et-Villemartin
+FRXX0408;Moulins
+FRXX2189;Moulins-Engilbert
+FRXX1173;Moulins-la-Marche
+FRXX1477;Moulins-les-Metz
+FRXX4323;Moulon
+FRXX1025;Moult
+FRXX3276;Mouries
+FRXX1058;Mourjou
+FRXX5368;Mourmelon-le-Grand
+FRXX3120;Mours
+FRXX6217;Mours-Saint-Eusebe
+FRXX1627;Moussac
+FRXX2459;Moussages
+FRXX4150;Mousseaux-les-Bray
+FRXX6257;Mousseaux-Neuville
+FRXX1403;Mousseaux-sur-Seine
+FRXX5137;Moussey
+FRXX5826;Moustier-en-Fagne
+FRXX3888;Moustiers-Sainte-Marie
+FRXX2156;Mouterre-sur-Blourde
+FRXX4976;Mouthier-en-Bresse
+FRXX6802;Mouthier-Haute-Pierre
+FRXX1061;Mouthiers-sur-Boeme
+FRXX1902;Moutier-Malcard
+FRXX4870;Moutier-Rozeille
+FRXX1588;Moutiers
+FRXX2107;Moutiers
+FRXX1630;Moutiers-les-Mauxfaits
+FRXX3773;Moutiers-sous-Argenton
+FRXX3045;Moutiers-sous-Chantemerle
+FRXX1348;Mouvaux
+FRXX2090;Mouzieys-Teulet
+FRXX4776;Mouzon
+FRXX5396;Moy-de-l'Aisne
+FRXX3094;Moyen
+FRXX2256;Moyenmoutier
+FRXX3700;Moyenneville
+FRXX4415;Moyenneville
+FRXX5300;Moyeuvre-Grande
+FRXX5453;Moyrazes
+FRXX2180;Muhlbach-sur-Munster
+FRXX3594;Muides-sur-Loire
+FRXX0071;Mulhouse
+FRXX1196;Munchhouse
+FRXX4383;Muneville-le-Bingard
+FRXX6559;Muneville-sur-Mer
+FRXX3665;Munster
+FRXX4491;Murat-sur-Vebre
+FRXX4888;Murbach
+FRXX3175;Mur-de-Barrez
+FRXX5531;Mur-de-Bretagne
+FRXX3532;Mures
+FRXX6139;Muro
+FRXX4943;Murol
+FRXX6005;Murs-Erigne
+FRXX1867;Murviel-les-Montpellier
+FRXX6163;Mus
+FRXX5550;Mussy-sur-Seine
+FRXX6553;Mutzenhouse
+FRXX5070;Mutzig
+FRXX4499;Muzillac
+FRXX3114;Nadaillac-de-Rouge
+FRXX3197;Nages-et-Solorgues
+FRXX6593;Naintre
+FRXX5959;Nainville-les-Roches
+FRXX3809;Nalliers
+FRXX5206;Namps-Maisnil
+FRXX1929;Nancray-sur-Rimarde
+FRXX5361;Nancy
+FRXX0115;Nancy/Essey
+FRXX5084;Nancy-sur-Cluses
+FRXX4274;Nans-les-Pins
+FRXX6172;Nans-sous-Sainte-Anne
+FRXX3201;Nant
+FRXX0202;Nanterre
+FRXX0072;Nantes
+FRXX2310;Nantes-en-Ratier
+FRXX3270;Nanteuil-en-Vallee
+FRXX3500;Nanteuil-le-Haudouin
+FRXX1424;Nanteuil-les-Meaux
+FRXX2606;Nantua
+FRXX0338;Narbonne
+FRXX4779;Nassandres
+FRXX5849;Naujac-sur-Mer
+FRXX2589;Navailles-Angos
+FRXX2947;Naves
+FRXX5471;Naves
+FRXX6241;Neaufles-Saint-Martin
+FRXX3602;Neauphle-le-Chateau
+FRXX1637;Nemes
+FRXX5703;Nempont-Saint-Firmin
+FRXX5376;Nerac
+FRXX3904;Neris-les-Bains
+FRXX4564;Nerville-la-Foret
+FRXX5599;Nesles-la-Montagne
+FRXX4554;Nesles-la-Vallee
+FRXX6527;Neuf-Brisach
+FRXX2681;Neufchatel-en-Bray
+FRXX1405;Neufchatel-Hardelot
+FRXX5595;Neufchatel-sur-Aisne
+FRXX2181;Neufmontiers-les-Meaux
+FRXX6600;Neuille-Pont-Pierre
+FRXX3256;Neuilly
+FRXX2733;Neuilly-en-Thelle
+FRXX6726;Neuilly-en-Vexin
+FRXX2418;Neuilly-le-Real
+FRXX2265;Neuilly-Plaisance
+FRXX1005;Neuilly-Saint-Front
+FRXX5374;Neuilly-sur-Marne
+FRXX0295;Neuilly-sur-Seine
+FRXX4182;Neulise
+FRXX5073;Neung-sur-Beuvron
+FRXX6178;Neussargues-Moissac
+FRXX1057;Neuveglise
+FRXX6075;Neuvelle-les-Voisey
+FRXX4646;Neuves-Maisons
+FRXX1188;Neuvic
+FRXX2479;Neuvic
+FRXX4385;Neuvic-Entier
+FRXX3245;Neuvicq-le-Chateau
+FRXX2389;Neuville
+FRXX5008;Neuville-aux-Bois
+FRXX1689;Neuville-Coppegueule
+FRXX3250;Neuville-Day
+FRXX2151;Neuville-de-Poitou
+FRXX3478;Neuville-en-Ferrain
+FRXX6333;Neuville-les-Dames
+FRXX3768;Neuviller-les-Badonviller
+FRXX2785;Neuville-Saint-Remy
+FRXX4408;Neuville-sur-Escaut
+FRXX4657;Neuville-sur-Oise
+FRXX1605;Neuville-sur-Saone
+FRXX6733;Neuvilly-en-Argonne
+FRXX6394;Neuvy-en-Sullias
+FRXX5060;Neuvy-Grandchamp
+FRXX5881;Neuvy-Saint-Sepulchre
+FRXX5285;Neuvy-Sautour
+FRXX3259;Neuvy-sur-Barangeon
+FRXX1491;Neuvy-sur-Loire
+FRXX5112;Neuwiller-les-Saverne
+FRXX0164;Nevers
+FRXX1768;Nevez
+FRXX5098;Nezel
+FRXX0073;Nice
+FRXX2367;Nicole
+FRXX4886;Niderhoff
+FRXX1564;Niderviller
+FRXX5160;Niederhausbergen
+FRXX6481;Nielles-les-Blequin
+FRXX5166;Nieppe
+FRXX5828;Niergnies
+FRXX6211;Nieuil
+FRXX6823;Nieul-le-Dolent
+FRXX5219;Nieulle-sur-Seudre
+FRXX3273;Nieul-sur-Mer
+FRXX3405;Nilvange
+FRXX0165;Nimes
+FRXX0166;Niort
+FRXX5132;Nissan-lez-Enserune
+FRXX6734;Nivillac
+FRXX4847;Nizy-le-Comte
+FRXX2794;Noaillan
+FRXX6445;Noailles
+FRXX3171;Noceta
+FRXX4814;Noe-les-Mallets
+FRXX3527;Noeux-les-Mines
+FRXX2991;Nogent-le-Bernard
+FRXX6339;Nogent-le-Phaye
+FRXX2566;Nogent-le-Roi
+FRXX4136;Nogent-le-Rotrou
+FRXX4769;Nogent-le-Sec
+FRXX4059;Nogent-sur-Aube
+FRXX3051;Nogent-sur-Marne
+FRXX2752;Nogent-sur-Oise
+FRXX4061;Nogent-sur-Seine
+FRXX4164;Nogent-sur-Vernisson
+FRXX5683;Nohanent
+FRXX1612;Noirmoutier-en-l'Ile
+FRXX4656;Noiseau
+FRXX3355;Noisiel
+FRXX5975;Noisy-le-Grand
+FRXX5843;Noisy-le-Roi
+FRXX2981;Noisy-le-Sec
+FRXX4305;Noisy-Rudignon
+FRXX5899;Noisy-sur-Ecole
+FRXX1325;Nonant-le-Pin
+FRXX6788;Noncourt-sur-le-Rongeant
+FRXX4884;Nontron
+FRXX3024;Nordhouse
+FRXX4643;Norroy-le-Sec
+FRXX3662;Norroy-le-Veneur
+FRXX3473;Nort-sur-Erdre
+FRXX6751;Nothalten
+FRXX0444;Notre-Dame-de-Bellecombe
+FRXX2832;Notre-Dame-de-Bondeville
+FRXX5133;Notre-Dame-de-Cenilly
+FRXX3044;Notre-Dame-de-Monts
+FRXX6157;Notre-Dame-de-Sanilhac
+FRXX6410;Notre-Dame-des-Landes
+FRXX1244;Notre-Dame-de-Vaulx
+FRXX3734;Notre-Dame-du-Pe
+FRXX3614;Notre-Dame-du-Touchet
+FRXX1454;Nouaille-Maupertuis
+FRXX2944;Nouan-le-Fuzelier
+FRXX5883;Nouans-les-Fontaines
+FRXX1391;Nousseviller-Saint-Nabor
+FRXX2924;Nouvion
+FRXX1012;Nouvion-le-Comte
+FRXX2495;Nouvion-sur-Meuse
+FRXX1648;Nouvoitou
+FRXX4833;Nouzonville
+FRXX4235;Novalaise
+FRXX2843;Noveant-sur-Moselle
+FRXX5237;Novella
+FRXX6194;Noves
+FRXX4549;Novillard
+FRXX3682;Noyal-Pontivy
+FRXX2833;Noyal-sur-Vilaine
+FRXX5239;Noyant-la-Gravoyere
+FRXX4908;Noyelles-Godault
+FRXX6492;Noyelles-les-Seclin
+FRXX1208;Noyelles-les-Vermelles
+FRXX2764;Noyelles-sous-Lens
+FRXX6668;Noyelles-sur-Escaut
+FRXX4507;Noyelles-sur-Mer
+FRXX6576;Noyelles-sur-Selle
+FRXX2669;Noyen-sur-Sarthe
+FRXX1483;Noyen-sur-Seine
+FRXX1871;Noyers-Pont-Maugis
+FRXX4296;Noyers-Saint-Martin
+FRXX1361;Noyers-sur-Cher
+FRXX3498;Noyon
+FRXX4237;Nozay
+FRXX1066;Nuaille-d'Aunis
+FRXX6010;Nueil-les-Aubiers
+FRXX1936;Nueil-sur-Layon
+FRXX2977;Nuits
+FRXX3221;Nuits-Saint-Georges
+FRXX4067;Nyons
+FRXX4890;Oberdorf
+FRXX3794;Oberhaslach
+FRXX4433;Oberhausbergen
+FRXX3025;Oberhoffen-sur-Moder
+FRXX5835;Obernai
+FRXX2158;Oberschaeffolsheim
+FRXX3238;Ocana
+FRXX4392;Octeville-sur-Mer
+FRXX1199;Oderen
+FRXX6372;Odos
+FRXX3589;Oermingen
+FRXX1886;OEuilly
+FRXX5345;OEuilly
+FRXX2587;Ogenne-Camptort
+FRXX5817;Ogeu-les-Bains
+FRXX5642;Oignies
+FRXX1616;Oinville-sur-Montcient
+FRXX4975;Oiselay-et-Grachaux
+FRXX4931;Oisseau-le-Petit
+FRXX3442;Oissel
+FRXX2579;Oisy-le-Verger
+FRXX2805;Oleac-Debat
+FRXX2423;Olemps
+FRXX5714;Olette
+FRXX1535;Ollainville
+FRXX2726;Ollioules
+FRXX2221;Olmeta-di-Tuda
+FRXX2473;Olmeto
+FRXX5951;Olmi-Cappella
+FRXX3830;Olonne-sur-Mer
+FRXX5045;Olonzac
+FRXX3348;Oloron-Sainte-Marie
+FRXX1147;Omessa
+FRXX5335;Ondres
+FRXX1413;Ondreville-sur-Essonne
+FRXX3622;Onnaing
+FRXX2622;Onville
+FRXX5780;Oost-Cappel
+FRXX2071;Opera
+FRXX6746;Oppede
+FRXX5952;Oradour-Saint-Genest
+FRXX4520;Oradour-sur-Glane
+FRXX4386;Oradour-sur-Vayres
+FRXX0167;Orange
+FRXX6132;Orbec
+FRXX4452;Orbey
+FRXX2452;Orchamps-Vennes
+FRXX2757;Orchies
+FRXX0252;Orcieres
+FRXX5764;Orcines
+FRXX5188;Ordan-Larroque
+FRXX5175;Orgelet
+FRXX4092;Orgeres
+FRXX4085;Orgeres-en-Beauce
+FRXX6561;Orgeval
+FRXX1082;Orgon
+FRXX2395;Origny-en-Thierache
+FRXX6306;Origny-Sainte-Benoite
+FRXX3446;Orival
+FRXX0074;Orleans
+FRXX1394;Orleix
+FRXX2105;Orlienas
+FRXX2271;Orly
+FRXX5982;Ormesson-sur-Marne
+FRXX2355;Ormoy-les-Sexfontaines
+FRXX4121;Ornex
+FRXX2720;Orrouy
+FRXX2734;Orry-la-Ville
+FRXX5240;Orsay
+FRXX2051;Orsennes
+FRXX4229;Ortaffa
+FRXX0327;Orthez
+FRXX0075;Orvault
+FRXX3389;Orveau-Bellesauve
+FRXX1698;Osny
+FRXX2768;Osse-en-Aspe
+FRXX4978;Osseja
+FRXX2665;Ossun
+FRXX1459;Osthoffen
+FRXX6669;Ostricourt
+FRXX4434;Ostwald
+FRXX1837;Ota
+FRXX1899;Othis
+FRXX2127;Ottange
+FRXX2615;Ottmarsheim
+FRXX6554;Ottrott
+FRXX1584;Ouanne
+FRXX2943;Oucques
+FRXX2009;Oudon
+FRXX0113;Ouessant
+FRXX1753;Ouilly-du-Houley
+FRXX3910;Ouistreham
+FRXX4096;Oulchy-le-Chateau
+FRXX1973;Oullins
+FRXX4787;Ourouer-les-Bourdelins
+FRXX2640;Ouroux-sur-Saone
+FRXX5684;Oursbelille
+FRXX2705;Ourton
+FRXX4537;Ousson-sur-Loire
+FRXX3454;Outreau
+FRXX2830;Ouville-la-Riviere
+FRXX2224;Ouzouer-le-Marche
+FRXX3449;Ouzouer-sur-Loire
+FRXX4258;Ouzouer-sur-Trezee
+FRXX6412;Oye-Plage
+FRXX0366;Oyonnax
+FRXX1319;Oytier-Saint-Oblas
+FRXX0515;Oz-en-Oisans
+FRXX5649;Ozoir-la-Ferriere
+FRXX2267;Ozolles
+FRXX5129;Pace
+FRXX3839;Pacy-sur-Armancon
+FRXX3281;Pacy-sur-Eure
+FRXX5999;Pagny-sur-Moselle
+FRXX1443;Paillencourt
+FRXX2370;Pailloles
+FRXX2010;Paimboeuf
+FRXX6226;Paimpol
+FRXX5760;Paladru
+FRXX6513;Palais-Bourbon
+FRXX6087;Palaiseau
+FRXX5391;Palaja
+FRXX6477;Palavas-les-Flots
+FRXX3987;Palneca
+FRXX4834;Pamiers
+FRXX6692;Panazol
+FRXX6259;Pance
+FRXX1214;Panissieres
+FRXX3749;Pantin
+FRXX0411;Paray-le-Monial
+FRXX3815;Paray-Vieille-Poste
+FRXX1374;Parcay-sur-Vienne
+FRXX5589;Parce
+FRXX1976;Pardies
+FRXX0381;Parentis-en-Born
+FRXX3771;Parey-Saint-Cesaire
+FRXX3112;Pargny-les-Reims
+FRXX3867;Pargny-sous-Mureau
+FRXX3857;Pargny-sur-Saulx
+FRXX4583;Parigne-l'Eveque
+FRXX0076;Paris
+FRXX0077;Paris/Charles De Gaulle
+FRXX6725;Parmain
+FRXX6067;Parne-sur-Roc
+FRXX3745;Paroy-en-Othe
+FRXX0316;Parthenay
+FRXX3392;Pas-en-Artois
+FRXX1603;Passais
+FRXX6272;Passonfontaine
+FRXX3145;Passy-sur-Marne
+FRXX3387;Patay
+FRXX0168;Pau
+FRXX1358;Pauillac
+FRXX3214;Paulhac
+FRXX3907;Paulhe
+FRXX5924;Paulinet
+FRXX1908;Paussac-et-Saint-Vivien
+FRXX4334;Pavie
+FRXX4354;Payrin-Augmontel
+FRXX2611;Payzac
+FRXX2562;Pech
+FRXX3886;Pecharic-et-le-Py
+FRXX5148;Pechbonnieu
+FRXX3534;Pecquencourt
+FRXX4684;Pegomas
+FRXX7700;Peille
+FRXX0445;Peisey Vallandry
+FRXX2001;Peisey-Nancroix
+FRXX1060;Pelissanne
+FRXX2386;Pellouailles-les-Vignes
+FRXX5654;Peltre
+FRXX6121;Pelvoux
+FRXX1498;Penestin
+FRXX3950;Penmarch
+FRXX1737;Penta-di-Casinca
+FRXX4784;Penvenan
+FRXX6702;Percey
+FRXX1153;Pereille
+FRXX2165;Perenchies
+FRXX3557;Pergain-Taillac
+FRXX6129;Periers-en-Auge
+FRXX4694;Periers-sur-le-Dan
+FRXX6403;Perignat-les-Sarlieve
+FRXX5682;Perignat-sur-Allier
+FRXX1842;Perigny
+FRXX0169;Perigueux
+FRXX6399;Pern
+FRXX6425;Pernes
+FRXX2818;Pernes-les-Boulogne
+FRXX6011;Pernes-les-Fontaines
+FRXX2029;Perols
+FRXX4033;Perols-sur-Vezere
+FRXX1885;Peronnas
+FRXX1440;Peronne-en-Melantois
+FRXX5289;Perouse
+FRXX2510;Perpezac-le-Blanc
+FRXX5494;Perpezac-le-Noir
+FRXX0128;Perpignan
+FRXX5816;Perrecy-les-Forges
+FRXX2136;Perriers-en-Beauficel
+FRXX4084;Perriers-sur-Andelle
+FRXX1341;Perrignier
+FRXX3266;Perros-Guirec
+FRXX5903;Perroy
+FRXX6094;Persan
+FRXX2801;Pers-Jussy
+FRXX6738;Pertuis
+FRXX2299;Peschadoires
+FRXX0078;Pessac
+FRXX3610;Pessac-sur-Dordogne
+FRXX1234;Petit-Couronne
+FRXX3006;Petite-Foret
+FRXX2614;Petite-Rosselle
+FRXX2584;Petit-Fayt
+FRXX5397;Petit-Verly
+FRXX6193;Petreto-Bicchisano
+FRXX3155;Peymeinade
+FRXX3993;Peypin
+FRXX0518;Peyragudes
+FRXX1546;Peyrat-de-Bellac
+FRXX2598;Peyrat-la-Noniere
+FRXX2973;Peyrat-le-Chateau
+FRXX4825;Peyrefitte-du-Razes
+FRXX1646;Peyrehorade
+FRXX1003;Peyriac-de-Mer
+FRXX5528;Peyrins
+FRXX6164;Peyroles
+FRXX4798;Peyrolles-en-Provence
+FRXX3139;Peyroules
+FRXX5399;Peyruis
+FRXX6168;Peyrusse-le-Roc
+FRXX1368;Peyrusse-Massas
+FRXX4599;Peyzac-le-Moustier
+FRXX4074;Pezens
+FRXX3540;Pezilla-la-Riviere
+FRXX2118;Pfaffenhoffen
+FRXX1481;Pfastatt
+FRXX3565;Pfetterhouse
+FRXX5782;Phalempin
+FRXX1219;Phalsbourg
+FRXX5715;Pia
+FRXX1086;Piana
+FRXX2474;Pianottoli-Caldarello
+FRXX0452;Piau Engaly
+FRXX5419;Piazzali
+FRXX3345;Piblange
+FRXX1486;Pibrac
+FRXX1988;Picherande
+FRXX0253;Pied Aigu
+FRXX5950;Piedicorte-di-Gaggio
+FRXX3050;Piegut-Pluviers
+FRXX3767;Piennes
+FRXX0254;Pierre Besse
+FRXX2814;Pierre-Benite
+FRXX5024;Pierrefeu-du-Var
+FRXX6204;Pierrefitte
+FRXX4751;Pierrefitte-en-Cinglais
+FRXX4186;Pierrefitte-Nestalas
+FRXX4445;Pierrefitte-sur-Aire
+FRXX2984;Pierrefitte-sur-Seine
+FRXX5011;Pierrefonds
+FRXX2456;Pierrefontaine-les-Varans
+FRXX1849;Pierrelatte
+FRXX3128;Pierrelaye
+FRXX6648;Pierrepont-sur-Avre
+FRXX6793;Pierrevert
+FRXX4827;Pietrapola
+FRXX6209;Pietrosella
+FRXX5030;Pignans
+FRXX3459;Pin
+FRXX1859;Pin-Balma
+FRXX1881;Pinet
+FRXX4097;Pinon
+FRXX1607;Piolenc
+FRXX5126;Pipriac
+FRXX6811;Pirou
+FRXX5861;Pitgam
+FRXX3386;Pithiviers
+FRXX4780;Pitres
+FRXX3195;Plabennec
+FRXX2201;Plachy-Buyon
+FRXX5500;Plaimpied-Givaudins
+FRXX1830;Plaintel
+FRXX4269;Plaisance-du-Touch
+FRXX2817;Plaisir
+FRXX3466;Planay
+FRXX3553;Plancher-Bas
+FRXX4466;Planchez
+FRXX3983;Plancoet
+FRXX4060;Plancy-l'Abbaye
+FRXX2466;Plan-de-Cuques
+FRXX3228;Plan-d'Orgon
+FRXX2537;Plechatel
+FRXX3246;Pledeliac
+FRXX6271;Pledran
+FRXX1328;Pleine-Fougeres
+FRXX4807;Plelan-le-Grand
+FRXX4115;Plelan-le-Petit
+FRXX1797;Plelo
+FRXX4753;Plemet
+FRXX1097;Plenee-Jugon
+FRXX4038;Pleneuf-Val-Andre
+FRXX1808;Plerin
+FRXX4041;Plesidy
+FRXX4037;Plessala
+FRXX5048;Plesse
+FRXX1112;Plestin-les-Greves
+FRXX3264;Pleubian
+FRXX4843;Pleumeleuc
+FRXX5511;Pleumeur-Bodou
+FRXX3519;Pleurtuit
+FRXX4047;Pleuville
+FRXX4885;Pleyben
+FRXX2351;Pleyber-Christ
+FRXX1765;Plobannalec-Lesconil
+FRXX6502;Plobsheim
+FRXX5227;Ploemeur
+FRXX5226;Ploerdut
+FRXX4471;Ploeren
+FRXX0302;Ploermal
+FRXX6480;Ploermel
+FRXX1044;Plogoff
+FRXX6341;Plogonnec
+FRXX3816;Plombieres-les-Bains
+FRXX1746;Plombieres-les-Dijon
+FRXX3191;Plomelin
+FRXX1192;Plomeur
+FRXX1763;Plomodiern
+FRXX3192;Ploneour-Lanvern
+FRXX6162;Plonevez-du-Faou
+FRXX2487;Plouaret
+FRXX1766;Plouarzel
+FRXX2507;Plouasne
+FRXX4449;Plouay
+FRXX4791;Ploubalay
+FRXX5512;Ploubazlanec
+FRXX2446;Ploudalmezeau
+FRXX1764;Plouegat-Guerand
+FRXX1114;Plouer-sur-Rance
+FRXX3942;Plouescat
+FRXX1835;Plouezec
+FRXX3940;Plouezoc'h
+FRXX1095;Ploufragan
+FRXX2442;Plougasnou
+FRXX5441;Plougastel-Daoulas
+FRXX5625;Plougonvelin
+FRXX4598;Plougonven
+FRXX4044;Plougrescant
+FRXX5470;Plouguenast
+FRXX1046;Plouguerneau
+FRXX1818;Plouha
+FRXX1561;Plouharnel
+FRXX5446;Plouhinec
+FRXX4719;Plouigneau
+FRXX3357;Ploumagoar
+FRXX1108;Plounerin
+FRXX3941;Plounevezel
+FRXX2506;Plounevez-Moedec
+FRXX5905;Plouray
+FRXX3267;Plourivo
+FRXX6161;Plouvorn
+FRXX3188;Plouzane
+FRXX4718;Plouzevede
+FRXX3947;Plozevet
+FRXX2515;Plumaudan
+FRXX1494;Plumelec
+FRXX3683;Plumeliau
+FRXX6145;Plumetot
+FRXX2901;Pluneret
+FRXX2514;Plurien
+FRXX4713;Plusquellec
+FRXX3007;Pluvigner
+FRXX1468;Poce-sur-Cisse
+FRXX5936;Podensac
+FRXX4861;Poey-de-Lescar
+FRXX5433;Poggio-di-Venaco
+FRXX4699;Poggio-d'Oletta
+FRXX2121;Poigny-la-Foret
+FRXX4189;Poille-sur-Vegre
+FRXX5693;Poilly-lez-Gien
+FRXX1557;Poilly-sur-Serein
+FRXX2261;Poilly-sur-Tholon
+FRXX6148;Poincon-les-Larrey
+FRXX0256;Pointe de Corbier
+FRXX0257;Pointe de l' Eygliere
+FRXX0255;Pointe Turra
+FRXX7706;Pointe-a-Pitre
+FRXX4264;Pointis-de-Riviere
+FRXX2109;Poissy
+FRXX0170;Poitiers
+FRXX3340;Poix-du-Nord
+FRXX1998;Polaincourt-et-Clairefontaine
+FRXX6439;Polignac
+FRXX2592;Poligny
+FRXX1606;Pollestres
+FRXX2609;Pollieu
+FRXX6781;Pomarez
+FRXX4089;Pomerols
+FRXX1750;Pommard
+FRXX4039;Pommerit-Jaudy
+FRXX2678;Pommiers
+FRXX1961;Pommiers-la-Placette
+FRXX2278;Pompey
+FRXX3966;Pompierre-sur-Doubs
+FRXX5727;Pompignan
+FRXX2590;Pontacq
+FRXX5429;Pontailler-sur-Saone
+FRXX5066;Pont-a-Marcq
+FRXX3005;Pont-a-Mousson
+FRXX0423;Pontarlier
+FRXX4025;Pont-Audemer
+FRXX4956;Pont-aux-Moines
+FRXX2447;Pont-Aven
+FRXX1485;Pontcarre
+FRXX1623;Pontcharra
+FRXX3583;Pontcharra-sur-Turdine
+FRXX1992;Pontchateau
+FRXX5540;Pont-de-Labeaume
+FRXX1541;Pont-de-Metz
+FRXX1777;Pont-de-Salars
+FRXX3362;Pont-de-Vaux
+FRXX1185;Pont-de-Veyle
+FRXX4653;Pont-du-Casse
+FRXX5659;Pont-du-Chateau
+FRXX4817;Ponteils-et-Bresis
+FRXX4698;Ponte-Leccia
+FRXX4909;Pontenx-les-Forges
+FRXX2341;Ponteves
+FRXX6787;Pontfaverger-Moronvilliers
+FRXX6813;Pont-Hebert
+FRXX3350;Pontiacq-Viellepinte
+FRXX5258;Pontigny
+FRXX5941;Pontivy
+FRXX5530;Pont-Melvez
+FRXX4474;Pont-Noyelles
+FRXX3873;Pontoise
+FRXX6052;Pontonx-sur-l'Adour
+FRXX4842;Pont-Pean
+FRXX4844;Pont-Rean
+FRXX3699;Pont-Remy
+FRXX1111;Pontrieux
+FRXX3290;Pont-Sainte-Marie
+FRXX3503;Pont-Sainte-Maxence
+FRXX1773;Pont-Saint-Esprit
+FRXX5519;Pont-Saint-Pierre
+FRXX2999;Pont-Saint-Vincent
+FRXX3678;Pont-Scorff
+FRXX2167;Pont-sur-Meuse
+FRXX5783;Pont-sur-Sambre
+FRXX4532;Pont-sur-Yonne
+FRXX2828;Porcelette
+FRXX4790;Pordic
+FRXX3471;Pornic
+FRXX4241;Pornichet
+FRXX0180;Porquerolles
+FRXX5447;Porspoder
+FRXX5568;Porta
+FRXX5425;Port-de-Bouc
+FRXX1817;Port-des-Barques
+FRXX1004;Portel-des-Corbieres
+FRXX3936;Port-en-Bessin-Huppain
+FRXX6255;Portes-les-Valence
+FRXX1140;Portet-sur-Garonne
+FRXX6058;Port-Joinville
+FRXX0371;Port-la-Nouvelle
+FRXX3369;Port-Launay
+FRXX4576;Port-Louis
+FRXX2759;Port-Navalo
+FRXX5496;Porto-Vecchio
+FRXX2891;Port-Sainte-Foy-et-Ponchapt
+FRXX4650;Port-Sainte-Marie
+FRXX3998;Port-Saint-Louis-du-Rhone
+FRXX2769;Port-Saint-Pere
+FRXX5716;Portvendres
+FRXX4781;Poses
+FRXX3295;Pouan-les-Vallees
+FRXX5750;Poucharramet
+FRXX2575;Pougny
+FRXX5195;Pougues-les-Eaux
+FRXX1041;Pouilley-les-Vignes
+FRXX3057;Pouillon
+FRXX3928;Pouilly-en-Auxois
+FRXX3595;Pouilly-les-Feurs
+FRXX1412;Pouilly-les-Nonains
+FRXX3380;Pouilly-sous-Charlieu
+FRXX4357;Pouilly-sur-Loire
+FRXX6147;Pouilly-sur-Saone
+FRXX5711;Poule-les-Echarmeaux
+FRXX1191;Poullan-sur-Mer
+FRXX6294;Poullaouen
+FRXX2976;Pourrain
+FRXX5758;Pourrieres
+FRXX2055;Poursiugues-Boucoue
+FRXX2494;Pouru-Saint-Remy
+FRXX1660;Poussan
+FRXX6700;Pouxeux
+FRXX6039;Pouzauges
+FRXX0502;Pra Loup
+FRXX2019;Pradelles
+FRXX3787;Prades
+FRXX6253;Prades
+FRXX5412;Prades-d'Aubrac
+FRXX5584;Prades-le-Lez
+FRXX2713;Pralognan-la-Vanoise
+FRXX0447;Pras-de-Lys
+FRXX0489;Pras-sur-Arly
+FRXX3317;Prat-Bonrepaux
+FRXX2781;Prats-de-Mollo-la-Preste
+FRXX2988;Praye
+FRXX6400;Prayssac
+FRXX1691;Prayssas
+FRXX3823;Praz Coutant
+FRXX4707;Precy-sous-Thil
+FRXX4892;Precy-sur-Marne
+FRXX2024;Precy-sur-Oise
+FRXX2236;Precy-sur-Vrin
+FRXX1514;Premontre
+FRXX4670;Presles-et-Thierny
+FRXX4407;Preux-au-Bois
+FRXX5784;Preux-au-Sart
+FRXX4123;Prevessin-Moens
+FRXX6805;Prez-sous-Lafauche
+FRXX0208;Privas
+FRXX3224;Propriano
+FRXX2811;Prouvy
+FRXX4729;Provenchere
+FRXX4527;Provencheres-sur-Fave
+FRXX1437;Proville
+FRXX6676;Provin
+FRXX2591;Provins
+FRXX1539;Proyart
+FRXX1190;Prunay-le-Gillon
+FRXX3561;Prunay-le-Temple
+FRXX6279;Prunelli-di-Fiumorbo
+FRXX5956;Pruno
+FRXX6455;Puget-sur-Argens
+FRXX2548;Pugey
+FRXX3199;Puicheric
+FRXX1856;Puilaurens
+FRXX5379;Puiseux-en-France
+FRXX5014;Puiseux-le-Hauberger
+FRXX2113;Puisieux
+FRXX2553;Puisserguier
+FRXX5879;Pujaudran
+FRXX3198;Pujaut
+FRXX2792;Pujols-sur-Ciron
+FRXX6723;Pulnoy
+FRXX2087;Pulversheim
+FRXX1640;Pussay
+FRXX5262;Puteaux
+FRXX4704;Putot-en-Auge
+FRXX4887;Puttelange-les-Thionville
+FRXX0503;Puy Saint Vincent
+FRXX6653;Puycelci
+FRXX3490;Puygaillard-de-Quercy
+FRXX5824;Puygouzon
+FRXX6406;Puy-Guillaume
+FRXX3572;Puylagarde
+FRXX1032;Puyloubier
+FRXX1517;Puyricard
+FRXX4767;Puy-Saint-Martin
+FRXX0435;Pyrenees 2000
+FRXX4857;Quarouble
+FRXX3002;Quarre-les-Tombes
+FRXX3226;Quasquara
+FRXX4236;Queige
+FRXX3084;Quelaines-Saint-Gault
+FRXX3681;Quelneuc
+FRXX1068;Quemigny-sur-Seine
+FRXX4476;Quend
+FRXX1799;Quenza
+FRXX1596;Querenaing
+FRXX6287;Querigut
+FRXX1759;Querrien
+FRXX3166;Quesney-Guesnon
+FRXX1504;Quesnoy-sur-Airaines
+FRXX6602;Quesnoy-sur-Deule
+FRXX1527;Questembert
+FRXX2360;Quettreville-sur-Sienne
+FRXX1495;Queven
+FRXX3181;Quevert
+FRXX4010;Queyssac-les-Vignes
+FRXX2292;Quiberon
+FRXX4163;Quiers-sur-Bezonde
+FRXX2717;Quievrechain
+FRXX5105;Quievy
+FRXX2502;Quillebeuf-sur-Seine
+FRXX5777;Quilly
+FRXX0079;Quimper
+FRXX5440;Quimperle
+FRXX5092;Quincampoix
+FRXX6472;Quincampoix-Fleuzy
+FRXX2104;Quincie-en-Beaujolais
+FRXX5325;Quincieu
+FRXX6775;Quincy-sous-Senart
+FRXX5689;Quincy-Voisins
+FRXX3906;Quinssaines
+FRXX4043;Quintin
+FRXX5910;Quiry-le-Sec
+FRXX5578;Quissac
+FRXX5823;Rabastens
+FRXX1229;Rabastens-de-Bigorre
+FRXX1399;Rabouillet
+FRXX2338;Rachecourt-sur-Marne
+FRXX1889;Raches
+FRXX6416;Raddon-et-Chapendu
+FRXX2046;Rai
+FRXX1442;Raimbeaucourt
+FRXX1293;Rainvillers
+FRXX6008;Raismes
+FRXX3507;Ramatuelle
+FRXX4531;Rambervillers
+FRXX2308;Rambouillet
+FRXX2862;Ramonville-Saint-Agne
+FRXX3582;Ranchal
+FRXX2086;Rantzwiller
+FRXX3236;Ranville
+FRXX5965;Raon-aux-Bois
+FRXX2253;Raon-sur-Plaine
+FRXX6657;Raphele
+FRXX1350;Raucourt-au-Bois
+FRXX4832;Raucourt-et-Flaba
+FRXX3615;Rauville-la-Bigot
+FRXX1812;Ravel-et-Ferriers
+FRXX1315;Rayol-Canadel-sur-Mer
+FRXX5434;Razac-sur-l'Isle
+FRXX1642;Razes
+FRXX0508;Reallon
+FRXX2926;Realmont
+FRXX4250;Realville
+FRXX4440;Reans
+FRXX1745;Recey-sur-Ource
+FRXX5272;Rechesy
+FRXX1432;Rechicourt-le-Chateau
+FRXX3130;Recoules-d'Aubrac
+FRXX1170;Recquignies
+FRXX2653;Reding
+FRXX0304;Redon
+FRXX6345;Reguisheim
+FRXX5281;Rehon
+FRXX6501;Reichshoffen
+FRXX5107;Reichstett
+FRXX5498;Reignac
+FRXX4337;Reignac-sur-Indre
+FRXX3798;Reignier
+FRXX0080;Reims
+FRXX1200;Reiningue
+FRXX3575;Rejet-de-Beaulieu
+FRXX2044;Remalard
+FRXX6189;Remilly-sur-Tille
+FRXX1550;Remiremont
+FRXX5228;Renescure
+FRXX0114;Rennes
+FRXX6302;Replonges
+FRXX0336;Requista
+FRXX2025;Ressons-sur-Matz
+FRXX1101;Rethel
+FRXX1292;Rethondes
+FRXX2535;Retiers
+FRXX5267;Retonfey
+FRXX6449;Revel
+FRXX4935;Revel-Tourdan
+FRXX4933;Reventin-Vaugris
+FRXX4687;Revest-les-Roches
+FRXX2171;Revigny-sur-Ornain
+FRXX4081;Revin
+FRXX3346;Reyersviller
+FRXX0081;Reze
+FRXX6596;Rhinau
+FRXX2715;Riaille
+FRXX5199;Riantec
+FRXX4819;Ribaute-les-Tavernes
+FRXX6610;Ribeauville
+FRXX5953;Ribemont-sur-Ancre
+FRXX3992;Riboux
+FRXX2290;Richardmenil
+FRXX2856;Richebourg
+FRXX1216;Richemont
+FRXX2305;Richerenches
+FRXX4716;Riec-sur-Belon
+FRXX5898;Riedisheim
+FRXX1155;Rieucros
+FRXX6832;Rieutort-de-Randon
+FRXX4411;Rieux
+FRXX4502;Rieux-de-Pelleport
+FRXX5860;Rieux-en-Cambresis
+FRXX5557;Rieux-Minervois
+FRXX4521;Rilhac-Rancon
+FRXX4172;Rillieux-la-Pape
+FRXX4625;Rilly-la-Montagne
+FRXX4812;Rilly-Sainte-Syre
+FRXX5937;Rilly-sur-Loire
+FRXX5337;Rimling
+FRXX3322;Rimont
+FRXX6354;Rinxent
+FRXX6404;Riom
+FRXX6051;Rion-des-Landes
+FRXX6623;Rions
+FRXX3401;Riorges
+FRXX5182;Riquewihr
+FRXX4947;Ris
+FRXX1573;Ris-Orangis
+FRXX0538;Risoul
+FRXX3895;Ristolas
+FRXX5509;Rivedoux-Plage
+FRXX6645;Rivery
+FRXX4980;Rivesaltes
+FRXX1251;Riviere
+FRXX6804;Rivieres-le-Bois
+FRXX1741;Riviere-sur-Tarn
+FRXX5813;Rixheim
+FRXX0082;Roanne
+FRXX3788;Robion
+FRXX0258;Roche
+FRXX4673;Rochebrune
+FRXX6044;Rochechouart
+FRXX1926;Roche-en-Regnier
+FRXX6743;Roche-et-Raucourt
+FRXX0083;Rochefort
+FRXX6268;Rochefort-du-Gard
+FRXX5566;Rochefort-Samson
+FRXX3135;Rochefort-sur-Loire
+FRXX5892;Rochefort-sur-Nenon
+FRXX5220;Roche-le-Peyroux
+FRXX1782;Roche-lez-Beaupre
+FRXX0259;Rocher de l' Homme
+FRXX5360;Roches-Bettaincourt
+FRXX6038;Rocheserviere
+FRXX5459;Roches-les-Blamont
+FRXX4638;Roches-sur-Marne
+FRXX4363;Rochetaillee-sur-Saone
+FRXX3251;Rocroi
+FRXX1051;Rodelle
+FRXX0171;Rodez
+FRXX1873;Rodilhan
+FRXX5947;Roeulx
+FRXX4078;Rogliano
+FRXX3974;Rognac
+FRXX2528;Rognes
+FRXX6248;Rognonas
+FRXX4533;Rogny-les-Sept-Ecluses
+FRXX5198;Rohan
+FRXX5656;Rohrbach-les-Bitche
+FRXX5837;Rohrwiller
+FRXX4689;Roiffieux
+FRXX5635;Roissy-en-Brie
+FRXX3828;Roissy-en-France
+FRXX5351;Rolampont
+FRXX1931;Rollancourt
+FRXX3805;Romagne
+FRXX6707;Romainville
+FRXX4768;Romans-sur-Isere
+FRXX0354;Romarantin
+FRXX4147;Rombach-le-Franc
+FRXX6631;Romelfing
+FRXX1827;Romilly-sur-Andelle
+FRXX4835;Romilly-sur-Seine
+FRXX5938;Romorantin-Lanthenay
+FRXX4226;Ronchamp
+FRXX5116;Roncherolles-en-Bray
+FRXX5067;Ronchin
+FRXX4105;Roncq
+FRXX5916;Ronssoy
+FRXX6577;Roost-Warendin
+FRXX3758;Roppe
+FRXX6568;Roquebrun
+FRXX3896;Roquebrune-Cap-Martin
+FRXX5027;Roquebrune-sur-Argens
+FRXX3311;Roquefeuil
+FRXX3142;Roquefort-des-Corbieres
+FRXX5538;Roquefort-la-Bedoule
+FRXX1724;Roquefort-les-Pins
+FRXX6587;Roquefort-sur-Garonne
+FRXX4725;Roquefort-sur-Soulzon
+FRXX6275;Roqueredonde
+FRXX1726;Roquesteron
+FRXX1791;Roquevaire
+FRXX2504;Rosay-sur-Lieure
+FRXX5138;Rosbruck
+FRXX5444;Roscanvel
+FRXX2444;Roscoff
+FRXX5876;Rosheim
+FRXX1126;Rosieres
+FRXX6806;Rosieres-aux-Salines
+FRXX5997;Rosieres-en-Haye
+FRXX2202;Rosieres-en-Santerre
+FRXX2541;Rosieres-pres-Troyes
+FRXX5263;Rosny-sous-Bois
+FRXX4390;Rosny-sur-Seine
+FRXX2028;Rosoy-en-Multien
+FRXX0376;Rosporden
+FRXX2844;Rosselange
+FRXX3982;Rostrenen
+FRXX6555;Rothau
+FRXX3209;Rots
+FRXX0084;Roubaix
+FRXX2686;Rouelles
+FRXX0085;Rouen
+FRXX5978;Rouesse-Fontaine
+FRXX3563;Rouffach
+FRXX3915;Rouffiac-des-Corbieres
+FRXX6484;Rouge
+FRXX5286;Rougemont-le-Chateau
+FRXX2314;Rouille
+FRXX2539;Rouilly-Sacey
+FRXX3799;Roujan
+FRXX4056;Roulans
+FRXX4591;Rountzenheim
+FRXX5055;Rousies
+FRXX1804;Rousset
+FRXX4915;Roussillon-en-Morvan
+FRXX0260;Roussis
+FRXX5622;Rouvray-Saint-Denis
+FRXX4446;Rouvres-en-Woevre
+FRXX2258;Rouvres-en-Xaintois
+FRXX5350;Rouvres-sur-Aube
+FRXX5170;Rouvrois-sur-Othain
+FRXX4220;Rouvroy
+FRXX5516;Rouvroy-sur-Audry
+FRXX4952;Rouxmesnil-Bouteilles
+FRXX4647;Roville-devant-Bayon
+FRXX5699;Royat
+FRXX6444;Roye-sur-Matz
+FRXX4928;Royville
+FRXX2623;Rozay-en-Brie
+FRXX4159;Rozier-en-Donzy
+FRXX5598;Rozoy-sur-Serre
+FRXX5141;Rubrouck
+FRXX0289;Rueil-Malmaison
+FRXX1841;Ruelle-sur-Touvre
+FRXX3194;Ruffey-les-Beaune
+FRXX2907;Ruffey-sur-Seille
+FRXX2347;Ruille-le-Gravelais
+FRXX5081;Rumilly
+FRXX5140;Rumilly-en-Cambresis
+FRXX2992;Rungis
+FRXX5173;Rupt-en-Woevre
+FRXX3742;Rupt-sur-Moselle
+FRXX1217;Rurange-les-Thionville
+FRXX3525;Russange
+FRXX5569;Rutali
+FRXX2625;Saacy-sur-Marne
+FRXX4348;Sable-sur-Sarthe
+FRXX3826;Sabres
+FRXX2930;Sagone
+FRXX3212;Saignes
+FRXX6693;Saillat-sur-Vienne
+FRXX5918;Sailly-Flibeaucourt
+FRXX3626;Sailly-Labourse
+FRXX2628;Sail-sous-Couzan
+FRXX2846;Sainghin-en-Melantois
+FRXX6675;Sainghin-en-Weppes
+FRXX2228;Sains-du-Nord
+FRXX6651;Sains-en-Amienois
+FRXX5145;Sains-en-Gohelle
+FRXX6414;Sains-les-Fressin
+FRXX4488;Sains-Richaumont
+FRXX0523;Saint Gervais
+FRXX0437;Saint Jean Montclar
+FRXX0454;Saint Leger les Melezes
+FRXX0507;Saint Sorlin d'Arves
+FRXX3963;Saint-Affrique
+FRXX6188;Saint-Agnant
+FRXX2602;Saint-Agnant-de-Versillat
+FRXX2601;Saint-Agnant-pres-Crocq
+FRXX3061;Saint-Agnet
+FRXX2533;Saint-Agreve
+FRXX4292;Saint-Aignan
+FRXX6055;Saint-Aignan
+FRXX2687;Saint-Aignan-des-Gues
+FRXX4300;Saint-Aignan-Grandlieu
+FRXX2349;Saint-Aignan-sur-Roe
+FRXX2462;Saint-Aigulin
+FRXX4573;Saint-Ail
+FRXX3365;Saint-Alban
+FRXX3249;Saint-Alban-d'Ay
+FRXX3470;Saint-Alban-de-Montbel
+FRXX5324;Saint-Alban-de-Roche
+FRXX2002;Saint-Alban-des-Hurtieres
+FRXX4179;Saint-Alban-les-Eaux
+FRXX3027;Saint-Alban-Leysse
+FRXX2373;Saint-Alban-sur-Limagnole
+FRXX6378;Saint-Albin-de-Vaulserre
+FRXX1224;Saint-Alyre-es-Montagne
+FRXX2898;Saint-Amand-en-Puisaye
+FRXX4855;Saint-Amand-les-Eaux
+FRXX5939;Saint-Amand-Longpre
+FRXX3258;Saint-Amand-Montrond
+FRXX0402;Saint-Amand-Mont-Rond
+FRXX5372;Saint-Amand-sur-Sevre
+FRXX6033;Saint-Amans-de-Pellagal
+FRXX2420;Saint-Amans-des-Cots
+FRXX5923;Saint-Amans-Valtoret
+FRXX6210;Saint-Amant
+FRXX2519;Saint-Amant-de-Boixe
+FRXX4758;Saint-Amant-de-Graves
+FRXX1119;Saint-Amant-de-Nouere
+FRXX5302;Saint-Amant-Tallende
+FRXX2617;Saint-Amarin
+FRXX3298;Saint-Ambroix
+FRXX4523;Saint-Ame
+FRXX1501;Saint-Amour
+FRXX4994;Saint-Andeol-le-Chateau
+FRXX4748;Saint-Andiol
+FRXX5789;Saint-Andoche
+FRXX2385;Saint-Andre-Capceze
+FRXX1615;Saint-Andre-de-Boege
+FRXX3932;Saint-Andre-de-Corcy
+FRXX3159;Saint-Andre-de-la-Roche
+FRXX1121;Saint-Andre-de-Lidon
+FRXX5560;Saint-Andre-de-Majencoules
+FRXX3961;Saint-Andre-de-Najac
+FRXX6266;Saint-Andre-de-Roquepertuis
+FRXX3149;Saint-Andre-de-Rosans
+FRXX1879;Saint-Andre-de-Sangonis
+FRXX1268;Saint-Andre-des-Eaux
+FRXX3303;Saint-Andre-de-Valborgne
+FRXX1742;Saint-Andre-de-Vezines
+FRXX4802;Saint-Andre-Lachamp
+FRXX2125;Saint-Andre-le-Gaz
+FRXX6111;Saint-Andre-les-Alpes
+FRXX4836;Saint-Andre-les-Vergers
+FRXX3535;Saint-Andre-lez-Lille
+FRXX6375;Saint-Andre-sur-Cailly
+FRXX3792;Saint-Andre-Treize-Voies
+FRXX4203;Saint-Antheme
+FRXX3555;Saint-Antoine
+FRXX4131;Saint-Antoine-de-Breuilh
+FRXX6220;Saint-Antonin-de-Sommaire
+FRXX5326;Saint-Antonin-Noble-Val
+FRXX4395;Saint-Aout
+FRXX3222;Saint-Apollinaire
+FRXX6761;Saint-Arnoult-en-Yvelines
+FRXX2604;Saint-Astier
+FRXX3901;Saint-Auban
+FRXX3337;Saint-Aubert
+FRXX5891;Saint-Aubin
+FRXX1054;Saint-Aubin-d'Arquenay
+FRXX5142;Saint-Aubin-de-Bonneval
+FRXX4715;Saint-Aubin-de-Cadelech
+FRXX6155;Saint-Aubin-de-Lanquais
+FRXX4132;Saint-Aubin-des-Bois
+FRXX1165;Saint-Aubin-du-Cormier
+FRXX3778;Saint-Aubin-du-Plain
+FRXX4912;Saint-Aubin-en-Charollais
+FRXX3844;Saint-Aubin-Fosse-Louvain
+FRXX6043;Saint-Aubin-le-Cloud
+FRXX6390;Saint-Aubin-les-Elbeuf
+FRXX4013;Saint-Aubin-le-Vertueux
+FRXX3697;Saint-Aubin-Montenoy
+FRXX6447;Saint-Aubin-sous-Erquery
+FRXX6237;Saint-Aubin-sur-Gaillon
+FRXX2471;Saint-Aubin-sur-Mer
+FRXX4535;Saint-Aubin-sur-Yonne
+FRXX2472;Saint-Augustin
+FRXX4151;Saint-Augustin
+FRXX6223;Saint-Augustin
+FRXX3680;Saint-Ave
+FRXX3651;Saint-Avertin
+FRXX5210;Saint-Avit
+FRXX3184;Saint-Avit-Senieur
+FRXX3409;Saint-Avold
+FRXX3732;Saint-Aygulf
+FRXX4233;Saint-Baldoph
+FRXX5077;Saint-Barthelemy
+FRXX6088;Saint-Barthelemy-d'Agenais
+FRXX6249;Saint-Basile
+FRXX3522;Saint-Bauzille-de-Putois
+FRXX2146;Saint-Beat
+FRXX5420;Saint-Beauzely
+FRXX3637;Saint-Benoit
+FRXX5822;Saint-Benoit-de-Carmaux
+FRXX6784;Saint-Benoit-des-Ondes
+FRXX1329;Saint-Benoit-du-Sault
+FRXX5080;Saint-Benoit-la-Foret
+FRXX5697;Saint-Benoit-sur-Loire
+FRXX4809;Saint-Benoit-sur-Seine
+FRXX1928;Saint-Berain
+FRXX2711;Saint-Beron
+FRXX6076;Saint-Berthevin
+FRXX1457;Saint-Blaise-la-Roche
+FRXX6626;Saint-Blancard
+FRXX3701;Saint-Blimont
+FRXX5833;Saint-Bomer-les-Forges
+FRXX4311;Saint-Bonnet-de-Joux
+FRXX6588;Saint-Bonnet-de-Mure
+FRXX1945;Saint-Bonnet-des-Quarts
+FRXX4838;Saint-Bonnet-du-Gard
+FRXX1798;Saint-Bonnet-Elvert
+FRXX2410;Saint-Bonnet-en-Champsaur
+FRXX1967;Saint-Bonnet-le-Chastel
+FRXX3404;Saint-Bonnet-le-Chateau
+FRXX2629;Saint-Bonnet-le-Courreau
+FRXX6405;Saint-Bonnet-pres-Orcival
+FRXX4049;Saint-Bonnet-sur-Gironde
+FRXX1731;Saint-Bonnet-Troncais
+FRXX4231;Saint-Bon-Tarentaise
+FRXX5882;Saint-Branchs
+FRXX1876;Saint-Bres
+FRXX2005;Saint-Brevin-les-Pins
+FRXX6820;Saint-Brice-Courcelles
+FRXX2330;Saint-Brice-en-Cogles
+FRXX1697;Saint-Brice-sous-Foret
+FRXX0086;Saint-Brieuc
+FRXX2287;Saint-Bris-le-Vineux
+FRXX0347;Saint-Calais
+FRXX4750;Saint-Cannat
+FRXX1242;Saint-Caprais
+FRXX2753;Saint-Caprais-de-Bordeaux
+FRXX2902;Saint-Caradec-Tregomel
+FRXX5679;Saint-Cassien
+FRXX2486;Saint-Cast-le-Guildo
+FRXX3115;Saint-Cere
+FRXX5465;Saint-Cernin
+FRXX1756;Saint-Cernin-de-Reillac
+FRXX1515;Saint-Cezaire-sur-Siagne
+FRXX2408;Saint-Chaffrey
+FRXX1083;Saint-Chamas
+FRXX2825;Saint-Chamond
+FRXX5034;Saint-Chef
+FRXX5131;Saint-Chinian
+FRXX2203;Saint-Christ-Briost
+FRXX4178;Saint-Christo-en-Jarez
+FRXX4840;Saint-Christol-les-Ales
+FRXX6545;Saint-Christophe
+FRXX3567;Saint-Christophe-du-Jambet
+FRXX1635;Saint-Christophe-du-Ligneron
+FRXX4797;Saint-Christophe-et-le-Laris
+FRXX5466;Saint-Christophe-les-Gorges
+FRXX1106;Saint-Christophe-sur-Avre
+FRXX3546;Saint-Ciers-de-Canesse
+FRXX5044;Saint-Ciers-sur-Gironde
+FRXX2932;Saint-Cirgue
+FRXX2460;Saint-Cirgues-de-Jordanne
+FRXX6229;Saint-Cirgues-en-Montagne
+FRXX4412;Saint-Clair-de-Halouze
+FRXX1247;Saint-Clair-du-Rhone
+FRXX2368;Saint-Clair-sur-Epte
+FRXX1321;Saint-Clair-sur-Galaure
+FRXX3556;Saint-Clar
+FRXX6030;Saint-Clar-de-Riviere
+FRXX3268;Saint-Claud
+FRXX3653;Saint-Clement
+FRXX1815;Saint-Clement-des-Baleines
+FRXX1209;Saint-Clement-sur-Valsonne
+FRXX1518;Saint-Cloud
+FRXX1503;Saint-Colomb-de-Lauzun
+FRXX3672;Saint-Come
+FRXX6176;Saint-Come-de-Fresne
+FRXX4820;Saint-Come-et-Maruejols
+FRXX5863;Saint-Cornier-des-Landes
+FRXX2657;Saint-Cosme-en-Vairais
+FRXX6156;Saint-Crepin-et-Carlucet
+FRXX4262;Saint-Crepin-Ibouvillers
+FRXX4438;Saint-Cricq
+FRXX3827;Saint-Cricq-Chalosse
+FRXX3087;Saint-Cyprien
+FRXX3584;Saint-Cyprien
+FRXX6361;Saint-Cyprien
+FRXX1778;Saint-Cyprien-sur-Dourdou
+FRXX6520;Saint-Cyran-du-Jambot
+FRXX5103;Saint-Cyr-au-Mont-d'Or
+FRXX4496;Saint-Cyr-de-Favieres
+FRXX3596;Saint-Cyr-de-Valorges
+FRXX5694;Saint-Cyr-en-Val
+FRXX4513;Saint-Cyr-la-Riviere
+FRXX4368;Saint-Cyr-l'Ecole
+FRXX6002;Saint-Cyr-les-Colons
+FRXX2960;Saint-Cyr-sous-Dourdan
+FRXX2799;Saint-Cyr-sur-Loire
+FRXX4880;Saint-Cyr-sur-Menthon
+FRXX5023;Saint-Cyr-sur-Mer
+FRXX5637;Saint-Cyr-sur-Morin
+FRXX3157;Saint-Dalmas-le-Selvage
+FRXX0087;Saint-Denis
+FRXX5121;Saint-Denis-de-Cabanne
+FRXX2980;Saint-Denis-de-Gastines
+FRXX4957;Saint-Denis-de-l'Hotel
+FRXX3908;Saint-Denis-de-Mere
+FRXX3257;Saint-Denis-de-Palin
+FRXX2754;Saint-Denis-de-Pile
+FRXX1816;Saint-Denis-d'Oleron
+FRXX6769;Saint-Denis-du-Payre
+FRXX5213;Saint-Denis-en-Bugey
+FRXX2689;Saint-Denis-en-Val
+FRXX3618;Saint-Denis-le-Gast
+FRXX1181;Saint-Denis-les-Bourg
+FRXX3859;Saint-Denis-les-Martel
+FRXX1160;Saint-Denis-les-Ponts
+FRXX3597;Saint-Denis-sur-Coise
+FRXX3352;Saint-Denis-sur-Sarthon
+FRXX2574;Saint-Didier
+FRXX5101;Saint-Didier-au-Mont-d'Or
+FRXX5238;Saint-Didier-d'Allier
+FRXX2311;Saint-Didier-de-Bizonnes
+FRXX6301;Saint-Didier-de-Formans
+FRXX2630;Saint-Didier-en-Velay
+FRXX1182;Saint-Didier-sur-Chalaronne
+FRXX5737;Saint-Didier-sur-Doulon
+FRXX5322;Saint-Didier-sur-Rochefort
+FRXX0088;Saint-Die
+FRXX0173;Saint-Dizier
+FRXX4116;Saint-Dizier-les-Domaines
+FRXX3360;Saint-Dizier-Leyrenne
+FRXX6274;Saint-Donat-sur-l'Herbasse
+FRXX6064;Saint-Doulchard
+FRXX4214;Sainte-Adresse
+FRXX2123;Sainte-Agathe-la-Bouteresse
+FRXX1419;Sainte-Anne-Saint-Priest
+FRXX3013;Sainte-Cecile-les-Vignes
+FRXX6411;Sainte-Cecile-Plage
+FRXX2894;Sainte-Christie-d'Armagnac
+FRXX3863;Sainte-Colombe-en-Bruilhois
+FRXX4207;Sainte-Consorce
+FRXX6109;Sainte-Croix-a-Lauze
+FRXX5558;Sainte-Croix-de-Caderle
+FRXX6118;Sainte-Croix-du-Verdon
+FRXX5895;Sainte-Croix-en-Plaine
+FRXX4655;Sainte-Croix-Vallee-Francaise
+FRXX3914;Sainte-Croix-Volvestre
+FRXX5305;Sainte-Engrace
+FRXX4660;Sainte-Enimie
+FRXX1360;Sainte-Eulalie
+FRXX5504;Sainte-Fereole
+FRXX3385;Sainte-Florine
+FRXX6191;Sainte-Fortunade
+FRXX5153;Sainte-Foy-l'Argentiere
+FRXX4345;Sainte-Foy-les-Lyon
+FRXX1284;Sainte-Foy-Tarentaise
+FRXX4865;Sainte-Gauburge-Sainte-Colombe
+FRXX4607;Sainte-Gemme-la-Plaine
+FRXX3861;Sainte-Gemme-Martaillac
+FRXX2350;Sainte-Gemmes-le-Robert
+FRXX4514;Sainte-Genevieve-des-Bois
+FRXX6441;Sainte-Genevieve-des-Bois
+FRXX4026;Sainte-Genevieve-les-Gasny
+FRXX1779;Sainte-Genevieve-sur-Argence
+FRXX3802;Saint-Egreve
+FRXX4911;Sainte-Helene
+FRXX5692;Sainte-Helene-Bondeville
+FRXX1285;Sainte-Helene-du-Lac
+FRXX6024;Sainte-Hermine
+FRXX1024;Sainte-Honorine-du-Fay
+FRXX3353;Sainte-Honorine-la-Chardonne
+FRXX5040;Sainte-Honorine-la-Guillaume
+FRXX4190;Sainte-Jamme-sur-Sarthe
+FRXX1775;Sainte-Juliette-sur-Viaur
+FRXX5106;Sainte-Leocadie
+FRXX6803;Sainte-Liviere
+FRXX1685;Sainte-Livrade-sur-Lot
+FRXX5751;Saint-Elix-le-Chateau
+FRXX6518;Sainte-Lizaigne
+FRXX3161;Saint-Eloy-d'Allier
+FRXX4031;Saint-Eloy-de-Gy
+FRXX5074;Saint-Eloy-la-Glaciere
+FRXX6381;Saint-Eloy-les-Mines
+FRXX4301;Sainte-Luce-sur-Loire
+FRXX3710;Sainte-Lucie de Porto-Vecchio
+FRXX4745;Sainte-Lucie-de-Tallano
+FRXX3055;Sainte-Magnance
+FRXX2252;Sainte-Marguerite
+FRXX1956;Sainte-Marguerite-sur-Fauville
+FRXX2440;Sainte-Marie
+FRXX4228;Sainte-Marie
+FRXX4922;Sainte-Marie-aux-Chenes
+FRXX6611;Sainte-Marie-aux-Mines
+FRXX6543;Sainte-Marie-Cappel
+FRXX1110;Sainte-Marie-de-Re
+FRXX5252;Sainte-Marie-de-Vaux
+FRXX4708;Sainte-Marie-sur-Ouche
+FRXX5344;Sainte-Maure-de-Peyriac
+FRXX5071;Sainte-Maure-de-Touraine
+FRXX2016;Sainte-Maxime
+FRXX1652;Sainte-Menehould
+FRXX5857;Sainte-Mere-Eglise
+FRXX4914;Saint-Emiland
+FRXX4602;Saint-Emilion
+FRXX5293;Sainte-Neomaye
+FRXX6219;Sainte-Opportune-du-Bosc
+FRXX2610;Sainte-Orse
+FRXX6009;Sainte-Ouenne
+FRXX1338;Sainte-Pazanne
+FRXX2361;Sainte-Pience
+FRXX5422;Sainte-Radegonde
+FRXX6767;Sainte-Radegonde-des-Noyers
+FRXX2075;Sainte-Radegonde-en-Touraine
+FRXX6754;Sainte-Reine
+FRXX3887;Saint-Erme-Outre-et-Ramecourt
+FRXX3271;Saintes
+FRXX4813;Sainte-Savine
+FRXX3832;Sainte-Severe-sur-Indre
+FRXX3495;Sainte-Sigolene
+FRXX5479;Saintes-Maries-de-la-Mer
+FRXX3274;Sainte-Soulle
+FRXX2000;Saint-Esteve
+FRXX3083;Sainte-Suzanne
+FRXX6175;Sainte-Suzanne
+FRXX1677;Sainte-Suzanne-sur-Vire
+FRXX0274;Saint-Etienne
+FRXX4222;Saint-Etienne-au-Mont
+FRXX4624;Saint-Etienne-au-Temple
+FRXX2767;Saint-Etienne-de-Baigorry
+FRXX6179;Saint-Etienne-de-Chomeil
+FRXX6462;Saint-Etienne-de-Crossey
+FRXX4325;Saint-Etienne-de-Cuines
+FRXX5542;Saint-Etienne-de-Fontbellon
+FRXX5617;Saint-Etienne-de-Fursac
+FRXX6230;Saint-Etienne-de-Lugdares
+FRXX6422;Saint-Etienne-de-Montluc
+FRXX4253;Saint-Etienne-de-Saint-Geoirs
+FRXX6431;Saint-Etienne-de-Tulmont
+FRXX6126;Saint-Etienne-de-Vicq
+FRXX3364;Saint-Etienne-du-Bois
+FRXX1748;Saint-Etienne-du-Gres
+FRXX0089;Saint-Etienne-du-Rouvray
+FRXX4674;Saint-Etienne-en-Devoluy
+FRXX2939;Saint-Etienne-Estrechoux
+FRXX5493;Saint-Etienne-la-Thillaye
+FRXX6120;Saint-Etienne-le-Laus
+FRXX1706;Saint-Etienne-les-Orgues
+FRXX6101;Saint-Etienne-Vallee-Francaise
+FRXX3140;Sainte-Tulle
+FRXX3117;Saint-Eutrope-de-Born
+FRXX4062;Sainte-Valiere
+FRXX6340;Saint-Evarzec
+FRXX4282;Saint-Evroult-de-Montfort
+FRXX6243;Saint-Exupery-les-Roches
+FRXX5257;Saint-Fargeau
+FRXX5648;Saint-Fargeau-Ponthierry
+FRXX6228;Saint-Felicien
+FRXX4959;Saint-Felix
+FRXX3958;Saint-Felix-de-Pallieres
+FRXX2436;Saint-Felix-de-Villadeix
+FRXX5151;Saint-Felix-Lauragais
+FRXX2727;Saint-Ferreol-d'Auroure
+FRXX4202;Saint-Ferreol-des-Cotes
+FRXX1721;Saint-Firmin
+FRXX1205;Saint-Firmin-sur-Loire
+FRXX6138;Saint-Florent
+FRXX4566;Saint-Florentin
+FRXX5994;Saint-Florent-le-Vieil
+FRXX5563;Saint-Florent-sur-Auzonnet
+FRXX4761;Saint-Florent-sur-Cher
+FRXX3969;Saint-Flour
+FRXX3132;Saint-Flour-de-Mercoire
+FRXX2704;Saint-Folquin
+FRXX2301;Saint-Fons
+FRXX6528;Saint-Forgeot
+FRXX6068;Saint-Fraimbault-de-Prieres
+FRXX1306;Saint-Frajou
+FRXX5740;Saint-Front
+FRXX6152;Saint-Front-d'Alemps
+FRXX5328;Saint-Fulgent
+FRXX4918;Saint-Galmier
+FRXX0370;Saint-Gaudens
+FRXX1464;Saint-Gaultier
+FRXX4353;Saint-Gauzens
+FRXX2318;Saint-Gelais
+FRXX4090;Saint-Gely-du-Fesc
+FRXX2250;Saint-Gence
+FRXX4964;Saint-Genes-Champanelle
+FRXX2048;Saint-Genes-Champespe
+FRXX5700;Saint-Genes-du-Retz
+FRXX4920;Saint-Genest-Lerpt
+FRXX1924;Saint-Genest-Malifaux
+FRXX1939;Saint-Gengoux-le-National
+FRXX6165;Saint-Genies-de-Comolas
+FRXX3629;Saint-Genies-de-Fontedit
+FRXX6141;Saint-Genies-de-Malgoires
+FRXX3521;Saint-Genies-des-Mourgues
+FRXX3894;Saint-Genis
+FRXX4009;Saint-Genis-de-Blanzac
+FRXX3275;Saint-Genis-de-Saintonge
+FRXX4589;Saint-Genis-des-Fontaines
+FRXX3269;Saint-Genis-d'Hiersac
+FRXX6476;Saint-Genis-du-Bois
+FRXX6541;Saint-Genis-Laval
+FRXX4364;Saint-Genis-les-Ollieres
+FRXX4845;Saint-Genis-Pouilly
+FRXX1614;Saint-Genix-sur-Guiers
+FRXX1372;Saint-Genou
+FRXX2731;Saint-Geoire-en-Valdaine
+FRXX2187;Saint-Georges
+FRXX6089;Saint-Georges
+FRXX4120;Saint-Georges-Blancaneix
+FRXX3077;Saint-Georges-Buttavent
+FRXX2646;Saint-Georges-de-Baroille
+FRXX3424;Saint-Georges-de-Commiers
+FRXX1064;Saint-Georges-de-Didonne
+FRXX2763;Saint-Georges-de-Mons
+FRXX4224;Saint-Georges-de-Reneins
+FRXX6810;Saint-Georges-de-Rouelley
+FRXX4772;Saint-Georges-des-Coteaux
+FRXX5039;Saint-Georges-des-Groseillers
+FRXX2039;Saint-Georges-d'Esperanche
+FRXX6183;Saint-Georges-d'Oleron
+FRXX1877;Saint-Georges-d'Orques
+FRXX1959;Saint-Georges-du-Bois
+FRXX2468;Saint-Georges-du-Bois
+FRXX3284;Saint-Georges-du-Vievre
+FRXX3383;Saint-Georges-en-Couzan
+FRXX4871;Saint-Georges-la-Pouge
+FRXX5358;Saint-Georges-le-Flechard
+FRXX2969;Saint-Georges-le-Gaultier
+FRXX6238;Saint-Georges-Motel
+FRXX5256;Saint-Georges-sur-Baulche
+FRXX1159;Saint-Georges-sur-Eure
+FRXX5386;Saint-Georges-sur-Loire
+FRXX1270;Saint-Gereon
+FRXX5075;Saint-Germain
+FRXX3634;Saint-Germain-au-Mont-d'Or
+FRXX6325;Saint-Germain-Beaupre
+FRXX1701;Saint-Germain-de-Calberte
+FRXX6783;Saint-Germain-de-Joux
+FRXX4582;Saint-Germain-de-la-Coudre
+FRXX6737;Saint-Germain-de-Longue-Chaume
+FRXX3980;Saint-Germain-de-Lusignan
+FRXX1792;Saint-Germain-de-Montbron
+FRXX6763;Saint-Germain-de-Princay
+FRXX5408;Saint-Germain-de-Salles
+FRXX5411;Saint-Germain-des-Fosses
+FRXX4355;Saint-Germain-des-Pres
+FRXX5619;Saint-Germain-des-Pres
+FRXX5741;Saint-Germain-des-Pres
+FRXX4193;Saint-Germain-du-Bel-Air
+FRXX5647;Saint-Germain-du-Bois
+FRXX3515;Saint-Germain-du-Corbeis
+FRXX2835;Saint-Germain-du-Puch
+FRXX2509;Saint-Germain-du-Puy
+FRXX6102;Saint-Germain-du-Teil
+FRXX2120;Saint-Germain-en-Laye
+FRXX5177;Saint-Germain-en-Montagne
+FRXX3167;Saint-Germain-la-Blanche-Herbe
+FRXX4770;Saint-Germain-la-Campagne
+FRXX1202;Saint-Germain-la-Montagne
+FRXX5006;Saint-Germain-Laprade
+FRXX1212;Saint-Germain-Laval
+FRXX4789;Saint-Germain-Lavolps
+FRXX3617;Saint-Germain-le-Gaillard
+FRXX5701;Saint-Germain-Lembron
+FRXX2197;Saint-Germain-les-Arlay
+FRXX3063;Saint-Germain-les-Arpajon
+FRXX1548;Saint-Germain-les-Belles
+FRXX3759;Saint-Germain-les-Corbeil
+FRXX5526;Saint-Germain-les-Vergnes
+FRXX4695;Saint-Germain-le-Vasson
+FRXX6318;Saint-Germain-le-Vieux
+FRXX4938;Saint-Germain-pres-Herment
+FRXX5518;Saint-Germain-sur-Avre
+FRXX1430;Saint-Germain-sur-Ay
+FRXX3878;Saint-Germain-sur-Moine
+FRXX4877;Saint-Germain-sur-Rhone
+FRXX5038;Saint-Germer-de-Fly
+FRXX2033;Saint-Germier
+FRXX1298;Saint-Geron
+FRXX3452;Saint-Gervais-d'Auvergne
+FRXX6511;Saint-Gervais-la-Foret
+FRXX4338;Saint-Gervais-les-Bains
+FRXX1453;Saint-Gervais-les-Trois-Clochers
+FRXX4329;Saint-Gervais-sous-Meymont
+FRXX4073;Saint-Gervais-sur-Mare
+FRXX1874;Saint-Gervasy
+FRXX4626;Saint-Gibrien
+FRXX3679;Saint-Gildas-de-Rhuys
+FRXX5722;Saint-Gildas-des-Bois
+FRXX2049;Saint-Gilles
+FRXX4065;Saint-Gilles
+FRXX4620;Saint-Gilles-Croix-de-Vie
+FRXX0126;Saint-Girons
+FRXX3190;Saint-Goazec
+FRXX5392;Saint-Gobain
+FRXX3872;Saint-Gratien
+FRXX5847;Saint-Gregoire
+FRXX4270;Saint-Griede
+FRXX4255;Saint-Haon
+FRXX2648;Saint-Heand
+FRXX2770;Saint-Herblain
+FRXX1318;Saint-Hilaire
+FRXX3309;Saint-Hilaire
+FRXX3881;Saint-Hilaire
+FRXX6548;Saint-Hilaire-Cottes
+FRXX5559;Saint-Hilaire-de-Brethmas
+FRXX6037;Saint-Hilaire-de-Loulay
+FRXX5260;Saint-Hilaire-de-Lusignan
+FRXX3065;Saint-Hilaire-de-Riez
+FRXX6749;Saint-Hilaire-des-Loges
+FRXX3066;Saint-Hilaire-de-Talmont
+FRXX3263;Saint-Hilaire-de-Villefranche
+FRXX6808;Saint-Hilaire-du-Harcouet
+FRXX4635;Saint-Hilaire-du-Maine
+FRXX5033;Saint-Hilaire-du-Rosier
+FRXX2517;Saint-Hilaire-en-Lignieres
+FRXX3388;Saint-Hilaire-les-Andresis
+FRXX1267;Saint-Hilaire-les-Monges
+FRXX6694;Saint-Hilaire-les-Places
+FRXX3041;Saint-Hilaire-le-Vouhis
+FRXX2850;Saint-Hilaire-lez-Cambrai
+FRXX4399;Saint-Hilaire-Petitville
+FRXX4006;Saint-Hilaire-Peyroux
+FRXX1302;Saint-Hilaire-Saint-Mesmin
+FRXX3351;Saint-Hilaire-sur-Erre
+FRXX2096;Saint-Hilaire-sur-Helpe
+FRXX5576;Saint-Hilaire-sur-Yerre
+FRXX4979;Saint-Hippolyte
+FRXX5458;Saint-Hippolyte
+FRXX6342;Saint-Hippolyte
+FRXX4700;Saint-Hippolyte-du-Fort
+FRXX5713;Saint-Igny-de-Roche
+FRXX2147;Saint-Igny-de-Vers
+FRXX1577;Saint-Illiers-la-Ville
+FRXX6122;Saint-Isidore
+FRXX1960;Saint-Ismier
+FRXX1732;Saint-Izaire
+FRXX6299;Saint-Jacques-de-la-Lande
+FRXX5156;Saint-Jacques-des-Arrets
+FRXX3709;Saint-Jacques-des-Blats
+FRXX4785;Saint-Jacut-de-la-Mer
+FRXX3237;Saint-Jal
+FRXX3599;Saint-James
+FRXX3631;Saint-Jean
+FRXX6634;Saint-Jean-aux-Amognes
+FRXX5652;Saint-Jean-Bonnefonds
+FRXX1496;Saint-Jean-Brevelay
+FRXX0510;Saint-Jean-d'Arves
+FRXX0505;Saint-Jean-d'Aulps
+FRXX4381;Saint-Jean-de-Boiseau
+FRXX2540;Saint-Jean-de-Bonneval
+FRXX3036;Saint-Jean-de-Bournay
+FRXX2693;Saint-Jean-de-Braye
+FRXX1281;Saint-Jean-de-Chevelu
+FRXX3612;Saint-Jean-de-Fos
+FRXX4595;Saint-Jean-de-la-Motte
+FRXX1340;Saint-Jean-de-la-Ruelle
+FRXX6376;Saint-Jean-de-Laur
+FRXX6182;Saint-Jean-de-Liversay
+FRXX3949;Saint-Jean-de-Losne
+FRXX1892;Saint-Jean-de-Luz
+FRXX5094;Saint-Jean-de-Marcel
+FRXX1857;Saint-Jean-de-Maruejols-et-Avejan
+FRXX2003;Saint-Jean-de-Maurienne
+FRXX1249;Saint-Jean-de-Moirans
+FRXX6057;Saint-Jean-de-Monts
+FRXX3280;Saint-Jean-de-Muzols
+FRXX3492;Saint-Jean-de-Nay
+FRXX5567;Saint-Jean-de-Paracol
+FRXX5873;Saint-Jean-de-Sauves
+FRXX4086;Saint-Jean-de-Serres
+FRXX3763;Saint-Jean-des-Mauvrets
+FRXX1964;Saint-Jean-des-Ollieres
+FRXX5212;Saint-Jean-de-Vals
+FRXX3504;Saint-Jean-de-Vedas
+FRXX2697;Saint-Jean-d'Heurs
+FRXX2094;Saint-Jean-du-Bouzet
+FRXX4351;Saint-Jean-du-Cardonnay
+FRXX6293;Saint-Jean-du-Gard
+FRXX1142;Saint-Jean-en-Royans
+FRXX6380;Saint-Jean-en-Val
+FRXX4421;Saint-Jean-la-Bussiere
+FRXX5739;Saint-Jean-Lachalm
+FRXX1653;Saint-Jean-la-Fouillouse
+FRXX2691;Saint-Jean-le-Blanc
+FRXX2343;Saint-Jean-le-Centenier
+FRXX5634;Saint-Jean-les-Deux-Jumeaux
+FRXX4685;Saint-Jeannet
+FRXX5604;Saint-Jean-Pied-de-Port
+FRXX4227;Saint-Jean-Pla-de-Corts
+FRXX2407;Saint-Jean-Saint-Nicolas
+FRXX2124;Saint-Jean-Soleymieux
+FRXX2059;Saint-Jeoire
+FRXX3531;Saint-Joachim
+FRXX6490;Saint-Jorioz
+FRXX6451;Saint-Jory
+FRXX3846;Saint-Jory-de-Chalais
+FRXX4196;Saint-Joseph-de-Riviere
+FRXX3247;Saint-Joseph-des-Bancs
+FRXX3289;Saint-Jouan-des-Guerets
+FRXX1978;Saint-Jouin-Bruneval
+FRXX4299;Saint-Jouin-de-Blavou
+FRXX2320;Saint-Jouin-de-Marnes
+FRXX6143;Saint-Juery
+FRXX3141;Saint-Julia-de-Bec
+FRXX1480;Saint-Julien
+FRXX3438;Saint-Julien
+FRXX6479;Saint-Julien
+FRXX4900;Saint-Julien-Chapteuil
+FRXX5660;Saint-Julien-d'Armagnac
+FRXX5398;Saint-Julien-d'Asse
+FRXX6716;Saint-Julien-de-Civry
+FRXX6424;Saint-Julien-de-Concelles
+FRXX2696;Saint-Julien-de-Coppel
+FRXX3174;Saint-Julien-de-Lampon
+FRXX5561;Saint-Julien-de-Peyrolas
+FRXX2056;Saint-Julien-de-Vouvantes
+FRXX2809;Saint-Julien-du-Puy
+FRXX5259;Saint-Julien-du-Sault
+FRXX1375;Saint-Julien-en-Genevois
+FRXX5565;Saint-Julien-en-Quint
+FRXX2531;Saint-Julien-Labrousse
+FRXX6324;Saint-Julien-la-Genete
+FRXX2643;Saint-Julien-la-Vetre
+FRXX3909;Saint-Julien-le-Faucon
+FRXX2972;Saint-Julien-le-Petit
+FRXX2195;Saint-Julien-les-Metz
+FRXX4732;Saint-Julien-les-Montbeliard
+FRXX3296;Saint-Julien-les-Villas
+FRXX6349;Saint-Julien-Molhesabate
+FRXX4788;Saint-Julien-pres-Bort
+FRXX3017;Saint-Julien-Puy-Laveze
+FRXX5868;Saint-Julien-sur-Bibost
+FRXX6334;Saint-Julien-sur-Veyle
+FRXX6231;Saint-Julien-Vocance
+FRXX5842;Saint-Junien
+FRXX4671;Saint-Jurs
+FRXX2212;Saint-Just
+FRXX2744;Saint-Just-de-Claix
+FRXX4497;Saint-Just-en-Bas
+FRXX1291;Saint-Just-en-Chaussee
+FRXX6557;Saint-Just-en-Chevalet
+FRXX4063;Saint-Just-et-Vacquieres
+FRXX5651;Saint-Just-la-Pendue
+FRXX2251;Saint-Just-le-Martel
+FRXX2633;Saint-Just-Malmont
+FRXX1203;Saint-Just-pres-Brioude
+FRXX5120;Saint-Just-Saint-Rambert
+FRXX2364;Saint-Just-Sauvage
+FRXX3252;Saint-Juvin
+FRXX3434;Saint-Lager
+FRXX6609;Saint-Lambert-du-Lattay
+FRXX1654;Saint-Lambert-la-Potherie
+FRXX5749;Saint-Lary-Boujean
+FRXX0504;Saint-Lary-Soulan
+FRXX5577;Saint-Laurent-d'Aigouze
+FRXX4977;Saint-Laurent-de-Cerdans
+FRXX1449;Saint-Laurent-de-Chamousset
+FRXX3985;Saint-Laurent-de-Cognac
+FRXX3105;Saint-Laurent-de-Cuves
+FRXX4429;Saint-Laurent-de-Jourdes
+FRXX4075;Saint-Laurent-de-la-Cabrerisse
+FRXX3879;Saint-Laurent-de-la-Plaine
+FRXX3244;Saint-Laurent-de-la-Pree
+FRXX4312;Saint-Laurent-de-la-Salanque
+FRXX6370;Saint-Laurent-de-Neste
+FRXX1049;Saint-Laurent-des-Arbres
+FRXX3977;Saint-Laurent-des-Combes
+FRXX1180;Saint-Laurent-des-Vignes
+FRXX4538;Saint-Laurent-de-Terregatte
+FRXX4423;Saint-Laurent-de-Vaux
+FRXX6100;Saint-Laurent-de-Veyres
+FRXX3437;Saint-Laurent-d'Oingt
+FRXX4198;Saint-Laurent-du-Pont
+FRXX6124;Saint-Laurent-du-Var
+FRXX5216;Saint-Laurent-du-Verdon
+FRXX2878;Saint-Laurent-en-Gatines
+FRXX2542;Saint-Laurent-le-Minier
+FRXX6517;Saint-Laurent-Medoc
+FRXX2223;Saint-Laurent-Nouan
+FRXX3740;Saint-Laurent-sur-Gorre
+FRXX3656;Saint-Laurent-sur-Othain
+FRXX5249;Saint-Laurent-sur-Saone
+FRXX1591;Saint-Leger-des-Vignes
+FRXX4352;Saint-Leger-du-Bourg-Denis
+FRXX5917;Saint-Leger-les-Domart
+FRXX1135;Saint-Leger-sous-Brienne
+FRXX4663;Saint-Leger-sous-Cholet
+FRXX5552;Saint-Leger-sous-Margerie
+FRXX1940;Saint-Leger-sur-Dheune
+FRXX1728;Saint-Leon
+FRXX4457;Saint-Leon
+FRXX4530;Saint-Leonard
+FRXX5251;Saint-Leonard-de-Noblat
+FRXX4376;Saint-Leonard-en-Beauce
+FRXX2612;Saint-Leon-sur-Vezere
+FRXX4658;Saint-Leu-la-Foret
+FRXX2402;Saint-Lions
+FRXX6285;Saint-Lizier
+FRXX0090;Saint-Lo
+FRXX6780;Saint-Loubouer
+FRXX6662;Saint-Louis
+FRXX5796;Saint-Louis-de-Montferrand
+FRXX3218;Saint-Loup
+FRXX4358;Saint-Loup
+FRXX6034;Saint-Loup
+FRXX3377;Saint-Loup-de-Naud
+FRXX2989;Saint-Loup-Geanges
+FRXX4309;Saint-Loup-sur-Semouse
+FRXX3542;Saint-Loyer-des-Champs
+FRXX4137;Saint-Lubin-de-la-Haye
+FRXX4134;Saint-Lubin-des-Joncherets
+FRXX6509;Saint-Lubin-en-Vergonnois
+FRXX4287;Saint-Lunaire
+FRXX3685;Saint-Lupicin
+FRXX2030;Saint-Lys
+FRXX1578;Saint-Macaire-en-Mauges
+FRXX6599;Saint-Magne
+FRXX3146;Saint-Maime
+FRXX6368;Saint-Maixent
+FRXX5341;Saint-Maixent-sur-Vie
+FRXX0275;Saint-Malo
+FRXX4609;Saint-Malo-du-Bois
+FRXX1490;Saint-Malo-en-Donziois
+FRXX2544;Saint-Mamert-du-Gard
+FRXX3971;Saint-Mamet-la-Salvetat
+FRXX5329;Saint-Mande
+FRXX4272;Saint-Mandrier-sur-Mer
+FRXX3397;Saint-Marcel
+FRXX5806;Saint-Marcel
+FRXX3248;Saint-Marcel-d'Ardeche
+FRXX5580;Saint-Marcel-de-Careiret
+FRXX2824;Saint-Marcel-de-Felines
+FRXX1144;Saint-Marcel-les-Valence
+FRXX5677;Saint-Marcellin
+FRXX4379;Saint-Marcellin-en-Forez
+FRXX5020;Saint-Marcel-Paulel
+FRXX1853;Saint-Mards-en-Othe
+FRXX1971;Saint-Marsal
+FRXX5778;Saint-Mars-du-Desert
+FRXX3733;Saint-Mars-la-Briere
+FRXX5723;Saint-Mars-la-Jaille
+FRXX3080;Saint-Mars-sur-la-Futaie
+FRXX6772;Saint-Martial-de-Nabirat
+FRXX1236;Saint-Martin-aux-Arbres
+FRXX3538;Saint-Martin-Belle-Roche
+FRXX1271;Saint-Martin-Boulogne
+FRXX1681;Saint-Martin-d'Ablois
+FRXX2552;Saint-Martin-d'Aout
+FRXX4234;Saint-Martin-de-Belleville
+FRXX3775;Saint-Martin-de-Bernegoue
+FRXX1237;Saint-Martin-de-Boscherville
+FRXX1420;Saint-Martin-de-Brethencourt
+FRXX5312;Saint-Martin-de-Castillon
+FRXX3509;Saint-Martin-de-Clelles
+FRXX5467;Saint-Martin-de-Crau
+FRXX6133;Saint-Martin-de-Fontenay
+FRXX6747;Saint-Martin-de-la-Brasque
+FRXX3852;Saint-Martin-de-Landelles
+FRXX6567;Saint-Martin-de-Londres
+FRXX4681;Saint-Martin-d'Entraunes
+FRXX3148;Saint-Martin-de-Queyrieres
+FRXX4015;Saint-Martin-de-Re
+FRXX3185;Saint-Martin-de-Riberac
+FRXX1632;Saint-Martin-de-Saint-Maixent
+FRXX3777;Saint-Martin-de-Sanzay
+FRXX3168;Saint-Martin-des-Besaces
+FRXX2082;Saint-Martin-des-Champs
+FRXX2138;Saint-Martin-des-Champs
+FRXX4616;Saint-Martin-de-Seignanx
+FRXX5680;Saint-Martin-des-Plains
+FRXX1948;Saint-Martin-d'Estreaux
+FRXX6251;Saint-Martin-de-Valamas
+FRXX6265;Saint-Martin-de-Valgalgues
+FRXX4936;Saint-Martin-d'Heres
+FRXX5320;Saint-Martin-du-Bec
+FRXX2277;Saint-Martin-du-Bois
+FRXX3048;Saint-Martin-du-Fouilloux
+FRXX4127;Saint-Martin-du-Frene
+FRXX3930;Saint-Martin-du-Mont
+FRXX5621;Saint-Martin-du-Mont
+FRXX1489;Saint-Martin-du-Puy
+FRXX2378;Saint-Martin-du-Tertre
+FRXX2417;Saint-Martin-du-Var
+FRXX3376;Saint-Martin-en-Biere
+FRXX6358;Saint-Martin-en-Bresse
+FRXX4973;Saint-Martin-en-Haut
+FRXX2099;Saint-Martin-la-Garenne
+FRXX4485;Saint-Martin-Laguepie
+FRXX4897;Saint-Martin-la-Plaine
+FRXX6331;Saint-Martin-le-Chatel
+FRXX2718;Saint-Martin-le-Noeud
+FRXX3891;Saint-Martin-les-Eaux
+FRXX4612;Saint-Martin-les-Melle
+FRXX3706;Saint-Martin-les-Seyne
+FRXX3510;Saint-Martin-le-Vinoux
+FRXX4118;Saint-Martin-Sainte-Catherine
+FRXX4633;Saint-Martin-sous-Vigouroux
+FRXX4326;Saint-Martin-sur-Arve
+FRXX5346;Saint-Martin-sur-le-Pre
+FRXX3210;Saint-Martin-Valmeroux
+FRXX5405;Saint-Martin-Vesubie
+FRXX4735;Saint-Mary-le-Plain
+FRXX1649;Saint-Mathieu-de-Treviers
+FRXX3136;Saint-Mathurin-sur-Loire
+FRXX4286;Saint-Maur
+FRXX5499;Saint-Maur
+FRXX0291;Saint-Maur-des-Fosses
+FRXX4547;Saint-Maurice
+FRXX5970;Saint-Maurice-aux-Riches-Hommes
+FRXX3205;Saint-Maurice-Colombier
+FRXX1625;Saint-Maurice-Crillat
+FRXX3334;Saint-Maurice-de-Beynost
+FRXX4087;Saint-Maurice-de-Cazevieille
+FRXX5592;Saint-Maurice-de-Gourdans
+FRXX3272;Saint-Maurice-de-Laurencanne
+FRXX3366;Saint-Maurice-de-Remens
+FRXX6181;Saint-Maurice-des-Lions
+FRXX4951;Saint-Maurice-d'Etelan
+FRXX5698;Saint-Maurice-en-Quercy
+FRXX1451;Saint-Maurice-la-Clouere
+FRXX2053;Saint-Maurice-les-Charencey
+FRXX3439;Saint-Maurice-les-Chateauneuf
+FRXX1145;Saint-Maurice-Navacelles
+FRXX3324;Saint-Maurice-Saint-Germain
+FRXX4937;Saint-Maurice-sur-Adour
+FRXX3435;Saint-Maurice-sur-Dargoire
+FRXX4529;Saint-Maurice-sur-Moselle
+FRXX1070;Saint-Maurice-sur-Vingeanne
+FRXX4642;Saint-Max
+FRXX2915;Saint-Maxent
+FRXX5746;Saint-Maximin
+FRXX0362;Saint-Maximin-la-Sainte-Baume
+FRXX6072;Saint-Meard-de-Gurcon
+FRXX5072;Saint-Medard-de-Guizieres
+FRXX1031;Saint-Medard-de-Mussidan
+FRXX3545;Saint-Medard-d'Eyrans
+FRXX2890;Saint-Medard-en-Jalles
+FRXX1131;Saint-Meen-le-Grand
+FRXX3287;Saint-Meloir-des-Ondes
+FRXX2524;Saint-Meme-les-Carrieres
+FRXX2336;Saint-Memmie
+FRXX4691;Saint-Menoux
+FRXX4869;Saint-Merd-la-Breuille
+FRXX1714;Saint-Michel
+FRXX4046;Saint-Michel
+FRXX2057;Saint-Michel-Chef-Chef
+FRXX6398;Saint-Michel-de-Bannieres
+FRXX3416;Saint-Michel-de-Chavaignes
+FRXX5805;Saint-Michel-de-Fronsac
+FRXX1002;Saint-Michel-de-Lanes
+FRXX3845;Saint-Michel-de-la-Roe
+FRXX3463;Saint-Michel-de-Maurienne
+FRXX3853;Saint-Michel-des-Loups
+FRXX2428;Saint-Michel-de-Villadeix
+FRXX4617;Saint-Michel-Escalus
+FRXX2997;Saint-Michel-et-Chanveaux
+FRXX5314;Saint-Michel-le-Cloucq
+FRXX4960;Saint-Michel-Loubejou
+FRXX2975;Saint-Michel-sur-Meurthe
+FRXX5274;Saint-Michel-sur-Orge
+FRXX2642;Saint-Michel-sur-Rhone
+FRXX5172;Saint-Mihiel
+FRXX3176;Saint-Mitre-les-Remparts
+FRXX6514;Saint-Mont
+FRXX0091;Saint-Nazaire
+FRXX5853;Saint-Nazaire-de-Pezan
+FRXX6074;Saint-Nazaire-le-Desert
+FRXX2674;Saint-Nectaire
+FRXX1995;Saint-Nicolas
+FRXX5247;Saint-Nicolas-Courbefy
+FRXX4954;Saint-Nicolas-d'Aliermont
+FRXX2015;Saint-Nicolas-de-la-Grave
+FRXX4645;Saint-Nicolas-de-Port
+FRXX3474;Saint-Nicolas-de-Redon
+FRXX5807;Saint-Nicolas-des-Motets
+FRXX4339;Saint-Nicolas-de-Veroce
+FRXX4773;Saint-Nicolas-du-Pelem
+FRXX3363;Saint-Nizier-le-Desert
+FRXX3402;Saint-Nizier-sous-Charlieu
+FRXX3663;Saint-Nolff
+FRXX4342;Saint-Nom-la-Breteche
+FRXX3457;Saint-Omer
+FRXX6467;Saint-Omer-en-Chaussee
+FRXX4459;Saint-Orens-de-Gameville
+FRXX4460;Saint-Orens-Pouy-Petit
+FRXX5205;Saint-Ouen
+FRXX6712;Saint-Ouen
+FRXX6184;Saint-Ouen-d'Aunis
+FRXX5143;Saint-Ouen-de-Secherouvre
+FRXX3283;Saint-Ouen-de-Thouberville
+FRXX6818;Saint-Ouen-Domprot
+FRXX5845;Saint-Ouen-du-Breuil
+FRXX6829;Saint-Ouen-l'Aumone
+FRXX6134;Saint-Ouen-le-Pin
+FRXX5253;Saint-Ouen-les-Parey
+FRXX6053;Saint-Ouen-Marchefroy
+FRXX2709;Saint-Ours
+FRXX3465;Saint-Oyen
+FRXX1429;Saint-Pair-sur-Mer
+FRXX6310;Saint-Palais
+FRXX3217;Saint-Palais-de-Negrignac
+FRXX3220;Saint-Palais-sur-Mer
+FRXX6438;Saint-Pal-de-Mons
+FRXX6664;Saint-Pancrasse
+FRXX4744;Saint-Pantaleon-de-Larche
+FRXX6801;Saint-Pantaly-d'Ans
+FRXX1957;Saint-Pardoux
+FRXX2480;Saint-Pardoux-Corbier
+FRXX6153;Saint-Pardoux-la-Riviere
+FRXX3523;Saint-Pargoire
+FRXX1492;Saint-Parize-le-Chatel
+FRXX1134;Saint-Parres-aux-Tertres
+FRXX5551;Saint-Parres-les-Vaudes
+FRXX6521;Saint-Paterne-Racan
+FRXX2594;Saint-Pathus
+FRXX5248;Saint-Paul
+FRXX5406;Saint-Paul
+FRXX1513;Saint-Paul-Cap-de-Joux
+FRXX6454;Saint-Paul-de-Fenouillet
+FRXX3316;Saint-Paul-de-Jarrat
+FRXX3213;Saint-Paul-des-Landes
+FRXX4122;Saint-Paul-de-Varax
+FRXX5759;Saint-Paul-de-Varces
+FRXX1752;Saint-Paul-du-Vernay
+FRXX5052;Saint-Paul-en-Chablais
+FRXX5756;Saint-Paul-en-Foret
+FRXX3381;Saint-Paul-en-Jarez
+FRXX4826;Saint-Paulet
+FRXX1297;Saint-Paulien
+FRXX3297;Saint-Paul-la-Coste
+FRXX5513;Saint-Paul-le-Jeune
+FRXX6054;Saint-Paul-les-Dax
+FRXX5427;Saint-Paul-les-Durance
+FRXX6336;Saint-Paul-Lizonne
+FRXX4597;Saint-Paul-sur-Isere
+FRXX4672;Saint-Paul-sur-Ubaye
+FRXX4068;Saint-Paul-Trois-Chateaux
+FRXX6529;Saint-Pe-de-Bigorre
+FRXX3347;Saint-Pee-sur-Nivelle
+FRXX3304;Saint-Pellerin
+FRXX5541;Saint-Peray
+FRXX6421;Saint-Pere-en-Retz
+FRXX4461;Saint-Pereuse
+FRXX4058;Saint-Phal
+FRXX4610;Saint-Philbert-de-Bouaine
+FRXX4239;Saint-Philbert-de-Grand-Lieu
+FRXX6834;Saint-Philbert-du-Peuple
+FRXX2458;Saint-Pierre
+FRXX6499;Saint-Pierre-Brouck
+FRXX1966;Saint-Pierre-Colamine
+FRXX1282;Saint-Pierre-d'Albigny
+FRXX4277;Saint-Pierre-d'Allevard
+FRXX1156;Saint-Pierre-de-Bailleul
+FRXX2647;Saint-Pierre-de-Boeuf
+FRXX5546;Saint-Pierre-de-Cernieres
+FRXX4995;Saint-Pierre-de-Chandieu
+FRXX3862;Saint-Pierre-de-Clairac
+FRXX4774;Saint-Pierre-de-Colombier
+FRXX3219;Saint-Pierre-de-Juillers
+FRXX5752;Saint-Pierre-de-Lages
+FRXX6497;Saint-Pierre-de-Manneville
+FRXX2712;Saint-Pierre-d'Entremont
+FRXX6565;Saint-Pierre-de-Plesguen
+FRXX1469;Saint-Pierre-des-Corps
+FRXX5545;Saint-Pierre-des-Fleurs
+FRXX3086;Saint-Pierre-des-Landes
+FRXX3085;Saint-Pierre-des-Nids
+FRXX3876;Saint-Pierre-des-Tripiers
+FRXX5927;Saint-Pierre-de-Trivisy
+FRXX6391;Saint-Pierre-de-Varengeville
+FRXX1974;Saint-Pierre-de-Varennes
+FRXX2155;Saint-Pierre-d'Exideuil
+FRXX2525;Saint-Pierre-d'Oleron
+FRXX3232;Saint-Pierre-du-Bu
+FRXX3808;Saint-Pierre-du-Chemin
+FRXX4465;Saint-Pierre-du-Mont
+FRXX4946;Saint-Pierre-du-Mont
+FRXX1794;Saint-Pierre-du-Palais
+FRXX2231;Saint-Pierre-du-Perray
+FRXX5144;Saint-Pierre-du-Regard
+FRXX1814;Saint-Pierre-du-Val
+FRXX1852;Saint-Pierre-du-Vauvray
+FRXX6571;Saint-Pierre-Eglise
+FRXX1977;Saint-Pierre-en-Val
+FRXX4939;Saint-Pierre-la-Bourlhonne
+FRXX6070;Saint-Pierre-la-Cour
+FRXX3099;Saint-Pierre-Langers
+FRXX2103;Saint-Pierre-la-Palud
+FRXX2489;Saint-Pierre-la-Roche
+FRXX2953;Saint-Pierre-la-Vieille
+FRXX1266;Saint-Pierre-le-Chastel
+FRXX2188;Saint-Pierre-le-Moutier
+FRXX1253;Saint-Pierre-les-Elbeuf
+FRXX4794;Saint-Pierre-les-Etieux
+FRXX6619;Saint-Pierre-les-Nemours
+FRXX1941;Saint-Pierre-le-Vieux
+FRXX3810;Saint-Pierre-le-Vieux
+FRXX1822;Saint-Pierremont
+FRXX5384;Saint-Pierre-Montlimart
+FRXX4469;Saint-Pierre-Quiberon
+FRXX1735;Saint-Pierre-sur-Dives
+FRXX5355;Saint-Pierre-sur-Orthe
+FRXX5410;Saint-Plaisir
+FRXX4458;Saint-Plancard
+FRXX2990;Saint-Point
+FRXX1657;Saint-Poix
+FRXX1164;Saint-Pol-de-Leon
+FRXX2061;Saint-Pol-sur-Mer
+FRXX6580;Saint-Pol-sur-Ternoise
+FRXX5407;Saint-Pons
+FRXX6185;Saint-Porchaire
+FRXX5729;Saint-Porquier
+FRXX1730;Saint-Pourcain-sur-Besbre
+FRXX1000;Saint-Pourcain-sur-Sioule
+FRXX4996;Saint-Priest
+FRXX3223;Saint-Priest-de-Gimel
+FRXX3429;Saint-Priest-des-Champs
+FRXX1213;Saint-Priest-en-Jarez
+FRXX6158;Saint-Priest-en-Murat
+FRXX1925;Saint-Priest-la-Prugne
+FRXX6045;Saint-Priest-sous-Aixe
+FRXX4615;Saint-Priest-Taurion
+FRXX4034;Saint-Privat
+FRXX6142;Saint-Privat-des-Pres
+FRXX1162;Saint-Privat-des-Vieux
+FRXX6099;Saint-Privat-de-Vallongue
+FRXX1417;Saint-Privat-la-Montagne
+FRXX2380;Saint-Prix
+FRXX1035;Saint-Prix-les-Arnay
+FRXX6396;Saint-Pryve-Saint-Mesmin
+FRXX2516;Saint-Quay-Portrieux
+FRXX0276;Saint-Quentin
+FRXX2477;Saint-Quentin-de-Chalais
+FRXX2022;Saint-Quentin-des-Pres
+FRXX6827;Saint-Quentin-du-Dropt
+FRXX0280;Saint-Quentin-en-Yvelines
+FRXX2790;Saint-Quentin-Fallavier
+FRXX4875;Saint-Quentin-la-Chabanne
+FRXX2209;Saint-Quentin-la-Motte-Croix-au-Bailly
+FRXX6069;Saint-Quentin-les-Anges
+FRXX4795;Saint-Quentin-sur-Charente
+FRXX4934;Saint-Quentin-sur-Isere
+FRXX5134;Saint-Quentin-sur-le-Homme
+FRXX1225;Saint-Quintin-sur-Sioule
+FRXX1183;Saint-Rambert-en-Bugey
+FRXX0092;Saint-Raphael
+FRXX3458;Saint-Remimont
+FRXX6048;Saint-Remy
+FRXX6151;Saint-Remy
+FRXX6537;Saint-Remy-Chaussee
+FRXX1055;Saint-Remy-de-Chaudes-Aigues
+FRXX3029;Saint-Remy-de-Maurienne
+FRXX3997;Saint-Remy-de-Provence
+FRXX3102;Saint-Remy-des-Landes
+FRXX6817;Saint-Remy-en-Bouzemont-Saint-Genest-et-Isson
+FRXX4428;Saint-Remy-en-Montmorillon
+FRXX1020;Saint-Remy-en-Rollat
+FRXX3579;Saint-Remy-les-Chevreuse
+FRXX4135;Saint-Remy-sur-Avre
+FRXX4201;Saint-Remy-sur-Durolle
+FRXX1758;Saint-Renan
+FRXX2095;Saint-Reverien
+FRXX1067;Saint-Romain-de-Benet
+FRXX4953;Saint-Romain-de-Colbosc
+FRXX1962;Saint-Romain-de-Jalionas
+FRXX6389;Saint-Romain-en-Gal
+FRXX4378;Saint-Romain-la-Motte
+FRXX4183;Saint-Romain-le-Puy
+FRXX2421;Saint-Rome-de-Cernon
+FRXX4187;Saint-Saens
+FRXX1387;Saint-Salvy-de-la-Balme
+FRXX3854;Saint-Samson-de-Bonfosse
+FRXX3260;Saint-Saturnin
+FRXX6246;Saint-Saturnin
+FRXX4701;Saint-Saturnin-de-Lenne
+FRXX6021;Saint-Saturnin-les-Apt
+FRXX2303;Saint-Saturnin-les-Avignon
+FRXX1392;Saint-Saulge
+FRXX2106;Saint-Saulve
+FRXX5774;Saint-Sauves-d'Auvergne
+FRXX1719;Saint-Sauveur
+FRXX2149;Saint-Sauveur
+FRXX2282;Saint-Sauveur
+FRXX2545;Saint-Sauveur-Camprieu
+FRXX4053;Saint-Sauveur-de-Montagut
+FRXX3125;Saint-Sauveur-de-Peyre
+FRXX3062;Saint-Sauveur-en-Puisaye
+FRXX1944;Saint-Sauveur-en-Rue
+FRXX2842;Saint-Sauveur-la-Pommeraye
+FRXX4965;Saint-Sauveur-la-Sagne
+FRXX5135;Saint-Sauveur-le-Vicomte
+FRXX2565;Saint-Sauveur-Marville
+FRXX6491;Saint-Sauveur-sur-Ecole
+FRXX2230;Saint-Sauveur-sur-Tinee
+FRXX6453;Saint-Sauvy
+FRXX3611;Saint-Savin
+FRXX6592;Saint-Savin
+FRXX2526;Saint-Savinien
+FRXX4702;Saint-Savournin
+FRXX1850;Saint-Sebastien-de-Morsent
+FRXX4238;Saint-Sebastien-sur-Loire
+FRXX4727;Saint-Sernin-sur-Rance
+FRXX1524;Saint-Seurin-sur-l'Isle
+FRXX3060;Saint-Sever
+FRXX5416;Saint-Sever-Calvados
+FRXX2449;Saint-Sever-du-Moustier
+FRXX4119;Saint-Silvain-Bas-le-Roc
+FRXX2599;Saint-Silvain-sous-Toulx
+FRXX1896;Saint-Simeon
+FRXX6461;Saint-Simeon-de-Bressieux
+FRXX4069;Saint-Sorlin-en-Valloire
+FRXX5907;Saint-Sornin-Lavolps
+FRXX1545;Saint-Sornin-Leulac
+FRXX6531;Saint-Sulpice
+FRXX2521;Saint-Sulpice-de-Cognac
+FRXX1544;Saint-Sulpice-de-Favieres
+FRXX6508;Saint-Sulpice-de-Guilleragues
+FRXX1793;Saint-Sulpice-de-Ruffec
+FRXX2892;Saint-Sulpice-et-Cameyrac
+FRXX5547;Saint-Sulpice-la-Foret
+FRXX5250;Saint-Sulpice-Lauriere
+FRXX1905;Saint-Sulpice-le-Dunois
+FRXX3358;Saint-Sulpice-le-Gueretois
+FRXX5503;Saint-Sulpice-les-Bois
+FRXX1179;Saint-Sulpice-les-Champs
+FRXX2129;Saint-Sulpice-les-Feuilles
+FRXX5017;Saint-Sulpice-sur-Leze
+FRXX2054;Saint-Sulpice-sur-Risle
+FRXX3765;Saint-Sylvain-d'Anjou
+FRXX2491;Saint-Sylvestre
+FRXX5961;Saint-Sylvestre
+FRXX4967;Saint-Sylvestre-Pragoulin
+FRXX6086;Saint-Sylvestre-sur-Lot
+FRXX2161;Saint-Symphorien
+FRXX5650;Saint-Symphorien-de-Lay
+FRXX6250;Saint-Symphorien-de-Mahun
+FRXX4211;Saint-Symphorien-de-Marmagne
+FRXX1428;Saint-Symphorien-le-Valois
+FRXX1125;Saint-Symphorien-sous-Chomerac
+FRXX4422;Saint-Symphorien-sur-Coise
+FRXX3600;Saint-Symphorien-sur-Couze
+FRXX4232;Saint-Thibaud-de-Couz
+FRXX2354;Saint-Thibery
+FRXX2363;Saint-Thierry
+FRXX2978;Saint-Thurin
+FRXX3332;Saint-Trivier-de-Courtes
+FRXX5229;Saint-Trivier-sur-Moignans
+FRXX4014;Saint-Trojan-les-Bains
+FRXX0215;Saint-Tropez
+FRXX4648;Saint-Vaast-la-Hougue
+FRXX2766;Saint-Vaast-les-Mello
+FRXX3445;Saint-Valery-en-Caux
+FRXX2916;Saint-Valery-sur-Somme
+FRXX4070;Saint-Vallier
+FRXX6418;Saint-Vallier
+FRXX1016;Saint-Vallier-de-Thiey
+FRXX5706;Saint-Venant
+FRXX3493;Saint-Venerand
+FRXX3425;Saint-Victor-de-Morestel
+FRXX1161;Saint-Victor-la-Coste
+FRXX6437;Saint-Victor-sur-Arlanc
+FRXX4917;Saint-Victor-sur-Loire
+FRXX2649;Saint-Victor-sur-Rhins
+FRXX1744;Saint-Vigor-le-Grand
+FRXX1943;Saint-Vincent-de-Boisset
+FRXX1987;Saint-Vincent-de-Tyrosse
+FRXX1938;Saint-Vincent-en-Bresse
+FRXX1258;Saint-Vincent-Rive-d'Olt
+FRXX5972;Saint-Vinnemer
+FRXX4730;Saint-Vit
+FRXX1522;Saint-Vivien-de-Medoc
+FRXX2244;Saint-Vrain
+FRXX1254;Saint-Wandrille-Rancon
+FRXX5469;Saint-Xandre
+FRXX6688;Saint-Yon
+FRXX3903;Saint-Yorre
+FRXX0343;Saint-Yrieix-la-Perche
+FRXX2461;Saint-Yrieix-sur-Charente
+FRXX5029;Saint-Zacharie
+FRXX6278;Saissac
+FRXX6533;Saix
+FRXX5676;Salaise-sur-Sanne
+FRXX6744;Saleilles
+FRXX0388;Salernes
+FRXX4755;Salice
+FRXX6314;Salies-de-Bearn
+FRXX3632;Salies-du-Salat
+FRXX2511;Salignac-sur-Charente
+FRXX6214;Saligny-le-Vif
+FRXX6107;Saligny-sur-Roudon
+FRXX4490;Salin-de-Giraud
+FRXX6032;Salins-les-Bains
+FRXX1997;Sallaumines
+FRXX1757;Salleles-d'Aude
+FRXX1734;Sallenelles
+FRXX5848;Salles
+FRXX5668;Salles-Adour
+FRXX5455;Salles-Curan
+FRXX5555;Salles-d'Aude
+FRXX2478;Salles-de-Barbezieux
+FRXX2448;Salles-la-Source
+FRXX2484;Salles-les-Aulnay
+FRXX3537;Salome
+FRXX0093;Salon-de-Provence
+FRXX5472;Salon-la-Tour
+FRXX2779;Salornay-sur-Guye
+FRXX3113;Salviac
+FRXX0261;Samoens
+FRXX4213;Samois-sur-Seine
+FRXX2596;Samoreau
+FRXX2778;Sampigny-les-Maranges
+FRXX5000;Sanary-sur-Mer
+FRXX4760;Sancerre
+FRXX2454;Sancey-le-Long
+FRXX6729;Sancy
+FRXX4217;Sandillon
+FRXX4971;Sangatte
+FRXX2425;San-Gavino-di-Carbini
+FRXX6782;Sanguinet
+FRXX5570;San-Lorenzo
+FRXX3917;San-Martino-di-Lota
+FRXX5492;Sannerville
+FRXX2374;Sannois
+FRXX4400;Sanry-les-Vigy
+FRXX6177;Sansac-de-Marmiesse
+FRXX1056;Sansac-Veinazes
+FRXX3920;Santa-Lucia-di-Moriani
+FRXX6208;Santa-Maria-Figaniella
+FRXX5418;Santa-Maria-Poggio
+FRXX3170;Santa-Maria-Siche
+FRXX4007;Sant'Andrea-d'Orcino
+FRXX1028;Santa-Reparata-di-Balagna
+FRXX1069;Santenay
+FRXX4850;Santes
+FRXX2555;Santo-Pietro-di-Tenda
+FRXX4173;Sanvignes-les-Mines
+FRXX2415;Saorge
+FRXX1650;Saran
+FRXX0296;Sarcelles
+FRXX6366;Sarge-les-le-Mans
+FRXX2222;Sarge-sur-Braye
+FRXX5667;Sariac-Magnoac
+FRXX5477;Sari-Solenzara
+FRXX4883;Sarlat-la-Caneda
+FRXX4349;Sarniguet
+FRXX1221;Sarralbe
+FRXX2806;Sarrancolin
+FRXX6252;Sarras
+FRXX0367;Sarrebourg
+FRXX2585;Sarreguemines
+FRXX6630;Sarreinsming
+FRXX2868;Sarre-Union
+FRXX3012;Sarrians
+FRXX1026;Sarrola-Carcopino
+FRXX4103;Sars-Poteries
+FRXX6205;Sartene
+FRXX2098;Sartrouville
+FRXX1597;Sarzeau
+FRXX2122;Sassay
+FRXX2775;Sassegnies
+FRXX5122;Sassenage
+FRXX2684;Sassetot-le-Mauconduit
+FRXX2679;Sathonay-Village
+FRXX3059;Saugnacq-et-Muret
+FRXX6742;Saugnieu
+FRXX1204;Saugues
+FRXX1100;Saulces-Monclin
+FRXX5255;Saulcy-sur-Meurthe
+FRXX2348;Saulges
+FRXX3976;Saulgond
+FRXX0422;Saulieu
+FRXX2966;Saulnes
+FRXX4974;Saulnot
+FRXX1037;Saulon-la-Chapelle
+FRXX6739;Sault
+FRXX4990;Saultain
+FRXX6654;Sault-Brenaz
+FRXX5076;Saulx
+FRXX2829;Saulx-Marchais
+FRXX1581;Saulxures-les-Nancy
+FRXX3866;Saulxures-sur-Moselotte
+FRXX5501;Saulzais-le-Potier
+FRXX4200;Saulzet-le-Chaud
+FRXX1335;Saulzet-le-Froid
+FRXX1770;Saumane
+FRXX1611;Saumane-de-Vaucluse
+FRXX3123;Saumejan
+FRXX0378;Saumur
+FRXX5897;Sausheim
+FRXX3326;Saussay
+FRXX5506;Saussay-la-Campagne
+FRXX1716;Sausses
+FRXX2530;Sausset-les-Pins
+FRXX6489;Sautron
+FRXX4878;Sauverny
+FRXX1602;Sauvessanges
+FRXX6016;Sauveterre-de-Bearn
+FRXX5797;Sauveterre-de-Guyenne
+FRXX5421;Sauveterre-de-Rouergue
+FRXX1687;Sauveterre-Saint-Denis
+FRXX4331;Sauvigney-les-Pesmes
+FRXX1556;Sauvigny-le-Bois
+FRXX4463;Sauvigny-les-Bois
+FRXX6420;Savenay
+FRXX5306;Saverne
+FRXX1540;Saveuse
+FRXX5804;Savignac-de-l'Isle
+FRXX1151;Savignac-les-Ormeaux
+FRXX2877;Savigne-sur-Lathan
+FRXX4346;Savigny-en-Revermont
+FRXX5524;Savigny-en-Sancerre
+FRXX2079;Savigny-en-Veron
+FRXX1747;Savigny-les-Beaune
+FRXX2344;Savigny-le-Sec
+FRXX4868;Savigny-le-Temple
+FRXX2359;Savigny-le-Vieux
+FRXX5194;Savigny-Poil-Fol
+FRXX2864;Savigny-sous-Faye
+FRXX2464;Savigny-sous-Malain
+FRXX6282;Savigny-sur-Aisne
+FRXX5940;Savigny-sur-Braye
+FRXX6777;Savigny-sur-Clairis
+FRXX6687;Savigny-sur-Orge
+FRXX1718;Savines-le-Lac
+FRXX6601;Savonnieres
+FRXX4444;Savonnieres-en-Perthois
+FRXX4677;Savournon
+FRXX4717;Scaer
+FRXX2934;Sceaux
+FRXX2688;Sceaux-du-Gatinais
+FRXX2451;Scey-Maisieres
+FRXX2072;Scey-sur-Saone-et-Saint-Albin
+FRXX3590;Schaffhouse-pres-Seltz
+FRXX3591;Scheibenhard
+FRXX5111;Scherwiller
+FRXX6594;Schiltigheim
+FRXX5874;Schirmeck
+FRXX3390;Schoeneck
+FRXX3072;Schweighouse-sur-Moder
+FRXX4144;Schweighouse-Thann
+FRXX6512;Scionzier
+FRXX2174;Scy-Chazelles
+FRXX3923;Sebazac-Concoures
+FRXX2042;Seclin
+FRXX3011;Secondigne-sur-Belle
+FRXX3010;Secondigny
+FRXX4002;Secqueville-en-Bessin
+FRXX2498;Sedan
+FRXX0262;Seez
+FRXX0312;Segre
+FRXX1789;Segur-les-Villas
+FRXX5339;Seignosse
+FRXX1620;Seilh
+FRXX4882;Seillonnaz
+FRXX5979;Seine Port
+FRXX6364;Seingbouse
+FRXX0439;Seix
+FRXX5877;Selestat
+FRXX1363;Selles-Saint-Denis
+FRXX6785;Selles-sur-Cher
+FRXX2135;Selles-sur-Nahon
+FRXX1342;Selvigny
+FRXX2810;Semalens
+FRXX2807;Semeac
+FRXX6635;Semelay
+FRXX3752;Semeries
+FRXX3646;Semezies-Cachan
+FRXX4822;Semondans
+FRXX4216;Semoy
+FRXX6323;Semur-en-Auxois
+FRXX1239;Semur-en-Vallon
+FRXX4962;Senaillac-Latronquiere
+FRXX2365;Senaillac-Lauzes
+FRXX1585;Senan
+FRXX1078;Senas
+FRXX2906;Sene
+FRXX6062;Senesse-de-Senabugue
+FRXX1303;Senlis
+FRXX4997;Sennecey-le-Grand
+FRXX4742;Sennecey-les-Dijon
+FRXX6494;Senozan
+FRXX0358;Sens
+FRXX5125;Sens-de-Bretagne
+FRXX1198;Sentheim
+FRXX1806;Septemes-les-Vallons
+FRXX1783;Septfontaines
+FRXX5890;Septmoncel
+FRXX4686;Seranon
+FRXX6115;Seraucourt-le-Grand
+FRXX4522;Sereilhac
+FRXX6740;Seremange-Erzange
+FRXX5904;Serent
+FRXX4949;Serezin-du-Rhone
+FRXX2736;Serignan
+FRXX3020;Serignan-du-Comtat
+FRXX6816;Sermaize-les-Bains
+FRXX6136;Sermano
+FRXX6356;Serques
+FRXX4806;Serquigny
+FRXX1809;Serra-di-Scopamene
+FRXX0227;Serre Chevalier
+FRXX3847;Serre-les-Sapins
+FRXX4859;Serres-Castet
+FRXX6482;Serres-Morlaas
+FRXX5688;Serres-Sainte-Marie
+FRXX1801;Serriera
+FRXX1847;Serrieres
+FRXX3586;Serrieres-en-Chautagne
+FRXX2784;Servaville-Salmonville
+FRXX4111;Servon
+FRXX2576;Sery-les-Mezieres
+FRXX6465;Sery-Magneval
+FRXX3642;Sessenheim
+FRXX0094;Sete
+FRXX2995;Sevenans
+FRXX5452;Severac-le-Chateau
+FRXX2485;Sevignac
+FRXX1821;Sevigny-Waleppe
+FRXX4539;Sevran
+FRXX3715;Sevres
+FRXX1456;Sevres-Anxaumont
+FRXX4340;Sevrier
+FRXX2391;Seyne
+FRXX0457;Seyne-les-Alpes
+FRXX2796;Seyssel
+FRXX3067;Seysses-Saves
+FRXX3035;Seyssinet-Pariset
+FRXX3420;Seyssins
+FRXX1223;Sierck-les-Bains
+FRXX5556;Sigean
+FRXX2743;Signes
+FRXX2561;Signy-le-Petit
+FRXX2666;Sigy-en-Bray
+FRXX1313;Sillans-la-Cascade
+FRXX2659;Sille-le-Guillaume
+FRXX4192;Sille-le-Philippe
+FRXX1954;Silly-sur-Nied
+FRXX5424;Simiane-Collongue
+FRXX4664;Simiane-la-Rotonde
+FRXX5597;Sinceny
+FRXX3536;Sin-le-Noble
+FRXX4380;Sion-les-Mines
+FRXX5620;Siorac-en-Perigord
+FRXX3884;Sisteron
+FRXX6616;Sivry-Courtry
+FRXX5169;Sivry-sur-Meuse
+FRXX4251;Six-Fours-les-Plages
+FRXX6028;Sixt-Fer-a-Cheval
+FRXX3943;Sizun
+FRXX3239;Soccia
+FRXX1787;Sochaux
+FRXX5786;Socx
+FRXX2819;Soignolles-en-Brie
+FRXX3547;Soings-en-Sologne
+FRXX0430;Soissons
+FRXX3126;Soisy-sous-Montmorency
+FRXX3736;Soisy-sur-Ecole
+FRXX2240;Soisy-sur-Seine
+FRXX0172;Solenzara
+FRXX2065;Solesmes
+FRXX5005;Solignac-sur-Loire
+FRXX5788;Somain
+FRXX4627;Sommepy-Tahure
+FRXX5395;Sommette-Eaucourt
+FRXX4629;Sommevoire
+FRXX3091;Soncourt-sur-Marne
+FRXX6144;Sonnac
+FRXX5590;Sonthonnax-la-Montagne
+FRXX1476;Soorts-Hossegor
+FRXX1007;Sorbais
+FRXX5301;Sorbey
+FRXX4177;Sorbiers
+FRXX1118;Sorbollano
+FRXX1397;Sorcy-Saint-Martin
+FRXX3822;Sore
+FRXX4318;Sorede
+FRXX1508;Sorel-en-Vimeu
+FRXX1520;Sorel-Moussel
+FRXX2091;Soreze
+FRXX2429;Sorges
+FRXX1610;Sorgues
+FRXX3717;Sorio
+FRXX5854;Sortosville-en-Beaumont
+FRXX5404;Sospel
+FRXX2345;Sotta
+FRXX5690;Sotteville-les-Rouen
+FRXX3571;Soual
+FRXX4017;Soubise
+FRXX5147;Souchez
+FRXX6632;Soucht
+FRXX4365;Soucieu-en-Jarrest
+FRXX2954;Soudaine-Lavinadiere
+FRXX2020;Soudan
+FRXX1382;Soues
+FRXX2871;Souffelweyersheim
+FRXX3605;Soufflenheim
+FRXX2658;Souge-le-Ganelon
+FRXX6727;Sougeres-sur-Sinotte
+FRXX2695;Souillac
+FRXX5043;Soulac-sur-Mer
+FRXX3960;Soulages-Bonneval
+FRXX6261;Soulaines-Dhuys
+FRXX5995;Soulaire-et-Bourg
+FRXX6066;Soulge-sur-Ouette
+FRXX6018;Souligne-sous-Ballon
+FRXX3829;Soullans
+FRXX6615;Soultz-Haut-Rhin
+FRXX4889;Soultzmatt
+FRXX6552;Soultz-sous-Forets
+FRXX6347;Souppes-sur-Loing
+FRXX4743;Soursac
+FRXX1502;Soustons
+FRXX4048;Soyaux
+FRXX5628;Spechbach-le-Bas
+FRXX3918;Speloncato
+FRXX1762;Spezet
+FRXX0442;St Colomban Des Villards
+FRXX0491;St Francois Longchamp
+FRXX0443;St Martin De Belleville
+FRXX5629;Staffelfelden
+FRXX6708;Stains
+FRXX0448;Ste Foy Tarentaise
+FRXX5600;Steenbecque
+FRXX4279;Steenvoorde
+FRXX2951;Steenwerck
+FRXX5162;Steinbourg
+FRXX5626;Steinbrunn-le-Bas
+FRXX1949;Stiring-Wendel
+FRXX0095;Strasbourg
+FRXX3319;Suc-et-Sentenac
+FRXX5270;Sucy-en-Brie
+FRXX1210;Sully
+FRXX6393;Sully-la-Chapelle
+FRXX1257;Sully-sur-Loire
+FRXX6613;Sundhoffen
+FRXX2117;Sundhouse
+FRXX0455;Super Besse
+FRXX0552;Superdevoluy
+FRXX5928;Suresnes
+FRXX1493;Surgy
+FRXX4126;Surjoux
+FRXX6096;Survilliers
+FRXX1215;Sury-le-Comtal
+FRXX4170;Sus-Saint-Leger
+FRXX4012;Suze-la-Rousse
+FRXX3962;Sylvanes
+FRXX6665;Tabanac
+FRXX4451;Tagsdorf
+FRXX6012;Taillades
+FRXX3967;Taillecourt
+FRXX5657;Talange
+FRXX6146;Talant
+FRXX0096;Talence
+FRXX1869;Tallone
+FRXX1645;Tannerre-en-Puisaye
+FRXX1668;Tantonville
+FRXX5487;Tarascon
+FRXX5575;Tarascon-sur-Ariege
+FRXX0097;Tarbes
+FRXX1336;Tardets-Sorholus
+FRXX1395;Targassonne
+FRXX3512;Tarnos
+FRXX6483;Taron-Sadirac-Viellenave
+FRXX3058;Tartas
+FRXX5815;Tassin-la-Demi-Lune
+FRXX2443;Taule
+FRXX2937;Taussat-les-Bains
+FRXX1250;Tauves
+FRXX6605;Tavaux
+FRXX1838;Tavera
+FRXX1693;Taverny
+FRXX5009;Tavers
+FRXX1955;Teilhede
+FRXX5127;Teillay
+FRXX3880;Teillet-Argenty
+FRXX3945;Telgruc-sur-Mer
+FRXX6671;Templemars
+FRXX4107;Templeuve
+FRXX3692;Templeux-le-Guerard
+FRXX5215;Tenay
+FRXX3898;Tende
+FRXX1488;Tenteling
+FRXX3374;Tercis-les-Bains
+FRXX0450;Termignon La Vanoise
+FRXX4876;Terrasson-Lavilledieu
+FRXX5639;Terrenoire
+FRXX2886;Terville
+FRXX5609;Tesse-Froulay
+FRXX6468;Tesse-la-Madeleine
+FRXX5123;Tessy-sur-Vire
+FRXX0263;Tete de Viraysse
+FRXX3008;Teteghem
+FRXX2968;Teting-sur-Nied
+FRXX3104;Teurtheville-Bocage
+FRXX6809;Teurtheville-Hague
+FRXX3328;Teyran
+FRXX1122;Thaire
+FRXX5814;Thann
+FRXX5964;Thaon-les-Vosges
+FRXX5197;Theix
+FRXX4739;Thenac
+FRXX2416;Theoule-sur-Mer
+FRXX4416;Therouanne
+FRXX2815;They-sous-Vaudemont
+FRXX5581;Theziers
+FRXX3755;Thiais
+FRXX2970;Thiat
+FRXX2698;Thiers
+FRXX5888;Thierville-sur-Meuse
+FRXX2239;Thieulloy-l'Abbaye
+FRXX2213;Thiezac
+FRXX4143;Thil
+FRXX4080;Thin-le-Moutier
+FRXX4472;Thionville
+FRXX3368;Thiron Gardais
+FRXX3726;Thivencelle
+FRXX5811;Thiverval-Grignon
+FRXX3335;Thoiry
+FRXX3282;Thomer-la-Sogne
+FRXX1923;Thomery
+FRXX1376;Thonon-les-Bains
+FRXX6540;Thorens-Glieres
+FRXX3285;Thorigne-Fouillard
+FRXX3018;Thorigne-sur-Due
+FRXX1918;Thorigny-sur-Marne
+FRXX4534;Thorigny-sur-Oreuse
+FRXX1983;Thou
+FRXX2716;Thouare-sur-Loire
+FRXX3806;Thouars
+FRXX3040;Thouarsais-Bouildroux
+FRXX4651;Thouars-sur-Garonne
+FRXX2572;Thourie
+FRXX3728;Thoury-Ferottes
+FRXX3843;Thuboeuf
+FRXX3098;Thuilley-aux-Groseilles
+FRXX3462;Thuir
+FRXX4778;Thuit-Hebert
+FRXX3344;Thumeries
+FRXX2774;Thun-l'Eveque
+FRXX4431;Thure
+FRXX1658;Thurey-le-Mont
+FRXX4696;Thury-Harcourt
+FRXX5685;Tibiran-Jaunac
+FRXX4661;Tierce
+FRXX0492;Tignes
+FRXX4197;Tignieu-Jameyzieu
+FRXX5354;Tillieres-sur-Avre
+FRXX2204;Tilloy-Floriville
+FRXX2702;Tilloy-les-Mofflaines
+FRXX4335;Tilly
+FRXX6234;Tilly
+FRXX6131;Tilly-sur-Seulles
+FRXX1450;Tincey-et-Pontrebeau
+FRXX4506;Tincourt-Boucly
+FRXX5865;Tincques
+FRXX4618;Tinqueux
+FRXX1883;Tinteniac
+FRXX6338;Tocane-Saint-Apre
+FRXX2283;Tomblaine
+FRXX4771;Tonnay-Charente
+FRXX0322;Tonneins
+FRXX0359;Tonnerre
+FRXX1038;Tonquedec
+FRXX0134;Topla
+FRXX4112;Torcy
+FRXX2014;Torfou
+FRXX2137;Torigni-sur-Vire
+FRXX4584;Torreilles
+FRXX0264;Torrent des Encombres
+FRXX1422;Touffreville-sur-Eu
+FRXX0265;Tougnete
+FRXX6081;Toul
+FRXX0174;Toul / Rosieres
+FRXX0098;Toulon
+FRXX5366;Toulon-la-Montagne
+FRXX3162;Toulon-sur-Allier
+FRXX2639;Toulon-sur-Arroux
+FRXX5790;Toulouges
+FRXX0099;Toulouse
+FRXX1084;Touques
+FRXX3670;Touquin
+FRXX0277;Tourcoing
+FRXX1684;Tour-de-Faure
+FRXX5878;Tourlaville
+FRXX2064;Tourmignies
+FRXX3516;Tournai-sur-Dive
+FRXX5615;Tournan-en-Brie
+FRXX4263;Tournefeuille
+FRXX4489;Tournes
+FRXX2797;Tournon-Saint-Martin
+FRXX6373;Tournous-Devant
+FRXX4950;Tournus
+FRXX3158;Tourrette-Levens
+FRXX0100;Tours
+FRXX2004;Tours-en-Savoie
+FRXX6646;Tours-en-Vimeu
+FRXX3108;Tours-sur-Marne
+FRXX3428;Tours-sur-Meymont
+FRXX4955;Tourville-la-Chapelle
+FRXX6570;Tourville-sur-Sienne
+FRXX3716;Toury
+FRXX5118;Toussus-le-Noble
+FRXX2233;Toutencourt
+FRXX2751;Tracy-le-Mont
+FRXX3165;Tracy-sur-Mer
+FRXX1621;Trainou
+FRXX2741;Trans-en-Provence
+FRXX0175;Trappes
+FRXX3021;Travaillan
+FRXX5666;Trebons
+FRXX4066;Trebons-de-Luchon
+FRXX4040;Tredaniel
+FRXX5521;Tregastel
+FRXX4721;Tregourez
+FRXX1836;Tregueux
+FRXX3984;Treguier
+FRXX5448;Tregunc
+FRXX1656;Treignac
+FRXX2394;Treilles
+FRXX1269;Treillieres
+FRXX2912;Trelaze
+FRXX1040;Trelissac
+FRXX6709;Tremblay-en-France
+FRXX2745;Treminis
+FRXX4944;Tremouille-Saint-Loup
+FRXX4905;Trepied
+FRXX2140;Tressange
+FRXX4455;Tresses
+FRXX5483;Trets
+FRXX2488;Trevou-Treguignec
+FRXX5535;Triac-Lautrait
+FRXX6446;Trie-Chateau
+FRXX5831;Triel-sur-Seine
+FRXX3640;Triembach-au-Val
+FRXX2664;Trie-sur-Baise
+FRXX4981;Trieux
+FRXX1289;Trignac
+FRXX2880;Trith-Saint-Leger
+FRXX6663;Trois-Epis
+FRXX4989;Troisvilles
+FRXX6604;Tronville-en-Barrois
+FRXX3913;Trouville-sur-Mer
+FRXX0101;Troyes
+FRXX2191;Trucy-l'Orgueilleux
+FRXX3769;Trucy-sur-Yonne
+FRXX5643;Tubersent
+FRXX1587;Tucquegnieux
+FRXX2397;Tugny-et-Pont
+FRXX0345;Tulle
+FRXX5955;Tully
+FRXX6387;Tupin-et-Semons
+FRXX2177;Turckheim
+FRXX4754;Turenne
+FRXX4756;Ucciani
+FRXX3687;Uchacq-et-Parentis
+FRXX1139;Uchaud
+FRXX4145;Ueberstrass
+FRXX1283;Ugine
+FRXX2735;Ully-Saint-Georges
+FRXX5896;Ungersheim
+FRXX3403;Unieux
+FRXX1482;Urbes
+FRXX1572;Urcerey
+FRXX5303;Urou-et-Crennes
+FRXX4298;Urrugne
+FRXX2139;Urville-Nacqueville
+FRXX2398;Urvillers
+FRXX4426;Usson-du-Poitou
+FRXX1947;Usson-en-Forez
+FRXX4108;Ustaritz
+FRXX6284;Ustou
+FRXX4526;Uxegney
+FRXX6680;Uzay-le-Venon
+FRXX6225;Uzel
+FRXX6215;Uzerche
+FRXX3301;Uzes
+FRXX4724;Vabre-Tizac
+FRXX4580;Vacqueyras
+FRXX2772;Vailly
+FRXX6305;Vailly-sur-Aisne
+FRXX4786;Vailly-sur-Sauldre
+FRXX6360;Vaires-sur-Marne
+FRXX3780;Vaison-la-Romaine
+FRXX0536;Val Cenis
+FRXX0524;Val d'Allos La Foux
+FRXX4548;Val Pompadour
+FRXX0494;Val Thorens
+FRXX5036;Valanjou
+FRXX4683;Valbonne
+FRXX1861;Valdahon
+FRXX5691;Val-de-la-Haye
+FRXX6819;Val-de-Vesle
+FRXX0493;Val-d'Isere
+FRXX0102;Valence
+FRXX5317;Valence-en-Brie
+FRXX5187;Valence-sur-Baise
+FRXX0429;Valenciennes
+FRXX6459;Valencogne
+FRXX6112;Valensole
+FRXX4821;Valentigney
+FRXX0550;Valfrejus
+FRXX6460;Valjouffrey
+FRXX3770;Vallan
+FRXX5403;Vallauris
+FRXX3173;Valle-di-Rostino
+FRXX3172;Valle-d'Orezza
+FRXX4304;Valleiry
+FRXX1396;Valleroy
+FRXX4986;Vallet
+FRXX3359;Valliere
+FRXX0495;Valloire
+FRXX1727;Vallon-en-Sully
+FRXX3417;Vallon-sur-Gee
+FRXX3548;Vallorcine
+FRXX1720;Vallouise
+FRXX0496;Valmeinier
+FRXX5989;Valmondois
+FRXX3619;Valmont
+FRXX0537;Valmorel la Belle
+FRXX0103;Valognes
+FRXX4291;Valras-Plage
+FRXX5514;Vals-les-Bains
+FRXX5007;Vals-pres-le-Puy
+FRXX0266;Vancroit
+FRXX3096;Vandieres
+FRXX6724;Vandoeuvre-les-Nancy
+FRXX2450;Vandoncourt
+FRXX6233;Vandrimare
+FRXX0176;Vannes
+FRXX4639;Vannes-le-Chatel
+FRXX3713;Vanves
+FRXX6423;Varades
+FRXX1743;Varaville
+FRXX3487;Varen
+FRXX2808;Varengeville-sur-Mer
+FRXX5291;Varennes-en-Argonne
+FRXX4467;Varennes-les-Narcy
+FRXX4162;Varennes-Saint-Honorat
+FRXX1211;Varennes-Saint-Sauveur
+FRXX5409;Varennes-sur-Allier
+FRXX2875;Varennes-sur-Fouzon
+FRXX3689;Varennes-sur-Loire
+FRXX6617;Varennes-sur-Seine
+FRXX1592;Varennes-Vauzelles
+FRXX1834;Varetz
+FRXX3931;Varois-et-Chaignot
+FRXX0267;Vars
+FRXX2319;Vasles
+FRXX4288;Vatan
+FRXX4314;Vattetot-sur-Mer
+FRXX5912;Vauchelles-les-Domart
+FRXX6660;Vaucresson
+FRXX3746;Vaudeurs
+FRXX5610;Vaudoy-en-Brie
+FRXX2962;Vaugrigneuse
+FRXX0465;Vaujany
+FRXX1560;Vaujours
+FRXX2387;Vaulandry
+FRXX1248;Vaulnaveys-le-Haut
+FRXX3784;Vaulx-en-Velin
+FRXX2145;Vaulx-Vraucourt
+FRXX3481;Vaumoise
+FRXX5340;Vaureal
+FRXX3994;Vauvenargues
+FRXX5593;Vaux-Andigny
+FRXX4208;Vaux-en-Beaujolais
+FRXX5214;Vaux-en-Bugey
+FRXX2910;Vaux-les-Saint-Claude
+FRXX5155;Vauxrenard
+FRXX3071;Vaux-sous-Aubigny
+FRXX1796;Vaux-sur-Mer
+FRXX1475;Vaux-sur-Poligny
+FRXX2802;Vaux-sur-Seine
+FRXX2208;Vaux-sur-Somme
+FRXX2865;Vaux-sur-Vienne
+FRXX2837;Vayres
+FRXX2245;Vayres-sur-Essonne
+FRXX4377;Veauche
+FRXX2296;Vedene
+FRXX1465;Veigne
+FRXX0458;Veigy-Foncenex
+FRXX2529;Velaux
+FRXX2822;Velizy-Villacoublay
+FRXX3789;Velleron
+FRXX2427;Venaco
+FRXX6023;Venansault
+FRXX2597;Venarey-les-Laumes
+FRXX1722;Vence
+FRXX0104;Vendargues
+FRXX2755;Vendays-Montalivet
+FRXX2580;Vendegies-sur-Ecaillon
+FRXX1708;Vendelles
+FRXX6019;Vendenesse-les-Charolles
+FRXX4592;Vendenheim
+FRXX1455;Vendeuvre-du-Poitou
+FRXX2538;Vendeuvre-sur-Barse
+FRXX4669;Vendhuile
+FRXX5704;Vendin-les-Bethune
+FRXX4171;Vendin-le-Vieil
+FRXX0346;Vendome
+FRXX5485;Venelles
+FRXX1710;Venerolles
+FRXX2032;Venerque
+FRXX4285;Venette
+FRXX4113;Veneux-les-Sablons
+FRXX0105;Venissieux
+FRXX2940;Venosc
+FRXX3818;Venoy
+FRXX3959;Ventenac-Cabardes
+FRXX1552;Ventron
+FRXX4731;Vercel-Villedieu-le-Camp
+FRXX0431;Verdun
+FRXX2725;Verdun-sur-Garonne
+FRXX4910;Verdun-sur-le-Doubs
+FRXX2568;Vergeze
+FRXX1039;Vergt-de-Biron
+FRXX1169;Verlinghem
+FRXX5428;Vernegues
+FRXX5672;Verneil-le-Chetif
+FRXX4940;Vernet-la-Varenne
+FRXX3585;Vernet-les-Bains
+FRXX5743;Verneuil-en-Halatte
+FRXX1089;Verneuil-sur-Avre
+FRXX5829;Verneuil-sur-Seine
+FRXX1549;Verneuil-sur-Vienne
+FRXX5574;Verniolle
+FRXX5993;Vernoil
+FRXX2433;Vernois-les-Vesvres
+FRXX5543;Vernon
+FRXX2490;Vernosc-les-Annonay
+FRXX6539;Vernouillet
+FRXX4895;Vernou-la-Celle-sur-Seine
+FRXX2163;Vernou-sur-Brenne
+FRXX3776;Vernoux-en-Gatine
+FRXX3279;Vernoux-en-Vivarais
+FRXX5769;Vern-sur-Seiche
+FRXX3169;Vero
+FRXX4565;Veron
+FRXX6549;Verquin
+FRXX5851;Verreries-de-Moussans
+FRXX4712;Verrey-sous-Salmaise
+FRXX1133;Verrieres
+FRXX1536;Verrieres-le-Buisson
+FRXX3047;Verrines-sous-Celles
+FRXX0106;Versailles
+FRXX6790;Verseilles-le-Bas
+FRXX5491;Verson
+FRXX1507;Vers-sur-Selles
+FRXX5763;Ver-sur-Launette
+FRXX1733;Ver-sur-Mer
+FRXX4330;Vertaizon
+FRXX2523;Verteuil-sur-Charente
+FRXX6621;Vertheuil
+FRXX5244;Vert-le-Grand
+FRXX2321;Vert-le-Petit
+FRXX6409;Vertou
+FRXX6321;Vert-Saint-Denis
+FRXX6821;Verzy
+FRXX6242;Vesly
+FRXX0210;Vesoul
+FRXX2543;Vestric-et-Candiac
+FRXX4394;Veules-les-Roses
+FRXX1243;Veurey-Voroize
+FRXX0363;Veynes
+FRXX3552;Veyre-Monton
+FRXX6524;Veyrier-du-Lac
+FRXX3719;Veyrins-Thuellin
+FRXX1583;Vezelay
+FRXX1299;Vezezoux
+FRXX4091;Vezin-le-Coquet
+FRXX4556;Vezins
+FRXX3924;Vezins-de-Levezou
+FRXX4077;Vezzani
+FRXX1304;Vias
+FRXX4350;Vic-en-Bigorre
+FRXX0329;Vic-Fezensac
+FRXX0177;Vichy
+FRXX1330;Vic-la-Gardiole
+FRXX1990;Vic-le-Comte
+FRXX1810;Vico
+FRXX3479;Vicq
+FRXX4424;Vicq-sur-Gartempe
+FRXX2162;Vicq-sur-Nahon
+FRXX1166;Vic-sur-Aisne
+FRXX6180;Vic-sur-Cere
+FRXX4902;Vic-sur-Seille
+FRXX6760;Vidauban
+FRXX5246;Videlles
+FRXX6383;Vieille-Eglise
+FRXX2634;Vieilles-Maisons-sur-Joudry
+FRXX2729;Vieillevigne
+FRXX3411;Vielle-Louron
+FRXX3825;Vielle-Saint-Girons
+FRXX0107;Vienne
+FRXX4000;Vierville-sur-Mer
+FRXX0108;Vierzon
+FRXX1439;Viesly
+FRXX4367;Vieux-Berquin
+FRXX5336;Vieux-Boucau-les-Bains
+FRXX2786;Vieux-Conde
+FRXX4505;Vieux-Maisons
+FRXX3443;Vieux-Rouen-sur-Bresle
+FRXX5914;Vignacourt
+FRXX2750;Vignemont
+FRXX5887;Vigneulles-les-Hattonchatel
+FRXX6304;Vigneux-Hocquet
+FRXX2956;Vigneux-sur-Seine
+FRXX3720;Vignieu
+FRXX2860;Vigoulet-Auzil
+FRXX5273;Villabe
+FRXX4343;Village-Neuf
+FRXX6149;Villaines-en-Duesmois
+FRXX3848;Villaines-la-Juhel
+FRXX5165;Villaines-les-Rochers
+FRXX5282;Villaines-sous-Bois
+FRXX1393;Villapourcon
+FRXX0497;Villard de Lans Correncon
+FRXX4676;Villar-d'Arene
+FRXX1245;Villard-Bonnot
+FRXX5678;Villard-de-Lans
+FRXX1707;Villardebelle
+FRXX3467;Villard-Leger
+FRXX3801;Villard-Reculas
+FRXX6379;Villard-Reymond
+FRXX4194;Villard-Saint-Christophe
+FRXX5201;Villard-Saint-Sauveur
+FRXX1613;Villard-Sallet
+FRXX5718;Villard-sur-Doron
+FRXX5719;Villarodin-Bourget
+FRXX4180;Villars
+FRXX3893;Villar-Saint-Pancrace
+FRXX3889;Villars-Colmars
+FRXX1186;Villars-les-Dombes
+FRXX3964;Villars-sous-Ecot
+FRXX3899;Villars-sur-Var
+FRXX2445;Villarzel-Cabardes
+FRXX5290;Ville-au-Montois
+FRXX2324;Villebarou
+FRXX6573;Villebaudon
+FRXX5236;Villeblevin
+FRXX4486;Villebois
+FRXX1811;Villebois-Lavalette
+FRXX2273;Villebon-sur-Yvette
+FRXX2430;Villecomtal
+FRXX6516;Villecomtal-sur-Arros
+FRXX7002;Villecresnes
+FRXX5222;Ville-d'Avray
+FRXX5261;Villedieu-la-Blouere
+FRXX1676;Villedieu-les-Poeles
+FRXX2332;Villedieu-sur-Indre
+FRXX3313;Ville-di-Paraso
+FRXX6815;Ville-en-Tardenois
+FRXX6544;Ville-en-Woevre
+FRXX6377;Villefontaine
+FRXX1555;Villefranche
+FRXX1308;Villefranche-de-Lauragais
+FRXX4728;Villefranche-de-Panat
+FRXX1776;Villefranche-de-Rouergue
+FRXX2437;Villefranche-du-Perigord
+FRXX2366;Villefranche-du-Queyran
+FRXX3151;Villefranche-sur-Mer
+FRXX0109;Villefranche-sur-Saone
+FRXX2889;Villegouge
+FRXX3870;Villejuif
+FRXX6522;Ville-la-Grand
+FRXX5976;Ville-Langy
+FRXX4587;Villelaure
+FRXX2921;Ville-le-Marclet
+FRXX1351;Villelongue-de-la-Salanque
+FRXX4504;Villemoisson-sur-Orge
+FRXX3748;Villemomble
+FRXX1184;Villemotier
+FRXX6166;Villemoustaussou
+FRXX2861;Villemur-sur-Tarn
+FRXX4815;Villenauxe-la-Grande
+FRXX3543;Villenave-d'Ornon
+FRXX1001;Villeneuve
+FRXX3202;Villeneuve
+FRXX0278;Villeneuve-d'Ascq
+FRXX1846;Villeneuve-de-Berg
+FRXX5100;Villeneuve-de-la-Raho
+FRXX6350;Villeneuve-de-Marsan
+FRXX6796;Villeneuve-du-Latou
+FRXX4668;Villeneuve-la-Comptal
+FRXX4050;Villeneuve-la-Comtesse
+FRXX2218;Villeneuve-la-Garenne
+FRXX5334;Villeneuve-la-Guyard
+FRXX5068;Villeneuve-la-Riviere
+FRXX2593;Villeneuve-le-Comte
+FRXX2270;Villeneuve-le-Roi
+FRXX1163;Villeneuve-les-Avignon
+FRXX2839;Villeneuve-les-Beziers
+FRXX4867;Villeneuve-les-Bordes
+FRXX4088;Villeneuve-les-Maguelone
+FRXX6277;Villeneuve-les-Montreal
+FRXX3517;Villeneuve-les-Sablons
+FRXX3152;Villeneuve-Loubet
+FRXX2269;Villeneuve-Saint-Georges
+FRXX1176;Villeneuve-sous-Dammartin
+FRXX6106;Villeneuve-sur-Allier
+FRXX5331;Villeneuve-sur-Auvers
+FRXX5632;Villeneuve-sur-Bellot
+FRXX6822;Villeneuve-sur-Lot
+FRXX2023;Villeneuve-sur-Verberie
+FRXX1512;Villeneuve-sur-Vere
+FRXX3001;Villeneuve-sur-Yonne
+FRXX1307;Villeneuve-Tolosane
+FRXX3603;Villennes-sur-Seine
+FRXX6322;Villeparisis
+FRXX5554;Villepart
+FRXX4816;Villepinte
+FRXX6713;Villepinte
+FRXX3578;Villepreux
+FRXX4076;Villerouge-Termenes
+FRXX3342;Villers-au-Tertre
+FRXX3911;Villers-Bocage
+FRXX4480;Villers-Bocage
+FRXX2232;Villers-Bretonneux
+FRXX2432;Villers-Canivet
+FRXX2396;Villers-Cotterets
+FRXX2497;Villers-devant-le-Thour
+FRXX2682;Villers-Ecalles
+FRXX6097;Villers-en-Arthies
+FRXX4561;Villers-en-Haye
+FRXX5234;Villers-Faucon
+FRXX4410;Villers-Guislain
+FRXX2887;Villers-la-Chevre
+FRXX5168;Villers-la-Montagne
+FRXX5456;Villers-le-Lac
+FRXX3004;Villers-les-Nancy
+FRXX3649;Villers-les-Ormes
+FRXX1901;Villers-les-Pots
+FRXX1346;Villers-Outreaux
+FRXX1008;Villers-Saint-Christophe
+FRXX6466;Villers-Saint-Frambourg
+FRXX3187;Villers-Saint-Martin
+FRXX3528;Villers-Saint-Paul
+FRXX3482;Villers-Saint-Sepulcre
+FRXX4023;Villers-Semeuse
+FRXX2923;Villers-sous-Ailly
+FRXX3208;Villers-sous-Montrond
+FRXX4260;Villers-sous-Saint-Leu
+FRXX6303;Villers-sur-Fere
+FRXX4837;Villers-sur-le-Roule
+FRXX6199;Villers-sur-Mer
+FRXX2651;Villers-sur-Nied
+FRXX2706;Villers-sur-Port
+FRXX1672;Villerupt
+FRXX6128;Villerville
+FRXX1736;Villeseque-des-Corbieres
+FRXX1854;Ville-sous-la-Ferte
+FRXX5966;Ville-sur-Illon
+FRXX2985;Villetaneuse
+FRXX2826;Villette-d'Anthon
+FRXX6607;Villette-les-Arbois
+FRXX2746;Villette-les-Dole
+FRXX0110;Villeurbanne
+FRXX1703;Villeveque
+FRXX4839;Villevieille
+FRXX4225;Villie-Morgon
+FRXX1575;Villiers-Adam
+FRXX2077;Villiers-au-Bouin
+FRXX6221;Villiers-Couture
+FRXX5614;Villiers-en-Biere
+FRXX1828;Villiers-en-Desoeuvre
+FRXX3929;Villiers-en-Morvan
+FRXX6736;Villiers-en-Plaine
+FRXX6830;Villiers-le-Bel
+FRXX5809;Villiers-le-Mahieu
+FRXX2337;Villiers-le-Sec
+FRXX3744;Villiers-Saint-Benoit
+FRXX1920;Villiers-Saint-Georges
+FRXX3053;Villiers-sur-Marne
+FRXX2339;Villiers-sur-Suize
+FRXX4568;Villon
+FRXX3183;Villons-les-Buissons
+FRXX5171;Villotte-devant-Louppy
+FRXX4706;Villy-en-Auxois
+FRXX4281;Vimoutiers
+FRXX5347;Vinay
+FRXX2707;Vinca
+FRXX3686;Vincelles
+FRXX4545;Vincennes
+FRXX3671;Vincy-Manoeuvre
+FRXX4796;Vindelle
+FRXX2732;Vineuil-Saint-Firmin
+FRXX2035;Vinon-sur-Verdon
+FRXX3491;Vins-sur-Caramy
+FRXX4210;Vinzelles
+FRXX5640;Violay
+FRXX5515;Vion
+FRXX1823;Vireux-Wallerand
+FRXX4175;Virey-le-Grand
+FRXX4128;Viriat
+FRXX4130;Virieu-le-Grand
+FRXX4879;Virieu-le-Petit
+FRXX5761;Viriville
+FRXX5108;Viroflay
+FRXX3580;Viry
+FRXX2274;Viry-Chatillon
+FRXX3791;Visan
+FRXX2116;Vis-en-Artois
+FRXX3302;Vissec
+FRXX6079;Viterne
+FRXX5041;Vitre
+FRXX6794;Vitrolles
+FRXX6395;Vitry-aux-Loges
+FRXX6415;Vitry-en-Artois
+FRXX3109;Vitry-le-Francois
+FRXX1999;Vitry-sur-Loire
+FRXX2196;Vitry-sur-Orne
+FRXX0286;Vitry-sur-Seine
+FRXX0300;Vittefleur
+FRXX6701;Vittel
+FRXX5083;Viuz-en-Sallaz
+FRXX3902;Vivaise
+FRXX4831;Vivier-au-Court
+FRXX3278;Viviers
+FRXX3468;Viviers-du-Lac
+FRXX6046;Viviers-le-Gras
+FRXX3711;Viviers-les-Montagnes
+FRXX6083;Viviers-sur-Chiers
+FRXX5159;Vivonne
+FRXX6643;Vivy
+FRXX4622;Voinemont
+FRXX2673;Voingt
+FRXX5278;Voisins-le-Bretonneux
+FRXX1264;Vollore-Ville
+FRXX5124;Volmunster
+FRXX1715;Volonne
+FRXX5902;Volstroff
+FRXX1965;Volvic
+FRXX2390;Volx
+FRXX1300;Vorey
+FRXX1452;Vouille
+FRXX2453;Voujeaucourt
+FRXX3639;Vouneuil-sous-Biard
+FRXX2152;Vouneuil-sur-Vienne
+FRXX5102;Vourles
+FRXX3262;Voutezac
+FRXX1958;Vouvray-sur-Loir
+FRXX1148;Vrigne-aux-Bois
+FRXX4559;Vritz
+FRXX2353;Vuillafans
+FRXX3441;Vulaines-sur-Seine
+FRXX6575;Wahagnies
+FRXX6026;Walbourg
+FRXX2119;Waldhambach
+FRXX4146;Waldighofen
+FRXX5827;Wallers
+FRXX2043;Wambrechies
+FRXX6374;Wanchy-Capval
+FRXX4418;Wangenbourg-Engenthal
+FRXX3693;Warloy-Baillon
+FRXX2849;Wasquehal
+FRXX4590;Wasselonne
+FRXX5349;Wassy
+FRXX5056;Watten
+FRXX1354;Wattignies-la-Victoire
+FRXX4518;Wattrelos
+FRXX5627;Wattwiller
+FRXX4853;Wavrechain-sous-Denain
+FRXX5037;Wavrechain-sous-Faulx
+FRXX1344;Wavrin
+FRXX5097;Waziers
+FRXX3513;Wervicq-Sud
+FRXX1933;Wierre-au-Bois
+FRXX3339;Wignehies
+FRXX2176;Wihr-en-Plaine
+FRXX4366;Willems
+FRXX1197;Willer-sur-Thur
+FRXX1935;Wimereux
+FRXX1996;Wingles
+FRXX4540;Wintersbourg
+FRXX2621;Wintzenheim
+FRXX5113;Wintzenheim-Kochersberg
+FRXX2700;Wissant
+FRXX6504;Wissembourg
+FRXX6773;Wissous
+FRXX2325;Witry-les-Reims
+FRXX2179;Wittelsheim
+FRXX6526;Wittenheim
+FRXX4371;Wittisheim
+FRXX5204;Wittring
+FRXX1506;Woignarue
+FRXX5203;Woincourt
+FRXX2867;Wolfisheim
+FRXX5787;Wormhout
+FRXX6535;Woustviller
+FRXX3655;Xeuilley
+FRXX3970;Ydes
+FRXX6774;Yerres
+FRXX6150;Yffiniac
+FRXX6608;Ygos-Saint-Saturnin
+FRXX1927;Yssingeaux
+FRXX5193;Yutz
+FRXX6186;Yves
+FRXX6530;Yvetot
+FRXX5533;Yvias
+FRXX2668;Yvre-le-Polin
+FRXX2670;Yvre-l'Eveque
+FRXX2333;Yzeures-sur-Creuse
+FRXX5571;Zalana
+FRXX3986;Zerubia
+FRXX1027;Zevaco
+FRXX2465;Zicavo
+FRXX1800;Zonza
+FRXX4306;Zuydcoote

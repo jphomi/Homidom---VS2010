@@ -1,0 +1,105 @@
+﻿<UserControl x:Class="uNewDevice"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             mc:Ignorable="d" 
+             MinWidth="740" MinHeight="485" Margin="5">
+
+    <DockPanel Background="#636060">
+        <Border Name="Border1" BorderThickness="2" BorderBrush="Gray">
+            <DockPanel>
+                <DockPanel DockPanel.Dock="Top" >
+                    <Image DockPanel.Dock="Left"  Height="53" HorizontalAlignment="Left" Margin="7,1,0,0" Name="ImgDevice" Source="/HoMIAdmiN;component/Images/NouveauComposant_128.png" Stretch="Fill" VerticalAlignment="Top" Width="53">
+                        <Image.LayoutTransform>
+                            <RotateTransform Angle="-10" CenterX="0" CenterY="0" />
+                        </Image.LayoutTransform>
+                    </Image>
+
+                    <StackPanel DockPanel.Dock="Right" >
+                        <Button Height="25" Template="{DynamicResource GlassButton}" HorizontalAlignment="Right" Margin="2" Name="BtnClose" VerticalAlignment="Top" Width="90" Foreground="White">Fermer</Button>
+                        <StackPanel Orientation="Horizontal" >
+                        </StackPanel>
+                    </StackPanel>
+                    <Label FontSize="24" FontStyle="Italic" Foreground="DarkOrange" Name="Label1" VerticalAlignment="Top" HorizontalContentAlignment="Center">Nouveau(x) Composant(s)</Label>
+
+                </DockPanel>
+                
+                <StackPanel Orientation="Horizontal" >
+                    <DataGrid Name="DGW" MinWidth="200" MaxWidth="550" IsReadOnly="True" BorderBrush="Black" Margin="5" Padding="2" SelectionMode="Single" />
+                    <StackPanel >
+
+                        <!--show the selected item-->
+                        <CheckBox  Content="Afficher Tous" Background="DarkGray" BorderBrush="Black" Foreground="White" Margin="5" FontWeight="Bold" Name="CheckBox1" />
+                        <GroupBox  Margin="2">
+                            <GroupBox.Header>
+                                <Label Foreground="White" FontWeight="Bold">Sélection</Label>
+                            </GroupBox.Header>
+                            <StackPanel >
+                                <TextBox Name="txtID"  Text="{Binding ElementName=DGW,Path=SelectedItem.ID}" Visibility="Collapsed"  />
+                                <StackPanel Orientation="Horizontal" Margin="3">
+                                    <Label Content="Driver:" Foreground=" white" Width="80"/>
+                                    <TextBox  Name="txtDriver"  Text="{Binding ElementName=DGW,Path=SelectedItem.IdDriver}" IsReadOnly="True" Visibility="Collapsed" Width="0"/>
+                                    <TextBox Name="LblDriver" Width="150" FontWeight="Bold" IsReadOnly="True" Foreground="White" Background="DarkGray" BorderBrush="Black" Height="22" VerticalAlignment="Top" HorizontalAlignment="Left"></TextBox>
+                                </StackPanel>
+                                <StackPanel Orientation="Horizontal" Margin="3">
+                                    <Label Content="Adresse1:" Foreground=" white" Width="80"/>
+                                    <TextBox  Name="txtAdresse1"  Text="{Binding ElementName=DGW,Path=SelectedItem.Adresse1}" Width="150" IsReadOnly="True" Foreground="White" Background="DarkGray" BorderBrush="Black" Height="22" VerticalAlignment="Top" HorizontalAlignment="Left"></TextBox>
+                                </StackPanel>
+                                <StackPanel Orientation="Horizontal" Margin="3">
+                                    <Label Content="Adresse2:" Foreground=" white" Width="80"/>
+                                    <TextBox  Name="txtAdresse2"  Text="{Binding ElementName=DGW,Path=SelectedItem.Adresse2}" Width="150" IsReadOnly="True" Foreground="White" Background="DarkGray" BorderBrush="Black" Height="22" VerticalAlignment="Top" HorizontalAlignment="Left"></TextBox>
+                                </StackPanel>
+                                <StackPanel Orientation="Horizontal" Margin="3">
+                                    <Label Content="Name:" Foreground=" white" Width="80"/>
+                                    <TextBox  Name="txtName"  Text="{Binding ElementName=DGW,Path=SelectedItem.Name}" Width="150" Foreground="White" Background="DarkGray" BorderBrush="Black" Height="22" VerticalAlignment="Top" HorizontalAlignment="Left"></TextBox>
+                                </StackPanel>
+                                <StackPanel Orientation="Horizontal" Margin="3">
+                                    <Label Content="Type:" Foreground=" white" Width="80"/>
+                                    <ComboBox   Name="CbType"  SelectedIndex ="{Binding ElementName=DGW,Path=SelectedItem.Type}" Width="150" Foreground="White" Background="DarkGray" BorderBrush="Black" Height="24" VerticalAlignment="Top" HorizontalAlignment="Left" BorderThickness="2"/>
+                                </StackPanel>
+                                <StackPanel Orientation="Horizontal" Margin="3">
+                                    <Label Content="Ignore:" Foreground=" white" Width="80"/>
+                                    <CheckBox   Name="ChkIgnore"  IsChecked ="{Binding ElementName=DGW,Path=SelectedItem.Ignore}" Background="DarkGray" BorderBrush="Black" Foreground="White" Margin="5" Width="140"/>
+                                </StackPanel>
+                                <StackPanel Orientation="Horizontal" Margin="3">
+                                    <Label Content="DateDetect:" Foreground=" white" Width="80"/>
+                                    <TextBox  Name="txtDateTime"  Text="{Binding ElementName=DGW,Path=SelectedItem.DateTetect}" Width="150" IsReadOnly="True" Foreground="White" Background="DarkGray" BorderBrush="Black" Height="22" VerticalAlignment="Top" HorizontalAlignment="Left"></TextBox>
+                                </StackPanel>
+                                <StackPanel Orientation="Horizontal" Margin="3">
+                                    <Label Content="Value:" Foreground=" white" Width="80"/>
+                                    <TextBox  Name="txtValue"  Text="{Binding ElementName=DGW,Path=SelectedItem.Value}" Width="150" IsReadOnly="True" Foreground="White" Background="DarkGray" BorderBrush="Black" Height="22" VerticalAlignment="Top" HorizontalAlignment="Left"></TextBox>
+                                </StackPanel>
+                            </StackPanel>
+
+
+                        </GroupBox>
+
+                        <StackPanel Orientation="Horizontal" HorizontalAlignment="Center">
+
+                            <Button  Content="Enregistrer" Width="65" Height="30" Margin="2" Name="BtnUpdate" Template="{DynamicResource GlassButton}" Foreground=" white" ToolTip="Enregistrer les modifications de ce nouveau composant" />
+                            <Button  Content="Supprimer"  Width="65" Height="30" Margin="2" Name="BtnDelete" Template="{DynamicResource GlassButton}" Foreground=" white" ToolTip="Supprimer ce Nouveau composant" />
+                            <Rectangle Width="30" />
+                            <Button  Content="Créer"  Width="65" Height="30" Margin="2" Name="BtnCreate" Template="{DynamicResource GlassButton}" Foreground=" white" ToolTip="Créer un composant" />
+
+                            
+                        </StackPanel>
+                        <GroupBox Margin="2">
+                                <GroupBox.Header>
+                                    <Label Foreground="White" FontWeight="Bold">Mettre à jour un composant existant</Label>
+                                </GroupBox.Header>
+                            <StackPanel Orientation="Horizontal">
+                                <ComboBox Margin="8" Name="CbComposants" Width="150" Foreground="White" Background="DarkGray" BorderBrush="Black" Height="22" VerticalAlignment="Top" HorizontalAlignment="Left" BorderThickness="2"/>
+                                <Button  Content="Mettre à jour"  Width="80" Height="30" Margin="2" Name="BtnUpdateComposant" Template="{DynamicResource GlassButton}" Foreground=" white" ToolTip="Mettre à jour un composant existant depuis ce nouveau composant" />
+                            </StackPanel>
+                        </GroupBox>
+
+                    </StackPanel>
+
+                </StackPanel>
+            </DockPanel>
+        </Border>
+    </DockPanel>
+
+
+</UserControl>

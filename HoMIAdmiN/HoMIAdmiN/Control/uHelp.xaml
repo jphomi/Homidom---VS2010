@@ -1,0 +1,200 @@
+﻿<UserControl x:Class="uHelp"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" MinWidth="740" MinHeight="485" Margin="5">
+
+    <DockPanel Background="#636060" Opacity="0.85">
+        <Border Name="Border1" BorderThickness="2" BorderBrush="Gray">
+            <DockPanel>
+            <DockPanel DockPanel.Dock="Top" >
+                <Image DockPanel.Dock="Left"  Height="53" HorizontalAlignment="Left" Margin="7,1,0,0" Name="ImgDevice" Source="/HoMIAdmiN;component/Images/Help_128.png" Stretch="Fill" VerticalAlignment="Top" Width="53">
+                    <Image.LayoutTransform>
+                        <RotateTransform Angle="-10" CenterX="0" CenterY="0" />
+                    </Image.LayoutTransform>
+                </Image>
+
+                <StackPanel DockPanel.Dock="Right" >
+                    <Button Height="24.293" Template="{DynamicResource GlassButton}" HorizontalAlignment="Right" Margin="2" Name="BtnClose" VerticalAlignment="Top" Width="87.169" Foreground="White">Fermer</Button>
+                    </StackPanel>
+                <Label FontSize="24" FontStyle="Italic" Foreground="DarkOrange" Name="Label1" VerticalAlignment="Top" HorizontalContentAlignment="Center">Aide</Label>
+
+            </DockPanel>
+                <StackPanel DockPanel.Dock="Bottom" >
+                    <TabControl  Name="TabControl1" Margin="2" Background="black" Height="415">
+                        <TabControl.Resources>
+                            <Style TargetType="{x:Type TabItem}">
+                                <Setter Property="BorderThickness" Value="0"/>
+                                <Setter Property="Padding" Value="0" />
+                                <Setter Property="HeaderTemplate">
+                                    <Setter.Value>
+                                        <DataTemplate>
+                                            <Border x:Name="grid">
+                                                <ContentPresenter>
+                                                    <ContentPresenter.Content>
+                                                        <TextBlock Margin="1,0,1,0" FontSize="11" Text="{TemplateBinding Content}" Foreground="white"/>
+                                                    </ContentPresenter.Content>
+                                                </ContentPresenter>
+                                            </Border>
+                                        </DataTemplate>
+                                    </Setter.Value>
+                                </Setter>
+                                <Setter Property="Template">
+                                    <Setter.Value>
+                                        <ControlTemplate TargetType="{x:Type TabItem}">
+                                            <Grid>
+                                                <Border Name="Border" Margin="1,1,1,0" Background="black" BorderBrush="gray" BorderThickness="2,2,2,0" CornerRadius="5,5,0,0" >
+                                                    <ContentPresenter x:Name="ContentSite" VerticalAlignment="Center" HorizontalAlignment="Center" ContentSource="Header" Margin="10,3,10,5" RecognizesAccessKey="True">
+                                                        <ContentPresenter.LayoutTransform>
+                                                            <RotateTransform Angle="0" />
+                                                        </ContentPresenter.LayoutTransform>
+                                                    </ContentPresenter>
+                                                </Border>
+                                            </Grid>
+                                            <ControlTemplate.Triggers>
+                                                <Trigger Property="IsSelected" Value="True">
+                                                    <Setter Property="Panel.ZIndex" Value="100" />
+                                                    <Setter TargetName="Border" Property="Background" Value="#FF615D5D" />
+                                                </Trigger>
+                                            </ControlTemplate.Triggers>
+                                        </ControlTemplate>
+                                    </Setter.Value>
+                                </Setter>
+                            </Style>
+
+                            <Style TargetType="TreeView">
+                                <Setter Property="OverridesDefaultStyle" Value="True" />
+                                <Setter Property="SnapsToDevicePixels" Value="True" />
+                                <Setter Property="ScrollViewer.HorizontalScrollBarVisibility" Value="Auto" />
+                                <Setter Property="ScrollViewer.VerticalScrollBarVisibility" Value="Auto" />
+                                <Setter Property="Template">
+                                    <Setter.Value>
+                                        <ControlTemplate TargetType="TreeView">
+                                            <Border Name="Border" CornerRadius="0" BorderThickness="0">
+                                                <Border.BorderBrush>
+                                                    <SolidColorBrush Color="{DynamicResource BorderMediumColor}" />
+                                                </Border.BorderBrush>
+                                                <Border.Background>
+                                                    <SolidColorBrush Color="#FF514D4D" />
+                                                </Border.Background>
+                                                <ScrollViewer Focusable="False" CanContentScroll="False" Padding="0">
+                                                    <ItemsPresenter />
+                                                </ScrollViewer>
+                                            </Border>
+                                        </ControlTemplate>
+                                    </Setter.Value>
+                                </Setter>
+                            </Style>
+                        </TabControl.Resources>
+
+                        <TabItem Header="A propos" >
+                            <StackPanel Orientation="Vertical" VerticalAlignment="top" HorizontalAlignment="center" MaxWidth="400">
+                                <Label Content="Homidom" Name="TTitre" FontStretch="Normal" FontWeight="Bold" FontSize="24" Margin="3" Foreground="white"/>
+                                <TextBlock Text="Recherche de la version en cours" Name="TVersion" FontStretch="Normal" FontSize="15" Foreground="white" MaxWidth=" 400"/>
+                                <TextBlock Height="170" Name="Texte" Text="En cours de rédaction" FontStretch="Normal" Margin="3" Foreground="white" MaxWidth=" 400" TextWrapping="Wrap" />
+                                <DockPanel Background="white">
+                                    <Image Margin="5" Height="110"  Name="Logo" Stretch="Fill" VerticalAlignment="Top" Source="/HoMIAdmiN;component/Images/Homidom_banniere_817_203.png" MaxWidth="400" />
+                                </DockPanel>
+                            </StackPanel>
+                        </TabItem >
+
+                        <TabItem Header="Version" >
+                            <StackPanel Orientation="Horizontal" HorizontalAlignment="left" >
+                                <GroupBox Header="Version des Drivers" Height="370" Name="GroupBox1" Width="230" Foreground="white" Margin="3">
+                                    <Grid>
+                                        <ScrollViewer VerticalScrollBarVisibility="Auto">
+                                        <TextBlock Name="listesversionsdrivers" Text="Recherche en cours..." Foreground="white" IsManipulationEnabled="True" />
+                                        </ScrollViewer>
+                                    </Grid>
+                                </GroupBox>
+                                <GroupBox Header="Détail des Programmes" Height="370" Name="GroupBox2" Width="280" Foreground="white" Margin="3">
+                                    <Grid>
+                                            <ScrollViewer VerticalScrollBarVisibility="Auto" HorizontalScrollBarVisibility="Auto">
+                                                <TextBlock Name="listesversionsprogrammes" Text="Recherche en cours..." Foreground="white" IsManipulationEnabled="True" />
+                                            </ScrollViewer> 
+                                    </Grid>
+                                </GroupBox>
+                                <GroupBox Header="Divers" Height="370" Name="GroupBox3" Width="230" Foreground="white" Margin="3">
+                                    <Grid>
+                                        <TextBlock Name="listesdivers" Text="Recherche en cours..." Foreground="white" IsManipulationEnabled="True" />
+                                    </Grid>
+                                </GroupBox>
+                            </StackPanel>
+                        </TabItem >
+
+                        <TabItem Header="Assistance" >
+                            <StackPanel Orientation="Vertical" VerticalAlignment="top" HorizontalAlignment="left">
+                                <GroupBox Name="GroupBox10" Margin="2" HorizontalAlignment="left" Width="700">
+                                    <GroupBox.Header>
+                                        <Label Foreground="White" FontWeight="Bold">Prise en main à distance</Label>
+                                    </GroupBox.Header>
+                                    <StackPanel >
+                                        <Label Content="Pour nous permettre de vous aider plus rapidement dans la résolution d'incident, il est possible d'utiliser TeamViewer pour permettre à un" Foreground="Gray" Height="24" FontSize="11" />
+                                        <Label Content="membre de l'équipe de prendre la main à distance sur votre machine" Foreground="Gray" Height="24" FontSize="11" />
+                                        <Label Content="Une fois le programme téléchargé, il suffit de le lancer et de donner le code généré pour donner accés à votre machine temporairement." Foreground="Gray" Height="24" FontSize="11" />
+                                        <StackPanel Orientation="Horizontal"  VerticalAlignment="top">
+                                            <Button Height="24.293" Template="{DynamicResource GlassButton}" Name="BtnDownloadTeamViewer" Width="150" Foreground="White" Margin="0,0,10,0">Télécharger TeamViewer</Button>  
+                                            <Button Height="24.293" Template="{DynamicResource GlassButton}" Name="BtnSiteTeamViewer" Width="150" Foreground="White">Plus d'informations</Button>
+                                        </StackPanel>
+                                    </StackPanel>
+                                </GroupBox>
+                                <GroupBox Margin="2" HorizontalAlignment="left" Width="700">
+                                    <GroupBox.Header>
+                                        <Label Foreground="White" FontWeight="Bold">Envoyer un rapport par email</Label>
+                                    </GroupBox.Header>
+                                    <StackPanel >
+                                        <Label Content="A la demande d'un membre d'HoMIDoM, vous pouvez envoyer par email un rapport complet sur votre configuration en un clic, à " Foreground="Gray" Height="28" FontSize="11" />
+                                        <Label Content="contact@homidom.com en utilisant les paramétres SMTP configurés dans HoMIDoM (une copie vous est envoyé également)" Foreground="Gray" Height="28" FontSize="11" />
+                                        <StackPanel Orientation="Horizontal" >
+                                            <Label Content="Adresse Mail:" Height="25" HorizontalAlignment="Left" VerticalAlignment="Top" Width="100" Foreground="White" />
+                                            <TextBox Background="DarkGray" BorderBrush="Black" Foreground="White" Height="20" HorizontalAlignment="Left" Name="TxtRapportMail" VerticalAlignment="Top" Width="230" />
+                                            <Label Content="Renseignez votre adresse email pour pouvoir vous répondre" Foreground="Gray" Height="28" FontSize="10" />
+                                        </StackPanel>
+                                        <StackPanel Orientation="Horizontal" >
+                                            <Label Content="Prénom Nom:" Height="25" HorizontalAlignment="Left" VerticalAlignment="Top" Width="100" Foreground="White" />
+                                            <TextBox Background="DarkGray" BorderBrush="Black" Foreground="White" Height="20" HorizontalAlignment="Left" Name="TxtRapportNom" VerticalAlignment="Top" Width="230" />
+                                            <Label Content="Renseignez votre prénom et nom pour savoir qui vous êtes." Foreground="Gray" Height="28" FontSize="10" />
+                                        </StackPanel>
+                                        <StackPanel Orientation="Horizontal"  VerticalAlignment="top">
+                                            <Button Height="24.293" Template="{DynamicResource GlassButton}" Name="BtnEnvoiEmailRapport" Width="150" Foreground="White">Envoyer le rapport</Button>
+                                        </StackPanel>
+                                    </StackPanel>
+                                </GroupBox>
+
+                            </StackPanel>
+                        </TabItem>
+
+                        <TabItem Header="Aide" >
+                            <StackPanel Orientation="Vertical" >
+                                <Label Height="50" Content="Il y a plusieurs endroits pour trouver de l'aide :" Name="texteAide" FontStretch="Normal" FontWeight="Bold" FontSize="12" Margin="3" Foreground="white"/>
+                                <StackPanel Orientation="Horizontal"  VerticalAlignment="top">
+                                    <Label Width="300" Content="Aide en ligne sur notre site web :" Name="lienaideenligne" FontStretch="Normal" FontSize="12" Margin="3" Foreground="white"/>
+                                    <Button Height="24.293" Template="{DynamicResource GlassButton}" Name="BtnAideEnLigne" Width="87.169" Foreground="White">Aide en Ligne</Button>
+                                </StackPanel>
+                                <StackPanel Orientation="Horizontal"  VerticalAlignment="top">
+                                    <Label Width="300" Content="Accéder à l'aide locale (fichier d'aide Windows) :" Name="lienaidelocale" FontStretch="Normal" FontSize="12" Margin="3" Foreground="white"/>
+                                    <Button Height="24.293" Template="{DynamicResource GlassButton}" Name="BtnAideLocale" Width="87.169" Foreground="White">Aide Locale</Button>
+                                </StackPanel>
+                                <StackPanel Orientation="Horizontal"  VerticalAlignment="top">
+                                    <Label Width="300" Content="Accéder au forum:" Name="lienaideforum" FontStretch="Normal" FontSize="12" Margin="3" Foreground="white"/>
+                                    <Button Height="24.293" Template="{DynamicResource GlassButton}" Name="BtnAideForum" Width="87.169" Foreground="White">Le forum</Button>
+                                </StackPanel>
+                            </StackPanel>
+                        </TabItem >
+
+                        <TabItem Header="Soutenir le projet" >
+                            <StackPanel Orientation="Vertical" VerticalAlignment="top" HorizontalAlignment="center">
+                                <Label Content="Soutenir HoMIDoM" FontStretch="Normal" FontSize="15" Foreground="white"/>
+                                <ScrollViewer VerticalScrollBarVisibility="Auto" MaxHeight="300" Margin="5">
+                                    <TextBlock Name="TexteSoutien" Text="En cours de rédaction" FontStretch="Normal" Margin="3" Foreground="white" MaxWidth="600" TextWrapping="Wrap"  VerticalAlignment="Top" />
+                                </ScrollViewer>
+                                <Button Content="Faire un don" Foreground="White" Height="24.293" Name="BtnSoutien" Template="{DynamicResource GlassButton}" Width="87.169" />
+                            </StackPanel>
+                        </TabItem >
+                    </TabControl>
+
+                </StackPanel>
+            </DockPanel>
+        </Border>
+    </DockPanel>
+            
+
+    </UserControl>

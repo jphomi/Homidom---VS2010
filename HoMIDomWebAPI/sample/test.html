@@ -1,0 +1,146 @@
+
+<html>
+	<head>
+		<title>HoMIDom Web API Test</title>
+		<meta charset="utf-8" />
+		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+		<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+		<script src="jquery.jsonp-2.4.0.min.js"></script>
+		<script src="jquery.signalR.min.js"></script>
+		<script src="http://localhost:7999/live/signalr/hubs/"></script>
+	</head>
+	<body>
+		<div id="rightPanel" style="float:right; width:350px; right:500;">
+			<p> <b><u>Last event logs:</u></b></p>
+			<div id="events">
+				
+			</div>
+		</div>
+		Devices:
+		<div id="devices"></div>
+		<hr/>
+		Zones:
+		<div id="zones"></div>
+		<hr/>
+		Macros:
+		<div id="macros"></div>
+		<hr/>
+
+		<button id="btnTest">Test</button>
+		<script type="text/javascript">
+			var devices;
+		
+			$(document).ready(function () {
+				$.jsonp({
+					url: 'http://localhost:7999/api/123456789/device/',
+					callbackParameter: "callback",
+					success: loadDevices,
+					error: onError
+				})
+				$.jsonp({
+					url: 'http://localhost:7999/api/123456789/zone/',
+					callbackParameter: "callback",
+					success: loadZones,
+					error: onError
+				})
+				$.jsonp({
+					url: 'http://localhost:7999/api/123456789/macro/',
+					callbackParameter: "callback",
+					success: loadMacros,
+					error: onError
+				})
+				$('#btnTest').click(function(){
+					$.connection.NotificationHub.server.test("Test");
+				});
+
+				var connection = $.hubConnection('http://localhost:7999/live');
+				var nHubProxy = connection.createHubProxy('NotificationHub');
+				nHubProxy.on('DeviceChanged', function (id, value) {
+					console.log(id + ' = ' + value);
+					var dName = getDeviceName(id);
+					var currentdate = new Date(); 
+					var time = currentdate.getHours() + ":"  + currentdate.getMinutes() + ":" + currentdate.getSeconds();
+					$('#events').prepend(time+' - '+dName+' = ' + value + '<br/>');
+				});
+				connection.qs = { "sKey" : '123456789' };
+				connection.start()
+					.done(function(){ console.log('Now connected, connection ID=' + connection.id); })
+					.fail(function(){ console.log('Could not connect'); });
+			});
+			
+			function onError(jqXHR, textStatus, errorThrown ) {
+				alert('erreur:' + textStatus);
+			}
+			
+			function getDeviceName(id) {
+				return $('#'+id).find('p').text();
+			}
+			
+			function loadDevices(data) {
+				var items = [];
+				$.each(data, function(index, device) {
+					items.push('<li id="' + device._ID + '"><p>' + device._Name + '</p>');
+					var actions = [];
+					$.each(device._DeviceAction, function(i, command) {
+						actions.push('<li class="command"><a href="#" onClick="execute(\''+device._ID+'\', \''+command.Nom+'\')">' + command.Nom + '</a></li>');
+					});
+					
+					if (actions.length > 0)
+						items.push('<ul>' + actions.join('') + '</ul>');
+					
+					items.push('</li>');
+				});
+				$('<ul/>', {
+					'class': 'my-new-list',
+					html: items.join('')
+				}).appendTo('#devices');
+			}
+			
+			function loadZones(data) {
+				var items = [];
+				$.each(data, function(index, zone) {
+					items.push('<li id="' + zone._Id + '">' + zone._Name + '</li>');
+				});
+				$('<ul/>', {
+					'class': 'my-new-list',
+					html: items.join('')
+				}).appendTo('#zones');
+			}
+			
+			function loadMacros(data) {
+				var items = [];
+				$.each(data, function(index, macro) {
+					items.push('<li id="' + macro._ID + '">' + macro._Nom + '&nbsp; <a href="#" onClick="executeMacro(\''+macro._ID+'\')">Lancer</a></li>');
+				});
+				$('<ul/>', {
+					'class': 'my-new-list',
+					html: items.join('')
+				}).appendTo('#macros');
+			}
+			
+			function execute(deviceId, command) {
+				$.jsonp({
+					url: 'http://localhost:7999/api/123456789/command/device/'+deviceId+'/'+command,
+					type: 'GET',
+					callbackParameter: "callback",
+					success: onExecuteSuccess,
+					error: onError
+				})
+			}
+			
+			function executeMacro(macroId) {
+				$.jsonp({
+					url: 'http://localhost:7999/api/123456789/command/macro/'+macroId+'/EXEC',
+					type: 'GET',
+					callbackParameter: "callback",
+					success: onExecuteSuccess,
+					error: onError
+				})
+			}
+
+			function onExecuteSuccess() {
+				//alert('Commande executée');
+			}
+		</script>
+	</body>
+</html>

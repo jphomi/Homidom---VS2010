@@ -1,0 +1,87 @@
+﻿<UserControl x:Class="uReleve"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             mc:Ignorable="d" 
+              Margin="2" MinWidth="400">
+    
+    <Grid Background="#636060">
+        <Border Name="Border1" BorderBrush="Gray" BorderThickness="2" Margin="0">
+            <StackPanel Height="550"></StackPanel>
+        </Border>
+        <StackPanel Margin="10,10,10,10">
+            <StackPanel Orientation="Horizontal" >
+                <DataGrid Name="DataGrid1" Margin="5" RowBackground="#FFAFAFAF" AlternatingRowBackground="LightGray" Height="525" IsReadOnly="True" Background="#FF636060" BorderBrush="Gray" SelectionMode="Single"  HeadersVisibility="Column" AutoGenerateColumns="True" Width="300"></DataGrid>
+                <StackPanel HorizontalAlignment="Left">
+                    <Label Name="LblDev" Content="#####" Width="250" Foreground="White" HorizontalContentAlignment="Center" />
+                    <CheckBox Content="Rafraichir le graphe/relevés " Height="16" Name="Chk_refresh" HorizontalAlignment="Right" Background="DarkGray" BorderBrush="Black" Foreground="White" IsChecked="True" />
+                    <StackPanel >
+
+                    <!--show the selected item-->
+                        <GroupBox Margin="5">
+                        <GroupBox.Header>
+                            <Label Foreground="White" FontWeight="Bold">Sélection</Label>
+                        </GroupBox.Header>
+                        <StackPanel >
+                                <!--
+                                <TextBox Name="txtID"  Text="{Binding ElementName=DataGrid1,Path=SelectedItem.IdDevice}" Visibility="Collapsed"  />
+                                <TextBox Name="txtSource"  Text="{Binding ElementName=DataGrid1,Path=SelectedItem.Source}" Visibility="Collapsed"  />
+                                <TextBox Name="txtTimeOld"  Text="{Binding ElementName=DataGrid1,Path=SelectedItem.DateTime}" Visibility="Collapsed"  />
+                                <TextBox Name="txtValueOld"  Text="{Binding ElementName=DataGrid1,Path=SelectedItem.Value}" Visibility="Collapsed"  />
+                                -->
+                                <StackPanel Orientation="Horizontal" >
+                                <Label Content="DateTime:" Foreground=" white" Width="70"/>
+                                    <!--<TextBox  Name="txtTime"  Text="{Binding ElementName=DataGrid1,Path=SelectedItem.DateTime}" Width="150" IsReadOnly="false" /> -->
+                                    <TextBox  Name="txtTime"  Text="" Width="150" />
+                                </StackPanel>
+                            <StackPanel Orientation="Horizontal" >
+                                <Label Content="Valeur:" Foreground=" white" Width="70"/>
+                                    <!-- <TextBox  Name="txtValue"  Text="{Binding ElementName=DataGrid1,Path=SelectedItem.Value}" Width="150"/> -->
+                                    <TextBox  Name="txtValue"  Text="" Width="150"/>
+                                </StackPanel>
+                        </StackPanel>
+                    </GroupBox>
+                        <StackPanel Orientation="Horizontal" >
+
+                            <Button  Content="Update" Margin="5,0,0,0" Width="50" Height="30" Name="BtnUpdate" Template="{DynamicResource GlassButton}" Foreground=" white"/>
+                            <Button  Content="Delete" Margin="10,0,0,0"  Width="50" Height="30" Name="BtnDelete" Template="{DynamicResource GlassButton}" Foreground=" white"/>
+
+                        </StackPanel>
+                    </StackPanel>
+
+                    
+                <StackPanel Margin="5">
+
+                    <!--show the selected item-->
+
+                    <GroupBox Margin="0,10,0,5">
+                        <GroupBox.Header>
+                            <Label Foreground="White" FontWeight="Bold">Ajout de données</Label>
+                        </GroupBox.Header>
+                        <StackPanel >
+                            <StackPanel Orientation="Horizontal" >
+                                <Label Content="DateTime:" Foreground=" white" Width="70"/>
+                                <TextBox  Name="txtTime2"  Width="150" />
+                            </StackPanel>
+                            <StackPanel Orientation="Horizontal" >
+                                <Label Content="Valeur:" Foreground=" white" Width="70"/>
+                                <TextBox  Name="txtValue2"  Width="150"/>
+                            </StackPanel>
+                        </StackPanel>
+
+
+                    </GroupBox>
+
+                        <StackPanel Orientation="Horizontal" >
+                            <Button  Content="Ajouter" Width="50" Height="30" Name="BtnAdd" Template="{DynamicResource GlassButton}" Foreground=" white"/>
+                        </StackPanel>
+
+
+                    </StackPanel>
+                </StackPanel>
+            </StackPanel>
+            </StackPanel>
+    </Grid>
+
+</UserControl>

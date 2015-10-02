@@ -1,0 +1,395 @@
+﻿<Window xmlns:my="clr-namespace:HoMIWpF.Customcontrols"  x:Class="WWidgetProperty"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="clr-namespace:HoMIWpF.Customcontrols"
+    Title="Propriétés du Widget" SizeToContent="WidthAndHeight" ResizeMode="NoResize" WindowStartupLocation="CenterOwner">
+
+    <Grid>
+    <StackPanel Background="#636060" Opacity="0.85" HorizontalAlignment="Left">
+        <Label Content="Editer" FontSize="24" FontStretch="Normal" FontWeight="Medium" FontStyle="Italic" Foreground="DarkOrange" HorizontalContentAlignment="Center" />
+       
+            <StackPanel Orientation="Horizontal" HorizontalAlignment="Left">
+            <GroupBox Margin="2" Height="559" MinWidth="300" >
+                <GroupBox.Header>
+                    <Label Foreground="White" FontWeight="Bold">Propriétés</Label>
+                </GroupBox.Header>
+                    <ScrollViewer VerticalScrollBarVisibility="Auto" HorizontalScrollBarVisibility="Auto">
+                        <StackPanel >
+                            <CheckBox  Name="ChkMajEtiq" Content="Mettre à jour Etiquette depuis le serveur automatiquement " Foreground="White" Background="DarkGray" BorderBrush="Black"/>
+                            <CheckBox  Name="ChkShowEtiq" Content="Afficher Etiquette" Foreground="White" Background="DarkGray" BorderBrush="Black"/>
+                        <StackPanel Name="StkEtiq">
+                            <StackPanel Orientation="Horizontal" >
+                                <Label Width="120" Content="Etiquette:" Foreground="White"/>
+                                 <TextBox Name="TxtEtiq" Width="150" />
+                                    <ComboBox Name="cbBalise" Margin="5,0,0,0" Width="25" IsEditable="False" ToolTip="Balise Système" SelectedIndex=" 0">
+                                        <ComboBoxItem Content="Date Courte" Tag="SYSTEM_DATE" />
+                                        <ComboBoxItem Content="Date Long" Tag="SYSTEM_LONG_DATE" />
+                                        <ComboBoxItem Content="Heure Courte" Tag="SYSTEM_TIME" />
+                                        <ComboBoxItem Content="Heure Long" Tag="SYSTEM_LONG_TIME" />
+                                        <ComboBoxItem Content="Heure couché soleil" Tag="SYSTEM_SOLEIL_COUCHE" />
+                                        <ComboBoxItem Content="Heure levé soleil" Tag="SYSTEM_SOLEIL_LEVE" />
+                                        <ComboBoxItem Content="Condition météo de ma ville" Tag="SYSTEM_CONDITION" />
+                                        <ComboBoxItem Content="Température actuelle de ma ville" Tag="SYSTEM_TEMP_ACTUELLE" />
+                                        <ComboBoxItem Content="Image météo de ma ville" Tag="SYSTEM_ICO_METEO" />
+                                    </ComboBox>
+                                </StackPanel>
+                            <StackPanel Orientation="Horizontal" >
+                                <Label Width="120" Content="Size Etiquette:" Foreground="White"/>
+                                <TextBox Name="TxtSizeEtiq" Width="50" />
+                            </StackPanel>
+                            <StackPanel Orientation="Horizontal" >
+                                <Label Width="120" Content="Color Etiquette:" Foreground="White"/>
+                                <Label Name="lblColorEtiquette" Height="20" Width="20 "/>
+                                <TextBox Name="TxtColorEtiquette" Width="0" Text="" Background="{Binding ElementName=ColorPicker3, Path=SelectedColor}" Visibility="Collapsed" />
+                                <my:Colorpicker x:Name="ColorPicker3" Width="177" />
+                            </StackPanel>
+                                <StackPanel Orientation="Horizontal" >
+                                    <Label Content="Alignement:" Foreground=" White"/>
+                                    <ComboBox IsEditable="False" Width="90" Name="CbEtiqAlign" SelectedIndex=" 0">
+                                        <ComboBoxItem Content="Gauche" />
+                                        <ComboBoxItem Content="Centré" />
+                                        <ComboBoxItem Content="Droite" />
+                                        <ComboBoxItem Content="Etiré" />
+                                    </ComboBox>
+                                </StackPanel>
+                                </StackPanel>
+                            <CheckBox Name="ChkShowStatus" Content="Afficher Status" Foreground="White" Background="DarkGray" BorderBrush="Black"/>
+                            <CheckBox  Name="ChkFondu" Content="Fondu" Foreground="White" Background="DarkGray" BorderBrush="Black"/>
+                            <CheckBox  Name="ChkIsCommun" Content="Commun à toutes les pages" Foreground="White" Background="DarkGray" BorderBrush="Black"/>
+                            <Expander Name="Exp1" Foreground=" White" Header="Taille et Position" BorderBrush="#FF373737" Margin="1">
+                                <StackPanel >
+                                    <StackPanel Orientation="Horizontal" >
+                                <Label Width="120" Content="X:" Foreground="White"/>
+                                <TextBox Name="TxtX" Width="150" />
+                            </StackPanel>
+                                <StackPanel Orientation="Horizontal" >
+            <Label Width="120" Content="Y:" Foreground="White"/>
+                <TextBox Name="TxtY" Width="150" />
+            </StackPanel>
+            <StackPanel Orientation="Horizontal" >
+            <Label Width="120" Content="Height:" Foreground="White"/>
+                <TextBox Name="TxtHeight" Width="150" />
+            </StackPanel>
+            <StackPanel Orientation="Horizontal" >
+            <Label Width="120" Content="Width:" Foreground="White"/>
+                <TextBox Name="TxtWidth" Width="150" />
+            </StackPanel>
+            <StackPanel Orientation="Horizontal" >
+                <Label Width="120" Content="Rotation:" Foreground="White"/>
+                <TextBox Name="TxtRotation" Width="150" />
+            </StackPanel>
+                        <StackPanel Orientation="Horizontal" >
+                            <Label Width="120" Content="RotationX:" Foreground="White"/>
+                            <TextBox Name="TxtRotationX" Width="150" />
+                        </StackPanel>
+                        <StackPanel Orientation="Horizontal" >
+                            <Label Width="120" Content="RotationY:" Foreground="White"/>
+                            <TextBox Name="TxtRotationY" Width="150" />
+                        </StackPanel>
+                                    <StackPanel Orientation="Horizontal" >
+                                        <Label Width="120" Content="ZOrder:" Foreground="White"/>
+                                        <TextBox Name="TxtZOrder" Width="50" />
+                                    </StackPanel>
+                                </StackPanel>
+                            </Expander>
+                            <StackPanel Orientation="Horizontal" >
+                                <CheckBox Name="ChkEditValue" Content="Valeur Editable" Foreground=" White" Background="DarkGray" BorderBrush="Black"/>
+                        </StackPanel>
+                            <Expander Foreground=" White" Header="Picture" BorderBrush="#FF373737" Margin="1">
+                                <StackPanel >
+                                <StackPanel Name="StkPicture"  >
+                                <CheckBox Name="ChkPicture" Content="Picture Visible" Foreground=" White" Background="DarkGray" BorderBrush="Black"/>
+                                        <CheckBox Name="ChkSaveProportionPicture" Content="Garder proportion de l'image (Width/Height)" Foreground=" White" Background="DarkGray" BorderBrush="Black"/>
+                                        <StackPanel Orientation="Horizontal" >
+                                <Label Width="120" Content="Picture:" Foreground="White"/>
+                                <Border BorderThickness="2" BorderBrush="Black" Width="85" Height="85" >
+                                    <Image Name="ImgPicture" Width="50" Height=" 50"/>
+                                </Border>
+                                <StackPanel Orientation="Vertical" >
+                                <Button Margin="2" Name="BtnInitPict" Content="Image par défaut" Width="120" Height="26" Template="{DynamicResource GlassButton}" Foreground="White"/>
+                                <Button Margin="2" x:Name="BtnInitPict_Local" Content="Image locale..." Width="120" Height="26" Template="{DynamicResource GlassButton}" Foreground="White"/>
+                                <Button Margin="2" x:Name="BtnInitPict_Serveur" Content="Image du serveur..." Width="120" Height="25" Template="{DynamicResource GlassButton}" Foreground="White"/>
+                                </StackPanel> 
+                            </StackPanel>
+                          </StackPanel>
+                                    </StackPanel> 
+                                </Expander>
+                            <Expander Foreground=" White" Header="Status" BorderBrush="#FF373737" Margin="1">
+                                <StackPanel Name="StkStatus">
+                                    <StackPanel  Orientation="Horizontal" >
+                                    <Label Width="120" Content="Defaut Status:" Foreground="White"/>
+                <TextBox Name="TxtDefStatus" Width="150" Text="?"/>
+            </StackPanel>
+                            <StackPanel  Orientation="Horizontal" >
+                                <Label Width="120" Content="Taille Status:" Foreground="White"/>
+                                <TextBox Name="TxtTailleStatus" Width="30" Text="?"/>
+                            </StackPanel>
+                            <StackPanel Orientation="Horizontal" >
+                            <Label Width="120" Content="Color Status:" Foreground="White"/>
+                            <Label Name="lblColorStatus" Height="20" Width="20 "/>
+                            <TextBox Name="TxtColorStatus" Width="0" Text="" Background="{Binding ElementName=ColorPicker2, Path=SelectedColor}" Visibility="Collapsed" />
+                                <my:Colorpicker x:Name="ColorPicker2" Width="177" />
+                        </StackPanel>
+                        </StackPanel>
+</Expander>
+                            <Expander Foreground=" White" Header="BackGround" BorderBrush="#FF373737" Margin="1">
+
+                            <StackPanel >
+                                <StackPanel Orientation="Horizontal" >
+                                    <Label Width="120" Content="Color BackGround:" Foreground="White"/>
+                                    <StackPanel Orientation="Horizontal" >
+                                        <Label Name="lblColor" Height="20" Width="20 "/>
+                                        <TextBox Name="TxtColorBack" Width="0" Text="" Background="{Binding ElementName=ColorPicker1, Path=SelectedColor}" Visibility="Collapsed" />
+                                        <my:Colorpicker x:Name="ColorPicker1" Width="177" />
+                                    </StackPanel>
+                                </StackPanel>
+                                
+                                <StackPanel Orientation="Horizontal" >
+                                    <Label Width="142" Content="Transparence:" Foreground="White"/>
+                                    <StackPanel Orientation="Horizontal" />
+                                        <Slider x:Name="Slider1" Width="177" Maximum="255" ValueChanged="Slider1_ValueChanged"/>
+                                    </StackPanel>
+                                </StackPanel>
+                                </Expander>
+
+                            <Expander Foreground="White" Header="Contour" BorderBrush="#FF373737" Margin="1">
+                                <StackPanel >
+                                    <StackPanel Orientation="Horizontal" >
+                                        <Label Foreground=" White" Width="80" Content="Epaisseur:"/>
+                                        <TextBox Name="TxtBorderSize" Width="30"/>
+                                    </StackPanel>
+                                    <StackPanel Orientation="Horizontal" >
+                                        <Label Foreground=" White" Width="80" Content="Angle:"/>
+                                        <TextBox Name="TxtBorderAngle" Width="30"/>
+                                    </StackPanel>
+                                    <StackPanel Orientation="Horizontal" >
+                                        <Label Width="81" Content="Couleur:" Foreground="White"/>
+                                        <StackPanel Orientation="Horizontal" >
+                                            <Label Name="lblColorBorder" Height="20" Width="20 "/>
+                                            <TextBox Name="TxtColorBorder" Width="0" Text="" Background="{Binding ElementName=ColorPicker4, Path=SelectedColor}" Visibility="Collapsed" />
+                                            <my:Colorpicker x:Name="ColorPicker4" Width="177" />
+                                        </StackPanel>
+                                    </StackPanel>
+                                </StackPanel>
+                            </Expander>
+                            <Expander Foreground="White" Header="Commande" BorderBrush="#FF373737" Margin="1" Visibility="Collapsed"  >
+                                <StackPanel >
+                                    <StackPanel Orientation="Horizontal" >
+                                        <Label Foreground=" White" Width="80" Content="Commande:"/>
+                                        <ComboBox  Name="CbTemplateCmd" Width="30"/>
+                                    </StackPanel>
+                                 </StackPanel>
+                            </Expander>
+
+                            <StackPanel Orientation="Horizontal" Name="StkRss" Visibility="Collapsed" >
+                            <Label Width="120" Content="URL Rss:" Foreground="White"/>
+                            <TextBox Name="TxtURLRss" Width="150" Text=""/>
+                        </StackPanel>
+                        <StackPanel Orientation="Horizontal" Name="StkMeteo" Visibility="Collapsed" >
+                            <Label Width="120" Content="Ville:" Foreground="White"/>
+                            <ComboBox Name="CbVilleMeteo" Width="200" />
+                        </StackPanel>
+                        <StackPanel Orientation="Horizontal" Name="StkKeyPad" Visibility="Collapsed" >
+                            <Label Width="120" Content="Composant:" Foreground="White"/>
+                            <ComboBox Name="CbDeviceKeyPad" Width="200" />
+                        </StackPanel>
+                            <StackPanel Orientation="Horizontal" Name="StkMinMax" Visibility="Collapsed" >
+                                <StackPanel Orientation="Horizontal" >
+                                    <Label Content="Min:" Foreground="White"/>
+                                    <TextBox  Name="TxtValueMin" Width="100" Text="0"/>
+                                </StackPanel>
+                                <StackPanel Orientation="Horizontal" >
+                                    <Label Content="Max:" Foreground="White"/>
+                                    <TextBox  Name="TxtValueMax" Width="100" Text="1"/>
+                                </StackPanel>
+                            </StackPanel>
+                        </StackPanel>
+                    </ScrollViewer>
+                </GroupBox>
+
+            <GroupBox Name="GrpEditAction" Visibility="Collapsed" Margin="2"  Width="270">
+                <GroupBox.Header>
+                        <StackPanel Orientation="Horizontal" >
+                            <Label Foreground="White" FontWeight="Bold">Actions</Label>
+                            <Button Name="BtnCloseEditAction" Width="25" Template="{DynamicResource GlassButton}" Foreground="White">X</Button>
+                        </StackPanel>
+                    </GroupBox.Header>
+                <StackPanel >
+                        <StackPanel Orientation="Horizontal" Height="25" Margin="2">
+                            <Label Foreground=" White" Content="Action:" Width="60"/>
+                            <ComboBox Name="CbAction" Width="150" SelectedIndex="-1">
+                                <ComboBoxItem Content="OnClick" />
+                                <ComboBoxItem Content="OnLongClick" />
+                                <ComboBoxItem Content="GestureGaucheDroite" />
+                                <ComboBoxItem Content="GestureDroiteGauche" />
+                                <ComboBoxItem Content="GestureHautBas" />
+                                <ComboBoxItem Content="GestureBasHaut" />
+                            </ComboBox>
+                        </StackPanel>
+                        <StackPanel Orientation="Horizontal" >
+                            <Label Foreground=" White" Content="Objets:" Width="80"/>
+                            <ListBox Name="LstObjetActions" Width="150" Height="100" SelectedIndex="0" />
+                            <StackPanel >
+                                <Button Margin="2" Name="BtnNewAction" Content="+" Width="25" Height="25" Template="{DynamicResource GlassButton}" Foreground="White"/>
+                                <Button Margin="2" Name="BtnDelAction" Content="-" Width="25" Height="25" Template="{DynamicResource GlassButton}" Foreground="White"/>
+                                <Button Margin="2" Name="BtnOkAction" Content="Ok" Width="25" Height="25" Template="{DynamicResource GlassButton}" Foreground="White" Visibility="Collapsed" />
+                            </StackPanel>
+                        </StackPanel>
+
+                        <StackPanel Orientation="Horizontal" Height="25" Margin="2">
+                            <Label Name="LblObjet" Foreground=" White" Content="Objet:" Width="60" Visibility="Collapsed" />
+                            <ComboBox Name="CbObjet" Width="150" SelectedIndex="-1" Visibility="Collapsed">
+                            </ComboBox>
+                        </StackPanel>
+                        <StackPanel Orientation="Horizontal" Height="25" Margin="2">
+                            <Label Name="LblMethode" Foreground=" White" Content="Fonction:" Width="60" Visibility="Collapsed" />
+                            <ComboBox Name="CbMethode" Width="150" Visibility="Collapsed" />
+                        </StackPanel>
+                        <StackPanel Name="StkActionValue" Orientation="Horizontal" Height="25" Margin="2">
+                            <Label Name="LblActionValue" Foreground=" White" Content="Valeur:" Width="60" Visibility="Collapsed" />
+                            <TextBox Name="TxtValue" Width="150" Visibility="Collapsed" />
+                            <ComboBox Name="CbActionValue" Width="150" Visibility="Collapsed" />
+                        </StackPanel>
+                 </StackPanel>
+        </GroupBox>
+
+            <GroupBox Name="GrpEditVisu" Visibility="Collapsed" Width="300" Margin="2" >
+                <GroupBox.Header>
+                        <StackPanel Orientation="Horizontal" >
+                            <Label Foreground="White" FontWeight="Bold">Visualisations</Label>
+                            <Button Name="BtnCloseEditVisu" Width="25" Template="{DynamicResource GlassButton}" Foreground="White">X</Button>
+                        </StackPanel>
+
+                    </GroupBox.Header>
+                <StackPanel >
+                    <StackPanel Orientation="Horizontal" Margin="2">
+                        <Label Foreground=" White" Content="Visualisation:" Width="80"/>
+                        <ListBox Name="LstObjetVisu" Width="150" Height="100" />
+                        <StackPanel >
+                            <Button Margin="2" Name="BtnNewVisu" Content="+" Width="25" Height="25" Template="{DynamicResource GlassButton}" Foreground="White"/>
+                            <Button Margin="2" Name="BtnDelVisu" Content="-" Width="25" Height="25" Template="{DynamicResource GlassButton}" Foreground="White"/>
+                            <Button Margin="2" Name="BtnOkVisu" Content="Ok" Width="25" Height="25" Template="{DynamicResource GlassButton}" Foreground="White"/>
+                        </StackPanel>
+                    </StackPanel>
+                    
+                    <StackPanel Orientation="Horizontal" Height="25" Margin="2">
+                        <Label Name="LblObjetVisu" Foreground=" White" Content="Objet:" Width="65" Visibility="Collapsed" />
+                        <ComboBox Name="CbObjetVisu" Width="150" SelectedIndex="0" Visibility="Collapsed" />
+                    </StackPanel>
+
+                    <StackPanel Orientation="Horizontal" Height="25" Margin="2">
+                        <Label Name="LblProperty" Foreground=" White" Content="Propriété:" Width="65" Visibility="Collapsed" />
+                        <ComboBox Name="CbPropertyVisu" Width="150" SelectedIndex="0" Visibility="Collapsed" />
+                    </StackPanel>
+                        <StackPanel Orientation="Horizontal" Height="25" Margin="2">
+                            <Label Name="LblOperateur" Foreground=" White" Content="Operateur:" Width="65" Visibility="Collapsed" />
+                            <ComboBox Name="CbOperateurVisu" Width="150" SelectedIndex="0" Visibility="Collapsed">
+                                <ComboBoxItem Content="=" />
+                                <ComboBoxItem Content="&lt;&gt;" />
+                                <ComboBoxItem Content="&lt;" />
+                                <ComboBoxItem Content="&gt;" />
+                                <ComboBoxItem Content="&lt;=" />
+                                <ComboBoxItem Content="&gt;=" />
+                            </ComboBox>
+                        </StackPanel>
+                        <StackPanel Orientation="Horizontal" Height="25" Margin="2">
+                        <Label Name="LblVisuValue" Foreground=" White" Content="Valeur:" Width="65" Visibility="Collapsed" />
+                        <TextBox Name="TxtValueVisu" Width="150" Visibility="Collapsed" />
+                    </StackPanel>
+                        <StackPanel Orientation="Horizontal" >
+                            <Label Name="LblText" Content="Texte:" Foreground=" White" Visibility="Collapsed" />
+                            <TextBox Name="TxtText" Width="100" Visibility="Collapsed" /> 
+                        </StackPanel>
+                            <StackPanel Orientation="Horizontal" Margin="2">
+                        <Label Name="LblPicture" Foreground=" White" Content="Picture:" Visibility="Collapsed" />
+                        <Border Name="BorderVisu" BorderThickness="1" BorderBrush="Black">
+                            <Image Name="ImgVisu" Width="60" Height="60" Visibility="Collapsed" />
+                        </Border>
+                            <Button Margin="2" Name="BtnImgVisu" Content="..." Width="25" Height="25" Template="{DynamicResource GlassButton}" Foreground="White"/>
+                        </StackPanel>
+                </StackPanel>
+            </GroupBox>
+
+                <GroupBox Name="GrpPropertyHttp" Visibility="Collapsed" Width="300" Margin="2" >
+                    <GroupBox.Header>
+                        <StackPanel Orientation="Horizontal" >
+                            <Label Foreground="White" FontWeight="Bold">Propriétés Http</Label>
+                            <Button Name="BtnCloseProperty" Width="25" Template="{DynamicResource GlassButton}" Foreground="White">X</Button>
+                        </StackPanel>
+
+                    </GroupBox.Header>
+                    <StackPanel >
+                        <StackPanel Orientation="Horizontal" Margin="2">
+                            <Label Foreground=" White" Content="URL:" Width="70" />
+                            <TextBox Name="TxtURL" Width="200" Text=""/>
+                        </StackPanel>
+                        <StackPanel Orientation="Horizontal" Margin="2" >
+                            <Label Foreground=" White" Content="Refresh:" Width="70" />
+                            <TextBox Name="TxtRefresh" Width="35" Text="0"/>
+                            <Label Foreground=" White" Content="seconde(s)" Width="70" />
+                        </StackPanel>
+                        <StackPanel Orientation="Horizontal" Margin="2">
+                            <Label Foreground=" White" Content="Bouton:" Width="70" />
+                            <ListBox Height="100" Name="HttpListBtn" Width="150"/>
+                            <StackPanel >
+                                <Button Margin="2" Name="HttpBtnNewBtn" Content="+" Width="25" Height="25" Template="{DynamicResource GlassButton}" Foreground="White"/>
+                                <Button Margin="2" Name="HttpDelBtn" Content="-" Width="25" Height="25" Template="{DynamicResource GlassButton}" Foreground="White"/>
+                                <Button Margin="2" Name="HttpOkBtn" Content="Ok" Width="25" Height="25" Template="{DynamicResource GlassButton}" Foreground="White"/>
+                            </StackPanel>
+                            
+                        </StackPanel>
+                        <StackPanel Name="HttpStkEditBtn" Visibility="Collapsed" >
+                            <StackPanel Orientation="Horizontal" Margin="2">
+                                <Label Foreground=" White" Content="Label:" Width="60" />
+                                <TextBox Name="TxtHttpLabel" Width="200" Text=""/>
+                            </StackPanel>
+                            <StackPanel Orientation="Horizontal" Margin="2" Visibility="Collapsed">
+                                <Label Foreground=" White" Content="Icon:" Width="60" />
+                                <Border BorderThickness="1" BorderBrush="Black">
+                                    <Image Name="HttpIcon" Width="30" Height="30" />
+                                </Border>
+                                <Button Margin="2" Name="HttpSearchIcon" Content="..." Width="25" Height="25" Template="{DynamicResource GlassButton}" Foreground="White"/>
+                            </StackPanel>
+                            <StackPanel Orientation="Horizontal" Margin="2">
+                                <Label Foreground=" White" Content="Width:" Width="60" />
+                                <TextBox Name="TxtHttpWidth" Width="50" Text="20"/>
+                            </StackPanel>
+                            <StackPanel Orientation="Horizontal" Margin="2">
+                                <Label Foreground=" White" Content="Height:" Width="60" />
+                                <TextBox Name="TxtHttpHeight" Width="50" Text="20"/>
+                            </StackPanel>
+                            <StackPanel Orientation="Horizontal" Margin="2">
+                                <Label Foreground=" White" Content="URL:" Width="60" />
+                                <TextBox Name="TxtHttpURL" Width="200" Text=""/>
+                            </StackPanel>
+                        </StackPanel> 
+                        
+                    </StackPanel>
+                </GroupBox>
+                <GroupBox Name="GrpPropertyKeyPad" Visibility="Collapsed" Width="300" Margin="2" >
+                    <GroupBox.Header>
+                        <StackPanel Orientation="Horizontal" >
+                            <Label Foreground="White" FontWeight="Bold">Propriétés KeyPad</Label>
+                            <Button Name="BtnClosePropertyKeypad" Width="25" Template="{DynamicResource GlassButton}" Foreground="White">X</Button>
+                        </StackPanel>
+
+                    </GroupBox.Header>
+                    <StackPanel >
+                        <CheckBox Name="ChKShowPassWord" Content="Afficher la valeur" Foreground=" White" IsChecked=" True" Background="DarkGray" BorderBrush="Black"/>
+                        <CheckBox Name="ChKShowClavier" Content="Afficher le clavier" Foreground=" White" IsChecked=" True" Background="DarkGray" BorderBrush="Black"/>
+                        <CheckBox Name="ChKClearAfterEnter" Content="Effacer la valeur après validation" Foreground=" White" IsChecked=" False" Background="DarkGray" BorderBrush="Black"/>
+                    </StackPanel>
+                </GroupBox>
+            </StackPanel>
+        
+        <StackPanel Orientation="Horizontal" HorizontalAlignment="Left" Margin="5">
+                <Button Margin="3" Name="BtnOk" Content="OK" Width="75" Height="25" Template="{DynamicResource GlassButton}" Foreground="White"/>
+            <Button Margin="3" Name="BtnCancel" Content="Annuler" Width="75" Height="25" Template="{DynamicResource GlassButton}" Foreground="White"/>
+            <Button Margin="3" Name="BtnEditAction" Content="Actions>>" Width="75" Height="25" Template="{DynamicResource GlassButton}" Foreground="White"/>
+            <Button Margin="3" Name="BtnEditVisu" Content="Visu>>" Width="75" Height="25" Template="{DynamicResource GlassButton}" Foreground="White"/>
+                <Button Margin="3" Name="BtnDelete" Content="Supprimer" Width="75" Height="25" Template="{DynamicResource GlassButton}" Foreground="White"/>
+
+            </StackPanel>
+        </StackPanel>
+</Grid>
+</Window>

@@ -1,0 +1,50 @@
+﻿<UserControl x:Class="uFreeBox"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             mc:Ignorable="d" 
+             >
+
+    <Grid>
+        <StackPanel Orientation="Horizontal" >
+            <StackPanel >
+                <Label Content="VOL" Margin="2" Foreground="DarkGray" HorizontalContentAlignment="Center" />
+                <Button Margin="3" Template="{DynamicResource GlassButton}" Name="BtnVolP" Width="45" Height="45" Tag="VolumeUp" Content="+" Foreground=" White" FontSize="20" />
+                <Button Margin="3" Template="{DynamicResource GlassButton}" Name="BtnVolMute" Width="45" Height="45" Tag="MUTE">
+                    <Image Source="/HoMIWpF;component/Images/kmute.png" />
+                </Button>
+                <Button Margin="3" Template="{DynamicResource GlassButton}" Name="BtnVolM" Width="45" Height="45" Tag="VolumeDown" Content="1" Foreground=" White" FontSize="20" />
+            </StackPanel>
+            <StackPanel HorizontalAlignment="Center">
+            <StackPanel Orientation="Horizontal" >
+                    <Button Margin="3" Template="{DynamicResource GlassButton}" Name="Btn1" Width="45" Height="45" Tag="Touche1" Content="1" Foreground=" White" FontSize="20" />
+                    <Button Margin="3" Template="{DynamicResource GlassButton}" Name="Btn2" Width="45" Height="45" Tag="Touche2" Content="2" Foreground=" White" FontSize="20" />
+                    <Button Margin="3" Template="{DynamicResource GlassButton}" Name="Btn3" Width="45" Height="45" Tag="Touche3" Content="3" Foreground=" White" FontSize="20" />
+            </StackPanel>
+            <StackPanel Orientation="Horizontal" >
+                    <Button Margin="3" Template="{DynamicResource GlassButton}" Name="Btn4" Width="45" Height="45" Tag="Touche4" Content="4" Foreground=" White" FontSize="20" />
+                    <Button Margin="3" Template="{DynamicResource GlassButton}" Name="Btn5" Width="45" Height="45" Tag="Touche5" Content="5" Foreground=" White" FontSize="20" />
+                    <Button Margin="3" Template="{DynamicResource GlassButton}" Name="Btn6" Width="45" Height="45" Tag="Touche6" Content="6" Foreground=" White" FontSize="20" />
+            </StackPanel>
+            <StackPanel Orientation="Horizontal" >
+                    <Button Margin="3" Template="{DynamicResource GlassButton}" Name="Btn7" Width="45" Height="45" Tag="Touche7" Content="7" Foreground=" White" FontSize="20" />
+                    <Button Margin="3" Template="{DynamicResource GlassButton}" Name="Btn8" Width="45" Height="45" Tag="Touche8" Content="8" Foreground=" White" FontSize="20" />
+                    <Button Margin="3" Template="{DynamicResource GlassButton}" Name="Btn9" Width="45" Height="45" Tag="Touche9" Content="9" Foreground=" White" FontSize="20" />
+            </StackPanel>
+            <StackPanel Orientation="Horizontal" HorizontalAlignment="Center">
+                    <Button Margin="3" Template="{DynamicResource GlassButton}" Name="Btn0" Width="45" Height="45" Tag="Touche0" Content="0" Foreground=" White" FontSize="20" />
+             </StackPanel>
+        </StackPanel>
+            <StackPanel >
+                <Label Content="PROG" Margin="2" Foreground="DarkGray" HorizontalContentAlignment="Center" />
+                <Button Margin="3" Template="{DynamicResource GlassButton}" Name="BtnProgP" Width="45" Height="45" Tag="ProgPlus" Content="+" Foreground=" White" FontSize="20" />
+                <Button Margin="3" Template="{DynamicResource GlassButton}" Name="NA" Width="45" Height="45" Visibility="Hidden" >
+                    <Image Source="/HoMIWpF;component/Images/kmute.png" />
+                </Button>
+                <Button Margin="3" Template="{DynamicResource GlassButton}" Name="BtnProgM" Width="45" Height="45" Tag="ProgMoins" Content="-" Foreground=" White" FontSize="20" />
+            </StackPanel>
+
+        </StackPanel>
+    </Grid>
+</UserControl>
